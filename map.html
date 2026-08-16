@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>全球新闻地图 · 高信息密度版</title>
+<style>
+  html, body {
+    margin: 0; height: 100%; overflow: hidden;
+    background: radial-gradient(ellipse at 50% 40%, #101725 0%, #05070c 70%);
+    color: #e8e6e1;
+    font-family: "Noto Sans SC", "PingFang SC", sans-serif;
+  }
+  .stars {
+    position: fixed; inset: 0; z-index: 0; pointer-events: none;
+    background-image:
+      radial-gradient(1px 1px at 10% 15%, rgba(255,255,255,.8), transparent 40%),
+      radial-gradient(1px 1px at 26% 55%, rgba(255,255,255,.5), transparent 40%),
+      radial-gradient(1.5px 1.5px at 42% 28%, rgba(180,200,255,.7), transparent 40%),
+      radial-gradient(1px 1px at 58% 66%, rgba(255,255,255,.55), transparent 40%),
+      radial-gradient(1px 1px at 71% 18%, rgba(255,255,255,.7), transparent 40%),
+      radial-gradient(1.5px 1.5px at 86% 48%, rgba(180,200,255,.6), transparent 40%),
+      radial-gradient(1px 1px at 93% 80%, rgba(255,255,255,.5), transparent 40%),
+      radial-gradient(1px 1px at 14% 84%, rgba(255,255,255,.6), transparent 40%),
+      radial-gradient(1px 1px at 48% 8%, rgba(255,255,255,.65), transparent 40%),
+      radial-gradient(1px 1px at 66% 92%, rgba(255,255,255,.45), transparent 40%);
+  }
+  #globe { position: relative; z-index: 1; width: 100vw; height: 100vh; }
+  .header {
+    position: fixed; left: 22px; top: 22px; z-index: 20;
+    background: linear-gradient(160deg, rgba(20,24,32,.92), rgba(12,15,21,.9));
+    border: 1px solid #343d4c; border-radius: 14px; padding: 14px 18px;
+    box-shadow: 0 10px 34px rgba(0,0,0,.55); max-width: 320px;
+  }
+  .header h1 { margin: 0 0 6px; font-size: 18px; letter-spacing: .04em; }
+  .header .meta { color: #aab2bd; font-size: 12px; line-height: 1.7; }
+  .header .stats { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+  .stat-chip {
+    font-size: 11px; padding: 4px 8px; border-radius: 999px;
+    background: rgba(255,255,255,.05); border: 1px solid #3a414c; color: #cdd5df;
+  }
+  .legend {
+    position: fixed; left: 22px; bottom: 22px; z-index: 20;
+    background: linear-gradient(160deg, rgba(20,24,32,.9), rgba(12,15,21,.88));
+    border: 1px solid #343d4c; border-radius: 14px; padding: 12px 14px;
+    box-shadow: 0 10px 34px rgba(0,0,0,.55);
+  }
+  .legend h4 { margin: 0 0 8px; font-size: 12px; color: #aab2bd; }
+  .legend .rows { display: grid; grid-template-columns: repeat(2, minmax(130px, 1fr)); gap: 5px 12px; }
+  .legend .row { display: flex; align-items: center; gap: 6px; font-size: 11px; color: #cdd5df; }
+  .legend .dot { width: 8px; height: 8px; border-radius: 50%; flex: none; }
+  .legend .heat { display: flex; align-items: center; gap: 6px; margin-top: 8px; font-size: 11px; color: #cdd5df; }
+  .heat-bar { width: 90px; height: 6px; border-radius: 999px; background: linear-gradient(90deg, #2c3540, #7a3a2c, #e05a2c); }
+  #panel {
+    position: fixed; right: 30px; width: 300px; background: rgba(17,20,25,.94);
+    border: 1px solid #3a414c; border-radius: 14px; padding: 14px 16px;
+    box-shadow: 0 10px 34px rgba(0,0,0,.55); z-index: 20;
+    opacity: 0; visibility: hidden; transform: translateX(-42px) scale(.95);
+    transition: opacity .32s ease, transform .32s cubic-bezier(.2,.8,.2,1), visibility .32s;
+  }
+  #panel.show { opacity: 1; visibility: visible; transform: none; }
+  #panel::before {
+    content: ""; position: absolute; left: -11px; top: var(--tail-y, 50%);
+    border: 11px solid transparent; border-right-color: rgba(17,20,25,.94);
+    filter: drop-shadow(-2px 0 4px rgba(0,0,0,.35));
+  }
+  #panel h3 { margin: 0 0 6px; font-size: 17px; }
+  #panel .cnt { font-size: 12px; color: #ffb454; margin: 0 0 8px; }
+  #panel p { margin: 0; font-size: 13px; color: #aab2bd; }
+  #panel ul {
+    padding-left: 18px; margin: 8px 0 0; font-size: 12px; line-height: 1.7;
+    color: #cdd5df; max-height: 190px; overflow-y: auto;
+  }
+  .tip { position: fixed; right: 22px; bottom: 22px; z-index: 20; font-size: 12px; color: #6b7480; }
+  .globe-tooltip {
+    background: rgba(10,12,16,.95); border: 1px solid #3a414c; border-radius: 10px;
+    padding: 8px 10px; font-size: 12px; color: #e8e6e1; max-width: 240px;
+  }
+  .timeline-ctrl {
+    position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); z-index: 25;
+    display: flex; align-items: center; gap: 12px;
+    background: linear-gradient(160deg, rgba(20,24,32,.92), rgba(12,15,21,.9));
+    border: 1px solid #343d4c; border-radius: 999px; padding: 10px 16px;
+    box-shadow: 0 10px 34px rgba(0,0,0,.55);
+  }
+  .timeline-ctrl .tl-label {
+    font-size: 12px; color: #cdd5df; white-space: nowrap; font-variant-numeric: tabular-nums;
+  }
+  .timeline-ctrl input[type="range"] {
+    width: 260px; accent-color: #ffb454; cursor: pointer;
+  }
+  .timeline-ctrl .tl-hint {
+    font-size: 11px; color: #6b7480; white-space: nowrap;
+  }
+  @media (max-width: 720px) {
+    .timeline-ctrl { gap: 8px; padding: 8px 12px; }
+    .timeline-ctrl input[type="range"] { width: 140px; }
+    .timeline-ctrl .tl-hint { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="stars"></div>
+<div class="header">
+  <h1>🌍 全球新闻地图</h1>
+  <div class="meta">2026-08-13 ~ 2026-08-14 ~ 2026-08-15 ~ 2026-08-16 · 共 446 条 · 标出 34 个国家</div>
+  <div class="stats">
+    <span class="stat-chip">🔥 冲突相关 156 条</span>
+    <span class="stat-chip">📍 热点国家 8 个</span>
+    <span class="stat-chip">🗂 15 领域着色</span>
+  </div>
+</div>
+<div id="globe"></div>
+<div class="timeline-ctrl" id="timelineCtrl" style="display:none">
+  <span class="tl-label" id="tlLabel">—</span>
+  <input type="range" id="tlRange" min="0" max="0" step="1" value="0" />
+  <span class="tl-hint">拖动回看</span>
+</div>
+<div id="panel"></div>
+<div class="legend">
+  <h4>领域着色</h4>
+  <div class="rows">
+    <div class="row"><span class="dot" style="background:#ff5f56"></span>国际形势 / 国防 / 焦点</div>
+    <div class="row"><span class="dot" style="background:#f2c14e"></span>金融</div>
+    <div class="row"><span class="dot" style="background:#4dd2ff"></span>AI 行业</div>
+    <div class="row"><span class="dot" style="background:#4dd2a5"></span>能源与新材料</div>
+    <div class="row"><span class="dot" style="background:#e05a8a"></span>医疗健康</div>
+    <div class="row"><span class="dot" style="background:#9aa7b4"></span>其他领域</div>
+  </div>
+  <div class="heat"><span>冲突热度</span><span class="heat-bar"></span><span>低 → 高</span></div>
+</div>
+<div class="tip">脉冲环 = 地缘冲突热点 · 拖拽旋转 / 滚轮缩放 · 松手停稳后弹出朝外国家信息</div>
+
+<script src="https://cdn.jsdelivr.net/npm/globe.gl/dist/globe.gl.min.js"></script>
+<script>
+const points = [{"country": "中国", "lat": 35.0, "lng": 105.0, "count": 118, "titles": ["央行将开展四次隔夜逆回购操作", "平陆运河实船试验正式启动", "廖岷出席2026年首次金砖国家财长和央行行长会议", "关于开展2026年数字化美育资源征集工作的通知（转发）", "山东：严禁教师以AI工具直接替代备课授课、学生以AI工具直接代写作业", "同济大学徐涛团队在《Nature Synthesis》报道多官能膦体系实现烯烃正交氢化"], "domain": "国内民生新闻", "color": "#c9a15a"}, {"country": "美国", "lat": 39.8, "lng": -98.5, "count": 49, "titles": ["以色列在美国支持的采购行动中接收数千吨军事装备", "美军「阿帕奇」直升机坠毁，两人死亡", "特朗普押注对伊朗施压经济而非外交或新打击", "金价站上4400美元创两个月新高", "Parsons获7000万美元合同推进欧洲和非洲空军基地防空能力", "RTX获最高7.454亿美元SM-3 Block IIA拦截弹生产合同"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "伊朗", "lat": 32.4, "lng": 53.7, "count": 10, "titles": ["2026年度国家自然科学基金委员会与伊朗国家科学基金会双边研讨会项目指南", "阿联酋指控伊朗在霍尔木兹海峡袭击两艘ADNOC油轮", "伊朗与塔吉克斯坦达成长期石油合作协议", "伊朗总统称绝不会违抗最高领袖", "伊朗与阿曼就霍尔木兹海峡航行路线图达成一致", "阿联酋指责伊朗袭击霍尔木兹海峡油轮"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "俄罗斯", "lat": 61.0, "lng": 99.0, "count": 8, "titles": ["俄罗斯与乌克兰再次交换阵亡士兵遗体", "美国就普京访问争议岛屿表态支持日本", "俄罗斯人在乌克兰“墓地”上抢购新房", "俄罗斯试图破坏摩尔多瓦亲西方政府", "新罗西斯克石油码头遭无人机袭击后暂停运营", "金正恩回电普京：展望朝俄美好未来时感到自豪"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "日本", "lat": 36.2, "lng": 138.2, "count": 6, "titles": ["RIKEN 开发用于高效 C–H 硼化的固体催化剂", "印尼强震已致 20 人遇难，引发大规模疏散", "日本民众冒雨游行抗议右翼政客“拜鬼”", "日本无条件投降 81 周年之际 一批日本侵华资料入藏南京", "村上宗隆第 27 支本垒打，山本由伸第 12 胜", "韩国举行“光复节”纪念鸣钟仪式"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "韩国", "lat": 36.5, "lng": 127.8, "count": 6, "titles": ["韩国提议就正式结束朝鲜战争进行谈判", "韩国总统李在明宣布追缴亲日反民族行为者财产", "韩国股市暴跌，散户投资者损失惨重", "韩国总统提议与朝鲜对话以正式结束朝鲜战争", "韩总统“光复节”演讲称将扩大日韩合作", "韩国西江大学 18 万条个人信息泄露 朴槿惠或在其中"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "印度", "lat": 21.0, "lng": 78.0, "count": 5, "titles": ["外交部：中印同意保持外交军事渠道沟通，共同维护边境地区和平安宁", "印尼东部 7.7 级地震已致至少 38 人遇难", "印尼弗洛勒斯岛海域 7.7 级强震已致 47 人遇难", "也门摩卡港遭胡塞武装袭击 运营全面停止", "印度尼西亚地震（GDACS红色警报）"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "哥伦比亚", "lat": 4.6, "lng": -74.3, "count": 4, "titles": ["哥伦比亚强震死亡人数升至273人", "哥伦比亚强震已致 294 人遇难", "两栋楼的故事：哥伦比亚与委内瑞拉地震救援的差异", "哥伦比亚因地震受创，请求特朗普暂停关税"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "澳大利亚", "lat": -25.0, "lng": 134.0, "count": 4, "titles": ["海辰储能获澳大利亚421MWh大型储能项目", "澳研究人员利用干细胞培育出人类心脏瓣膜组织", "澳大利亚新南威尔士州将启动枪支回购计划", "澳大利亚首次确认小企鹅死于 H5 禽流感，菲利普岛加速疫苗接种"], "domain": "能源与新材料", "color": "#4dd2a5"}, {"country": "也门", "lat": 15.5, "lng": 47.6, "count": 4, "titles": ["联合国安理会举行也门问题公开会 中方呼吁冷静克制", "联合国特使警告也门面临重新陷入大规模冲突风险", "也门政府称胡塞武装袭击马里卜居民区", "也门政府称胡塞武装袭击马里卜居民区"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "以色列", "lat": 31.0, "lng": 34.8, "count": 4, "titles": ["以色列空袭黎巴嫩南部致七人死亡，黎总理谴责", "活动人士试图向被以色列定居者围困的巴勒斯坦家庭运送援助", "以色列正试图操控人工智能关于加沙议题的输出内容", "伊朗战争直播：霍尔木兹海峡谈判继续；以色列在黎巴嫩杀死11人"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "法国", "lat": 46.2, "lng": 2.2, "count": 4, "titles": ["法国最高法阻止 15 岁以下社交媒体禁令", "中方团队在全球最大“人造太阳”壁处理领域实现技术链条贯通", "法国多地林火狂烧 马克龙骑水上摩托车照片掀争议", "比利时热浪致死：欧洲应对高温准备不足的警示"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "乌克兰", "lat": 49.0, "lng": 31.0, "count": 3, "titles": ["意大利为乌克兰生产弹药的军工厂发生剧烈爆炸", "爱国者制造商对乌克兰生产协议持观望态度，官员质疑拖延原因", "基辅 16 日响起多次爆炸声"], "domain": "国防/军工动态", "color": "#ff8c42"}, {"country": "阿富汗", "lat": 33.9, "lng": 67.7, "count": 3, "titles": ["阿富汗女性：塔利班统治五年后生活面目全非", "塔利班掌权五年：根深蒂固、四面楚歌、依然桀骜不驯", "阿富汗纪念塔利班执政五周年：安全改善但就业与教育呼声不断"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "厄瓜多尔", "lat": -1.8, "lng": -78.2, "count": 3, "titles": ["厄瓜多尔总统诺沃亚抵达北京 开启访华行程", "厄瓜多尔总统诺沃亚抵达北京开始访华", "厄瓜多尔总统抵京开始访华"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "沙特阿拉伯", "lat": 24.0, "lng": 45.0, "count": 2, "titles": ["安理会直播：不断升级的袭击威胁也门和平", "沙特王储与美军中央司令部司令讨论地区降级努力"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "比利时", "lat": 50.5, "lng": 4.5, "count": 2, "titles": ["比利时建筑工人意外发现墙内藏有价值 900 万欧元黄金", "比利时自然保护区野火肆虐，数千公顷被毁"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "刚果（金）", "lat": -2.9, "lng": 23.7, "count": 2, "titles": ["刚果（金）埃博拉疫情为何持续恶化？", "刚果（金）埃博拉疫情：每 30 分钟一人死亡"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "德国", "lat": 51.0, "lng": 10.0, "count": 2, "titles": ["德国告别历史摆脱禁忌 再军事化撬动欧洲格局", "德国阿尔特马克锂项目启动二期试验，首测赢创吸附剂"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "巴勒斯坦", "lat": 31.9, "lng": 35.2, "count": 1, "titles": ["约旦河西岸古斯拉村巴勒斯坦居民房屋遭定居者围困、被要求离开"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "哈萨克斯坦", "lat": 48.0, "lng": 67.0, "count": 1, "titles": ["托卡耶夫应特朗普邀请出席G20峰会"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "拉脱维亚", "lat": 56.9, "lng": 24.6, "count": 1, "titles": ["北约战机击落进入拉脱维亚领空的无人机"], "domain": "国防/军工动态", "color": "#ff8c42"}, {"country": "南非", "lat": -30.6, "lng": 22.9, "count": 1, "titles": ["南非总统在德班发表SADC峰会公开演讲"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "摩洛哥", "lat": 31.8, "lng": -7.1, "count": 1, "titles": ["Instagram 账户助长休达危机：付费提供越境建议"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "克罗地亚", "lat": 45.1, "lng": 15.2, "count": 1, "titles": ["克罗地亚奥米什附近山火致数十人受伤，数千人撤离"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "泰国", "lat": 15.0, "lng": 101.0, "count": 1, "titles": ["泰国帕岸岛：父子三人漂流 16 小时后获救"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "越南", "lat": 16.0, "lng": 108.0, "count": 1, "titles": ["苏林访问澳新，越南想“多留一手”？"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "赞比亚", "lat": -13.1, "lng": 27.8, "count": 1, "titles": ["赞比亚恢复计票：选举委员会称暴力导致已标记选票被盗"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "意大利", "lat": 42.8, "lng": 12.8, "count": 1, "titles": ["意大利博物馆价值 900 万欧元艺术品被盗后追回"], "domain": "文体与社会热点", "color": "#d080a0"}, {"country": "匈牙利", "lat": 47.2, "lng": 19.5, "count": 1, "titles": ["匈牙利总理：已开始沉船作业抬升水位 保障核电站运行"], "domain": "能源与新材料", "color": "#4dd2a5"}, {"country": "蒙古", "lat": 46.9, "lng": 103.8, "count": 1, "titles": ["从黑老夭中学教师到通辽书记 内蒙古 63 岁厅官冯玉臻被查"], "domain": "国内民生新闻", "color": "#c9a15a"}, {"country": "西班牙", "lat": 40.0, "lng": -3.7, "count": 1, "titles": ["摩洛哥警方逮捕逾百名试图进入休达的移民"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "印度尼西亚", "lat": -0.8, "lng": 113.9, "count": 1, "titles": ["印尼中苏拉威西省附近海域发生 6.2 级地震"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "津巴布韦", "lat": -19.0, "lng": 29.2, "count": 1, "titles": ["津巴布韦卡里巴湖船只倾覆事故死亡人数升至 68 人"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}];
+const rings = [{"country": "美国", "lat": 39.8, "lng": -98.5, "count": 40}, {"country": "中国", "lat": 35.0, "lng": 105.0, "count": 9}, {"country": "伊朗", "lat": 32.4, "lng": 53.7, "count": 9}, {"country": "俄罗斯", "lat": 61.0, "lng": 99.0, "count": 8}, {"country": "印度", "lat": 21.0, "lng": 78.0, "count": 5}, {"country": "韩国", "lat": 36.5, "lng": 127.8, "count": 5}, {"country": "哥伦比亚", "lat": 4.6, "lng": -74.3, "count": 4}, {"country": "也门", "lat": 15.5, "lng": 47.6, "count": 4}];
+const labels = [{"country": "中国", "lat": 35.0, "lng": 105.0, "count": 118}, {"country": "美国", "lat": 39.8, "lng": -98.5, "count": 49}, {"country": "伊朗", "lat": 32.4, "lng": 53.7, "count": 10}, {"country": "俄罗斯", "lat": 61.0, "lng": 99.0, "count": 8}, {"country": "日本", "lat": 36.2, "lng": 138.2, "count": 6}, {"country": "韩国", "lat": 36.5, "lng": 127.8, "count": 6}, {"country": "印度", "lat": 21.0, "lng": 78.0, "count": 5}, {"country": "哥伦比亚", "lat": 4.6, "lng": -74.3, "count": 4}, {"country": "澳大利亚", "lat": -25.0, "lng": 134.0, "count": 4}, {"country": "也门", "lat": 15.5, "lng": 47.6, "count": 4}];
+const enHeat = {"United States of America": 100, "China": 22, "Iran": 22, "Russia": 20, "India": 12, "South Korea": 12, "Colombia": 10, "Yemen": 10, "Israel": 10, "Ukraine": 8, "Afghanistan": 8, "Japan": 8};
+const dailyPoints = {"2026-08-13": [{"country": "中国", "lat": 35.0, "lng": 105.0, "count": 16, "titles": ["央行将开展四次隔夜逆回购操作", "平陆运河实船试验正式启动", "廖岷出席2026年首次金砖国家财长和央行行长会议", "关于开展2026年数字化美育资源征集工作的通知（转发）", "山东：严禁教师以AI工具直接替代备课授课、学生以AI工具直接代写作业", "同济大学徐涛团队在《Nature Synthesis》报道多官能膦体系实现烯烃正交氢化"], "domain": "重大政策（国内）", "color": "#b07ad0"}, {"country": "美国", "lat": 39.8, "lng": -98.5, "count": 4, "titles": ["以色列在美国支持的采购行动中接收数千吨军事装备", "美军「阿帕奇」直升机坠毁，两人死亡", "特朗普押注对伊朗施压经济而非外交或新打击", "金价站上4400美元创两个月新高"], "domain": "国防/军工动态", "color": "#ff8c42"}, {"country": "乌克兰", "lat": 49.0, "lng": 31.0, "count": 1, "titles": ["意大利为乌克兰生产弹药的军工厂发生剧烈爆炸"], "domain": "国防/军工动态", "color": "#ff8c42"}, {"country": "俄罗斯", "lat": 61.0, "lng": 99.0, "count": 1, "titles": ["俄罗斯与乌克兰再次交换阵亡士兵遗体"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "印度", "lat": 21.0, "lng": 78.0, "count": 1, "titles": ["外交部：中印同意保持外交军事渠道沟通，共同维护边境地区和平安宁"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "巴勒斯坦", "lat": 31.9, "lng": 35.2, "count": 1, "titles": ["约旦河西岸古斯拉村巴勒斯坦居民房屋遭定居者围困、被要求离开"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "沙特阿拉伯", "lat": 24.0, "lng": 45.0, "count": 1, "titles": ["安理会直播：不断升级的袭击威胁也门和平"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "哈萨克斯坦", "lat": 48.0, "lng": 67.0, "count": 1, "titles": ["托卡耶夫应特朗普邀请出席G20峰会"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "哥伦比亚", "lat": 4.6, "lng": -74.3, "count": 1, "titles": ["哥伦比亚强震死亡人数升至273人"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "日本", "lat": 36.2, "lng": 138.2, "count": 1, "titles": ["RIKEN 开发用于高效 C–H 硼化的固体催化剂"], "domain": "有机合成重大进展", "color": "#5ab88a"}, {"country": "伊朗", "lat": 32.4, "lng": 53.7, "count": 1, "titles": ["2026年度国家自然科学基金委员会与伊朗国家科学基金会双边研讨会项目指南"], "domain": "科研与科技政策", "color": "#6b9ed0"}, {"country": "澳大利亚", "lat": -25.0, "lng": 134.0, "count": 1, "titles": ["海辰储能获澳大利亚421MWh大型储能项目"], "domain": "能源与新材料", "color": "#4dd2a5"}], "2026-08-14": [{"country": "中国", "lat": 35.0, "lng": 105.0, "count": 19, "titles": ["消息称苹果专门针对中国市场训练 AI 模型，由阿里提供支持", "上海多区预警齐发，太湖紧急封航", "受台风\"白海豚\"残涡影响 扬州今天有大到暴雨", "河北承德市滦平县发生2.4级地震 震源深度18千米", "河南贾鲁河周口川汇区段出现溃口", "河南贾鲁河溃口连夜封堵：省长现场指挥，中国安能200人驰援"], "domain": "国内民生新闻", "color": "#c9a15a"}, {"country": "美国", "lat": 39.8, "lng": -98.5, "count": 8, "titles": ["Parsons获7000万美元合同推进欧洲和非洲空军基地防空能力", "RTX获最高7.454亿美元SM-3 Block IIA拦截弹生产合同", "美军宣布启动组建首支多国无人机特遣部队", "美国国务院批准向挪威出售155毫米炮弹", "美国称数十国帮助中国规避特朗普关税", "联合国秘书长呼吁美伊重返谈判"], "domain": "国防/军工动态", "color": "#ff8c42"}, {"country": "也门", "lat": 15.5, "lng": 47.6, "count": 2, "titles": ["联合国安理会举行也门问题公开会 中方呼吁冷静克制", "联合国特使警告也门面临重新陷入大规模冲突风险"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "拉脱维亚", "lat": 56.9, "lng": 24.6, "count": 1, "titles": ["北约战机击落进入拉脱维亚领空的无人机"], "domain": "国防/军工动态", "color": "#ff8c42"}, {"country": "沙特阿拉伯", "lat": 24.0, "lng": 45.0, "count": 1, "titles": ["沙特王储与美军中央司令部司令讨论地区降级努力"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "俄罗斯", "lat": 61.0, "lng": 99.0, "count": 1, "titles": ["美国就普京访问争议岛屿表态支持日本"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "伊朗", "lat": 32.4, "lng": 53.7, "count": 1, "titles": ["阿联酋指控伊朗在霍尔木兹海峡袭击两艘ADNOC油轮"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "南非", "lat": -30.6, "lng": 22.9, "count": 1, "titles": ["南非总统在德班发表SADC峰会公开演讲"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}], "2026-08-15": [{"country": "中国", "lat": 35.0, "lng": 105.0, "count": 27, "titles": ["LLM 辅助合同网协议的多智能体流处理调度", "Qwen 3.8 27B 本地模型获社区好评", "“千问办公”首发上线 GLM-5.3、DeepSeek V4 Pro 两款模型", "未来 10 天华南或成降水最多区域 江南、华南下周高温范围扩大", "联想集团刘军：AI PC 国内市场销量占比过半", "北京 11 家市属公园加入京津冀旅游景区联票"], "domain": "国内民生新闻", "color": "#c9a15a"}, {"country": "美国", "lat": 39.8, "lng": -98.5, "count": 9, "titles": ["BBC 寻求传唤特朗普家庭成员参与 Panorama 诉讼", "许多加拿大人抵制美国旅游，转而选择其他目的地", "没完没了！中方试射，澳总理跟特朗普“告状”", "美国“林肯”号航母因生活条件问题将被替换", "从《欢迎来到龙餐馆》看伊拉克战争：为何国人既恨萨达姆又反美国插手？", "伊朗司法总监回应特朗普：霍尔木兹海峡属于伊朗"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "伊朗", "lat": 32.4, "lng": 53.7, "count": 3, "titles": ["伊朗与塔吉克斯坦达成长期石油合作协议", "伊朗总统称绝不会违抗最高领袖", "伊朗与阿曼就霍尔木兹海峡航行路线图达成一致"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "韩国", "lat": 36.5, "lng": 127.8, "count": 3, "titles": ["韩国提议就正式结束朝鲜战争进行谈判", "韩国总统李在明宣布追缴亲日反民族行为者财产", "韩国股市暴跌，散户投资者损失惨重"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "以色列", "lat": 31.0, "lng": 34.8, "count": 2, "titles": ["以色列空袭黎巴嫩南部致七人死亡，黎总理谴责", "活动人士试图向被以色列定居者围困的巴勒斯坦家庭运送援助"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "法国", "lat": 46.2, "lng": 2.2, "count": 2, "titles": ["法国最高法阻止 15 岁以下社交媒体禁令", "中方团队在全球最大“人造太阳”壁处理领域实现技术链条贯通"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "摩洛哥", "lat": 31.8, "lng": -7.1, "count": 1, "titles": ["Instagram 账户助长休达危机：付费提供越境建议"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "克罗地亚", "lat": 45.1, "lng": 15.2, "count": 1, "titles": ["克罗地亚奥米什附近山火致数十人受伤，数千人撤离"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "比利时", "lat": 50.5, "lng": 4.5, "count": 1, "titles": ["比利时建筑工人意外发现墙内藏有价值 900 万欧元黄金"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "泰国", "lat": 15.0, "lng": 101.0, "count": 1, "titles": ["泰国帕岸岛：父子三人漂流 16 小时后获救"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "越南", "lat": 16.0, "lng": 108.0, "count": 1, "titles": ["苏林访问澳新，越南想“多留一手”？"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "赞比亚", "lat": -13.1, "lng": 27.8, "count": 1, "titles": ["赞比亚恢复计票：选举委员会称暴力导致已标记选票被盗"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "澳大利亚", "lat": -25.0, "lng": 134.0, "count": 1, "titles": ["澳研究人员利用干细胞培育出人类心脏瓣膜组织"], "domain": "医疗健康/生物医药", "color": "#e05a8a"}, {"country": "阿富汗", "lat": 33.9, "lng": 67.7, "count": 1, "titles": ["阿富汗女性：塔利班统治五年后生活面目全非"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "意大利", "lat": 42.8, "lng": 12.8, "count": 1, "titles": ["意大利博物馆价值 900 万欧元艺术品被盗后追回"], "domain": "文体与社会热点", "color": "#d080a0"}, {"country": "匈牙利", "lat": 47.2, "lng": 19.5, "count": 1, "titles": ["匈牙利总理：已开始沉船作业抬升水位 保障核电站运行"], "domain": "能源与新材料", "color": "#4dd2a5"}], "2026-08-16": [{"country": "中国", "lat": 35.0, "lng": 105.0, "count": 56, "titles": ["中国特稿：中国缩小与美国前沿差距引恐慌 华盛顿祭出防堵大招 硅谷 AI 罕见降价应战", "北京发布生态报告以巩固南海主张，中美争端升级", "台湾无人机防御不足，审计揭示技术短板", "塞尔比与泰国“黑马”桑卡姆会师斯诺克中国公开赛决赛", "广东中山一条河的四年“蝶变”：从“被点名”到“被点赞”", "菲防长称中国使馆官员介入菲执法行动 中使馆发言人驳斥 - bjnews.com.cn"], "domain": "国内民生新闻", "color": "#c9a15a"}, {"country": "美国", "lat": 39.8, "lng": -98.5, "count": 28, "titles": ["路透：美国将告知合作伙伴必须在与中国的AI竞赛中选边站", "加州应对多起野火，消防员队伍面临压力", "美国要求盟友在中美 AI 竞赛中选边站", "印度尼西亚强震致 47 人死亡，救援人员搜寻幸存者", "哥伦比亚请求特朗普暂停关税以应对地震重建", "美国中西部面临更多洪水，印第安纳州寻求联邦援助"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "俄罗斯", "lat": 61.0, "lng": 99.0, "count": 6, "titles": ["俄罗斯人在乌克兰“墓地”上抢购新房", "俄罗斯试图破坏摩尔多瓦亲西方政府", "新罗西斯克石油码头遭无人机袭击后暂停运营", "金正恩回电普京：展望朝俄美好未来时感到自豪", "俄罗斯油轮泄漏污染阿曼海岸线，清理工作正在进行", "感谢普京发贺电 金正恩：对朝俄两国美好未来感自豪"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "伊朗", "lat": 32.4, "lng": 53.7, "count": 5, "titles": ["阿联酋指责伊朗袭击霍尔木兹海峡油轮", "伊朗战事延宕 美航母部署时长恐将再刷纪录", "伊朗和平谈判命运未卜，停火期限临近", "伊朗战争直播：霍尔木兹海峡谈判继续；以色列在黎巴嫩杀害 11 人", "卡塔尔否认扣押三名伊朗飞行员"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "日本", "lat": 36.2, "lng": 138.2, "count": 5, "titles": ["印尼强震已致 20 人遇难，引发大规模疏散", "日本民众冒雨游行抗议右翼政客“拜鬼”", "日本无条件投降 81 周年之际 一批日本侵华资料入藏南京", "村上宗隆第 27 支本垒打，山本由伸第 12 胜", "韩国举行“光复节”纪念鸣钟仪式"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "印度", "lat": 21.0, "lng": 78.0, "count": 4, "titles": ["印尼东部 7.7 级地震已致至少 38 人遇难", "印尼弗洛勒斯岛海域 7.7 级强震已致 47 人遇难", "也门摩卡港遭胡塞武装袭击 运营全面停止", "印度尼西亚地震（GDACS红色警报）"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "哥伦比亚", "lat": 4.6, "lng": -74.3, "count": 3, "titles": ["哥伦比亚强震已致 294 人遇难", "两栋楼的故事：哥伦比亚与委内瑞拉地震救援的差异", "哥伦比亚因地震受创，请求特朗普暂停关税"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "厄瓜多尔", "lat": -1.8, "lng": -78.2, "count": 3, "titles": ["厄瓜多尔总统诺沃亚抵达北京 开启访华行程", "厄瓜多尔总统诺沃亚抵达北京开始访华", "厄瓜多尔总统抵京开始访华"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "韩国", "lat": 36.5, "lng": 127.8, "count": 3, "titles": ["韩国总统提议与朝鲜对话以正式结束朝鲜战争", "韩总统“光复节”演讲称将扩大日韩合作", "韩国西江大学 18 万条个人信息泄露 朴槿惠或在其中"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "以色列", "lat": 31.0, "lng": 34.8, "count": 2, "titles": ["以色列正试图操控人工智能关于加沙议题的输出内容", "伊朗战争直播：霍尔木兹海峡谈判继续；以色列在黎巴嫩杀死11人"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "澳大利亚", "lat": -25.0, "lng": 134.0, "count": 2, "titles": ["澳大利亚新南威尔士州将启动枪支回购计划", "澳大利亚首次确认小企鹅死于 H5 禽流感，菲利普岛加速疫苗接种"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "刚果（金）", "lat": -2.9, "lng": 23.7, "count": 2, "titles": ["刚果（金）埃博拉疫情为何持续恶化？", "刚果（金）埃博拉疫情：每 30 分钟一人死亡"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "乌克兰", "lat": 49.0, "lng": 31.0, "count": 2, "titles": ["爱国者制造商对乌克兰生产协议持观望态度，官员质疑拖延原因", "基辅 16 日响起多次爆炸声"], "domain": "国防/军工动态", "color": "#ff8c42"}, {"country": "德国", "lat": 51.0, "lng": 10.0, "count": 2, "titles": ["德国告别历史摆脱禁忌 再军事化撬动欧洲格局", "德国阿尔特马克锂项目启动二期试验，首测赢创吸附剂"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "也门", "lat": 15.5, "lng": 47.6, "count": 2, "titles": ["也门政府称胡塞武装袭击马里卜居民区", "也门政府称胡塞武装袭击马里卜居民区"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "法国", "lat": 46.2, "lng": 2.2, "count": 2, "titles": ["法国多地林火狂烧 马克龙骑水上摩托车照片掀争议", "比利时热浪致死：欧洲应对高温准备不足的警示"], "domain": "国内民生新闻", "color": "#c9a15a"}, {"country": "阿富汗", "lat": 33.9, "lng": 67.7, "count": 2, "titles": ["塔利班掌权五年：根深蒂固、四面楚歌、依然桀骜不驯", "阿富汗纪念塔利班执政五周年：安全改善但就业与教育呼声不断"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "蒙古", "lat": 46.9, "lng": 103.8, "count": 1, "titles": ["从黑老夭中学教师到通辽书记 内蒙古 63 岁厅官冯玉臻被查"], "domain": "国内民生新闻", "color": "#c9a15a"}, {"country": "西班牙", "lat": 40.0, "lng": -3.7, "count": 1, "titles": ["摩洛哥警方逮捕逾百名试图进入休达的移民"], "domain": "国际形势", "color": "#ff5f56"}, {"country": "比利时", "lat": 50.5, "lng": 4.5, "count": 1, "titles": ["比利时自然保护区野火肆虐，数千公顷被毁"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "印度尼西亚", "lat": -0.8, "lng": 113.9, "count": 1, "titles": ["印尼中苏拉威西省附近海域发生 6.2 级地震"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}, {"country": "津巴布韦", "lat": -19.0, "lng": 29.2, "count": 1, "titles": ["津巴布韦卡里巴湖船只倾覆事故死亡人数升至 68 人"], "domain": "国际焦点事件、重大会议", "color": "#ffb454"}]};
+const panel = document.getElementById('panel');
+const tlCtrl = document.getElementById('timelineCtrl');
+const tlRange = document.getElementById('tlRange');
+const tlLabel = document.getElementById('tlLabel');
+const dayKeys = Object.keys(dailyPoints || {}).sort();
+
+function heatColor(v) {
+  if (v >= 75) return 'rgba(224,90,44,0.82)';
+  if (v >= 50) return 'rgba(176,74,44,0.66)';
+  if (v >= 25) return 'rgba(122,58,44,0.48)';
+  return 'rgba(44,53,64,0.35)';
+}
+
+function hidePanel() {
+  panel.classList.remove('show');
+}
+
+function cross(ax, ay, az, bx, by, bz) {
+  return { x: ay * bz - az * by, y: az * bx - ax * bz, z: ax * by - ay * bx };
+}
+
+function projectPoint(d) {
+  const c = globe.getCoords(d.lat, d.lng, 0.02);
+  const cam = globe.camera().position;
+  const up = globe.camera().up || { x: 0, y: 1, z: 0 };
+
+  // 视线基：相机看向原点
+  let fx = -cam.x, fy = -cam.y, fz = -cam.z;
+  const fl = Math.sqrt(fx * fx + fy * fy + fz * fz) || 1;
+  fx /= fl; fy /= fl; fz /= fl;
+  let rx = fy * up.z - fz * up.y;
+  let ry = fz * up.x - fx * up.z;
+  let rz = fx * up.y - fy * up.x;
+  const rl = Math.sqrt(rx * rx + ry * ry + rz * rz) || 1;
+  rx /= rl; ry /= rl; rz /= rl;
+  const ux = ry * fz - rz * fy;
+  const uy = rz * fx - rx * fz;
+  const uz = rx * fy - ry * fx;
+
+  const dx = (c.x - cam.x) * rx + (c.y - cam.y) * ry + (c.z - cam.z) * rz;
+  const dy = (c.x - cam.x) * ux + (c.y - cam.y) * uy + (c.z - cam.z) * uz;
+  const dz = (c.x - cam.x) * fx + (c.y - cam.y) * fy + (c.z - cam.z) * fz;
+  if (dz <= 0.1) return null;
+
+  const f = 1 / Math.tan((globe.camera().fov * Math.PI) / 360);
+  const aspect = window.innerWidth / window.innerHeight;
+  const ndcX = (dx / dz) * f / aspect;
+  const ndcY = (dy / dz) * f;
+  return {
+    x: ((ndcX + 1) / 2) * window.innerWidth,
+    y: ((1 - ndcY) / 2) * window.innerHeight,
+  };
+}
+
+function showPanel(d) {
+  const titles = (d.titles || []).map(t => '<li>' + t + '</li>').join('');
+  panel.innerHTML = '<h3>' + d.country + '</h3><p class="cnt">新闻条数：' + d.count + ' · 主领域：' + (d.domain || '其他') + '</p><ul>' + titles + '</ul>';
+
+  const proj = projectPoint(d);
+  if (proj) {
+    const panelW = 300;
+    const panelH = Math.min(340, 110 + (d.titles || []).length * 44);
+    let top = proj.y - panelH / 2;
+    top = Math.max(12, Math.min(window.innerHeight - panelH - 12, top));
+    panel.style.top = top + 'px';
+    const tailY = Math.max(24, Math.min(panelH - 24, proj.y - top));
+    panel.style.setProperty('--tail-y', tailY + 'px');
+  } else {
+    panel.style.top = '22px';
+  }
+  panel.classList.add('show');
+}
+
+function frontPoint() {
+  const cam = globe.camera().position;
+  const cl = Math.sqrt(cam.x * cam.x + cam.y * cam.y + cam.z * cam.z) || 1;
+  const cx = cam.x / cl, cy = cam.y / cl, cz = cam.z / cl;
+  let best = null;
+  let bestDot = -Infinity;
+  for (const p of points) {
+    const c = globe.getCoords(p.lat, p.lng, 0.02);
+    const len = Math.sqrt(c.x * c.x + c.y * c.y + c.z * c.z) || 1;
+    const dot = (c.x * cx + c.y * cy + c.z * cz) / len;
+    if (dot > bestDot) {
+      bestDot = dot;
+      best = p;
+    }
+  }
+  return best;
+}
+
+const globe = Globe()(document.getElementById('globe'))
+  .globeImageUrl('https://unpkg.com/three-globe/example/img/earth-night.jpg')
+  .backgroundColor('rgba(0,0,0,0)')
+  .showAtmosphere(true)
+  .atmosphereColor('#2f5d8a')
+  .atmosphereAltitude(0.22)
+  .width(window.innerWidth)
+  .height(window.innerHeight)
+  .pointsData(points)
+  .pointLat(d => d.lat)
+  .pointLng(d => d.lng)
+  .pointColor(d => d.color)
+  .pointRadius(d => 0.35 + Math.sqrt(d.count) * 0.13)
+  .pointAltitude(d => 0.012 + Math.min(d.count, 40) * 0.003)
+  .pointLabel(d => '<div class="globe-tooltip"><b>' + d.country + '</b> · ' + d.count + ' 条<br>' + (d.domain || '') + '</div>')
+  .ringsData(rings)
+  .ringLat(d => d.lat)
+  .ringLng(d => d.lng)
+  .ringColor(() => t => 'rgba(255,90,60,' + (1 - t) + ')')
+  .ringMaxRadius(d => 2 + Math.sqrt(d.count) * 0.5)
+  .ringPropagationSpeed(1.1)
+  .ringRepeatPeriod(900);
+
+// 时间轴：按天回看各国新闻量
+if (dayKeys.length > 1) {
+  tlCtrl.style.display = 'flex';
+  tlRange.max = dayKeys.length - 1;
+  const updateDay = (i) => {
+    const day = dayKeys[i];
+    const pts = dailyPoints[day] || [];
+    globe.pointsData(pts);
+    tlLabel.textContent = day + ' · ' + pts.length + ' 国有新闻';
+  };
+  tlRange.addEventListener('input', () => updateDay(Number(tlRange.value)));
+  tlRange.value = dayKeys.length - 1;
+  updateDay(dayKeys.length - 1);
+}
+
+// 自动缓慢巡航；用户一拖就停，松手停稳后弹对话框
+const controls = globe.controls();
+controls.autoRotate = true;
+controls.autoRotateSpeed = 0.35;
+controls.addEventListener('start', () => {
+  controls.autoRotate = false;
+  hidePanel();
+});
+controls.addEventListener('end', () => {
+  const d = frontPoint();
+  if (d) showPanel(d);
+});
+
+// 冲突热度多边形（在线加载 GeoJSON，失败自动降级为纯点模式）
+fetch('https://raw.githubusercontent.com/vasturiano/globe.gl/master/example/datasets/ne_110m_admin_0_countries.geojson')
+  .then(r => r.json())
+  .then(geo => {
+    globe
+      .polygonsData(geo.features)
+      .polygonCapColor(f => {
+        const props = f.properties || {};
+        const name = props.ADMIN || props.NAME || '';
+        const hit = Object.keys(enHeat).find(k => k.toLowerCase() === String(name).toLowerCase());
+        return hit ? heatColor(enHeat[hit]) : 'rgba(44,53,64,0.28)';
+      })
+      .polygonSideColor(() => 'rgba(255,255,255,0.05)')
+      .polygonStrokeColor(() => 'rgba(255,255,255,0.12)')
+      .polygonAltitude(0.006);
+  })
+  .catch(() => { console.warn('geojson load failed, points-only mode'); });
+
+window.addEventListener('resize', () => {
+  globe.width(window.innerWidth).height(window.innerHeight);
+});
+</script>
+</body>
+</html>
