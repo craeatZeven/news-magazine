@@ -2,6 +2,13 @@
 
 每天 09:00 自动更新的中文新闻杂志站点。单文件静态站，杂志版式，无框架痕迹。
 
+> 📅 更新看板
+>
+> | 任务 | 时间 | 状态 |
+> |---|---|---|
+> | 新闻收集 → 翻译 → 分类 → 配图 → 分析 → 构建 | 每天 09:00（UTC+8） | ✅ 自动运行（Windows 任务计划 `NewsMagazineDailyUpdate`） |
+> | 推送到 GitHub Pages | 构建完成后 | ✅ 自动推送 |
+
 - 在线访问：https://craeatZeven.github.io/news-magazine/
 - 地图版：https://craeatZeven.github.io/news-magazine/map.html
 
