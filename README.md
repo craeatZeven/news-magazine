@@ -8,6 +8,8 @@
 > |---|---|---|
 > | 新闻收集 → 翻译 → 分类 → 配图 → 分析 → 构建 | 每天 09:00（UTC+8） | ✅ 自动运行（Windows 任务计划 `NewsMagazineDailyUpdate`） |
 > | 推送到 GitHub Pages | 构建完成后 | ✅ 自动推送 |
+>
+> 任务看板：https://github.com/users/craeatZeven/projects/1
 
 - 在线访问：https://craeatZeven.github.io/news-magazine/
 - 地图版：https://craeatZeven.github.io/news-magazine/map.html
