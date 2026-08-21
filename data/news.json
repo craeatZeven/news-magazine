@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T14:36:33+08:00",
+    "generated_at": "2026-08-21T15:47:25+08:00",
     "days": [
       "2026-08-15",
       "2026-08-16",
@@ -10,7 +10,7 @@
       "2026-08-20",
       "2026-08-21"
     ],
-    "item_count": 1503,
+    "item_count": 1536,
     "sources": [
       "daily-news",
       "horizon"
@@ -2808,7 +2808,7 @@
       "domain": "国际形势",
       "title": "澳大利亚新南威尔士州将启动枪支回购计划",
       "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "澳大利亚新南威尔士州宣布将启动枪支回购计划，以减少社区枪支数量。",
+      "summary": "澳大利亚新南威尔士州宣布将实施枪支回购计划，以加强枪支管控。",
       "source": "BBC",
       "country": "澳大利亚",
       "keywords": [
@@ -2935,7 +2935,7 @@
       "domain": "文体与社会热点",
       "title": "迪士尼 D23 揭晓《X 战警》演员阵容，未来依赖经典 IP",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN0pJTGRNUXVYT2xVd3NfaEVQVksyeDVDUHplOGVkaVRaZ3pLbDk3d19MMmFiTG5uNmxNMTY1SFp6Ylg5c0Y0aUYxMV92X1JVMWJzRkNtSnBvU2VHUC1lRVhrNElHeXJueUJhNHVpVUlKRjhjTlkwdVctR053WnNFV1c4ejR1bFBEMEM3dVdRRVlpcU82NjJBVTVYTmw0U0NVY1FxRzc0Q3lrUHhXUFBHSHVyd3A3UQ?oc=5",
-      "summary": "迪士尼D23活动揭晓《X战警》演员阵容，显示其未来作品仍依赖经典IP。",
+      "summary": "迪士尼D23活动公布《X战警》演员阵容，显示其未来作品仍依赖经典IP。",
       "source": "Los Angeles Times",
       "country": null,
       "keywords": [
@@ -3133,7 +3133,7 @@
       "subdomain": "新药审批",
       "title": "拜耳阿柏西普 8 毫克 RVO 继发黄斑水肿适应症注册申请获 NMPA 受理",
       "url": "https://news.sohu.com/a/1062715183_359980",
-      "summary": "拜耳阿柏西普8毫克用于治疗RVO继发黄斑水肿的注册申请已获中国药监局受理。",
+      "summary": "拜耳阿柏西普8毫克用于治疗RVO继发黄斑水肿的注册申请获中国药监局受理。",
       "source": "搜狐新闻",
       "country": null,
       "keywords": [],
@@ -3212,7 +3212,7 @@
       "subdomain": "新药审批",
       "title": "钱塘产多发性骨髓瘤新药获批上市",
       "url": "https://www.hangzhou.gov.cn/col/col812264/art/2026/art_f6883016fc6041b7b07e2ba79264b0b1.html",
-      "summary": "钱塘产多发性骨髓瘤新药获批上市，为患者提供新选择。",
+      "summary": "钱塘制药研发的多发性骨髓瘤新药获准上市，为患者提供新选择。",
       "source": "中国政府网",
       "country": "中国",
       "keywords": [],
@@ -3565,7 +3565,7 @@
       "subdomain": "地缘政治",
       "title": "美国穿越台湾海峡的次数减少，这重要吗？",
       "url": "https://breakingdefense.com/2026/08/america-is-sailing-through-the-taiwan-strait-less-does-it-matter/",
-      "summary": "美国穿越台湾海峡次数减少，分析其战略意义及影响。",
+      "summary": "美国穿越台湾海峡次数减少，其战略意义引发讨论。",
       "source": "Breakingdefense",
       "country": null,
       "keywords": [],
@@ -3704,7 +3704,7 @@
       "domain": "国际形势",
       "title": "美国航母“乔治·华盛顿”号预计将接替中东地区的“林肯”号",
       "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
-      "summary": "美国航母乔治·华盛顿号预计将接替中东地区的林肯号。",
+      "summary": "美国航母乔治·华盛顿号预计将接替中东地区的林肯号执行任务。",
       "source": "半岛电视台",
       "country": "美国",
       "keywords": [
@@ -4255,7 +4255,7 @@
       "subdomain": "天气灾害",
       "title": "美国印第安纳州洪水已致至少五人死亡",
       "url": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana",
-      "summary": "美国印第安纳州洪水已致至少五人死亡，灾情严重。",
+      "summary": "美国印第安纳州洪水已造成至少五人死亡，灾情严重。",
       "source": "半岛电视台",
       "country": "美国",
       "keywords": [],
@@ -5027,7 +5027,7 @@
       "domain": "国际焦点事件、重大会议",
       "title": "联合国追加资金应对埃博拉疫情",
       "url": "https://wallstreetcn.com/livenews/3149996",
-      "summary": "联合国追加资金以应对埃博拉疫情，加强防控。",
+      "summary": "联合国追加资金以应对埃博拉疫情，加强防控工作。",
       "source": "华尔街见闻",
       "country": null,
       "keywords": [
@@ -5202,7 +5202,7 @@
       "subdomain": "电影",
       "title": "2026 暑期档票房破 95 亿，《功夫女足》《八仙！》《蜘蛛侠：崭新之日》跻身前三",
       "url": "https://www.ithome.com/0/990/019.htm",
-      "summary": "2026暑期档票房破95亿，《功夫女足》等片位列前三。",
+      "summary": "2026年暑期档票房突破95亿，《功夫女足》等影片位列前三。",
       "source": "IT之家",
       "country": null,
       "keywords": [],
@@ -5232,7 +5232,7 @@
       "subdomain": "体育",
       "title": "Scottie Scheffler 在孟菲斯建立两杆优势",
       "url": "https://apnews.com/article/scheffler-sam-burns-memphis-fedex-pga-tour-a00e60521d38aa7bfa636c3d0da156c7",
-      "summary": "Scottie Scheffler在孟菲斯比赛中建立两杆优势。",
+      "summary": "高尔夫选手Scottie Scheffler在孟菲斯赛事中建立两杆优势。",
       "source": "美联社",
       "country": null,
       "keywords": [],
@@ -5333,7 +5333,7 @@
       "subdomain": "电影",
       "title": "沈腾主演电影累计票房破 420 亿，《欢迎来龙餐馆》5 天 6 亿",
       "url": "https://finance.sina.cn/2026-08-15/detail-ininkrwk3471739.d.html?vt=4",
-      "summary": "沈腾主演电影累计票房破420亿，《欢迎来龙餐馆》表现亮眼。",
+      "summary": "沈腾主演电影累计票房破420亿，《欢迎来龙餐馆》5天收获6亿。",
       "source": "Sina",
       "country": null,
       "keywords": [],
@@ -5514,7 +5514,7 @@
       "subdomain": "新反应新方法",
       "title": "氟化反应，登上 Science",
       "url": "http://www.nanoer.net/showinfo-32-74546.html",
-      "summary": "氟化反应研究登上Science杂志，取得重要进展。",
+      "summary": "一项氟化反应研究登上《科学》杂志，引发关注。",
       "source": "Nanoer",
       "country": null,
       "keywords": [],
@@ -5654,7 +5654,7 @@
       "subdomain": "今日新上架",
       "title": "awesome-dsh-plugin/awesome-dsh-plugin",
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "summary": "GitHub项目awesome-dsh-plugin发布，提供相关插件资源。",
+      "summary": "GitHub项目awesome-dsh-plugin/awesome-dsh-plugin发布，内容待探索。",
       "source": "GitHub",
       "country": null,
       "keywords": [],
@@ -5719,7 +5719,7 @@
       "domain": "科研与科技政策",
       "title": "痛别！唐守正院士逝世 - thepaper.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3WFZFTUVMdmwwejRqT1JpRUNESDZ4cmt2THRNV05ob0lCaU1oZ3FkRU9BMGNPZHhFOFZMRWZIZVlndzBNQjNMN3k1VHNqelJIWGc1aURuRTI0TTdsOFE?oc=5",
-      "summary": "唐守正院士逝世，各界痛别。",
+      "summary": "唐守正院士逝世，各界表示哀悼。",
       "source": "thepaper.cn",
       "country": null,
       "keywords": [
@@ -5785,7 +5785,7 @@
       "subdomain": "股市",
       "title": "国产算力产业链景气加强，科技 ETF 站上风口",
       "url": "http://gp.zhonghongwang.com/show-1-78428-1.html",
-      "summary": "国产算力产业链景气增强，科技ETF受关注。",
+      "summary": "国产算力产业链景气度提升，科技ETF受关注。",
       "source": "Zhonghongwang",
       "country": "中国",
       "keywords": [],
@@ -5968,7 +5968,7 @@
       "subdomain": "电池储能",
       "title": "中核集团入局固液混合电池",
       "url": "https://www.sohu.com/a/1063365796_777213",
-      "summary": "中核集团入局固液混合电池领域，布局新能源。",
+      "summary": "中核集团宣布入局固液混合电池领域，拓展新能源业务。",
       "source": "搜狐新闻",
       "country": null,
       "keywords": [],
@@ -6520,7 +6520,7 @@
       "domain": "国际形势",
       "title": "伊朗在霍尔木兹海峡问题上态度强硬，特朗普要求美国民众接受高油价",
       "url": "https://www.japantimes.co.jp/news/2026/08/15/world/trump-iran-defiant/",
-      "summary": "伊朗在霍尔木兹海峡问题上态度强硬，特朗普要求民众接受高油价。",
+      "summary": "伊朗在霍尔木兹海峡问题上态度强硬，特朗普要求美国民众接受高油价。",
       "source": "日本时报",
       "country": "美国",
       "keywords": [
@@ -6542,7 +6542,7 @@
       "domain": "金融",
       "title": "伯克希尔增持 Alphabet 股份 170 亿美元",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTVlXUGlQSUZVdnRDRXFHVU0wMlBfY0kzVFFFNS1FY2NSNG9QblVxV2dXdTZRUjFmWVdUck04RnpIU0xkRThWOWNpRnJCTVByX0hhWGI3SGVWQXpjU1dXV180NjBqUEx4UElCbFNJRGdMWkFZMHMtUm01TjlMbm81VDUzREFWMXPSAYwBQVVfeXFMTllSR3VuVXdXV1p0Y2JUZ1FoaG56RFQybURDY1hzWlFpdHNXZFhzcmJscXZpVVZUX1VGRl9yYWJ3MklCbExSUDRocWxsSFhBeFlJZmhCU1FpVDJMdFNSdkY0UWpqM2J4SGVOZFVieFUyRTNtbTdzUWo4TjFjZ181NWZZM0hDTnItVWdRZFM?oc=5",
-      "summary": "伯克希尔增持Alphabet股份170亿美元，加大投资。",
+      "summary": "伯克希尔增持Alphabet股份170亿美元，加大科技投资。",
       "source": "CNBC",
       "country": null,
       "keywords": [
@@ -25577,7 +25577,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "社会事件",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/20/78b9f02b-c70c-474e-92ea-b56503645c5e/thumbnail/1200x630/bfce9705ebbeee13e824de6da1007306/cbsn-fusion-trump-pauses-major-border-wall-construction-after-bipartisan-concerns-thumbnail.jpg"
+      "image": null
     },
     {
       "id": "2026-08-20-0054-h",
@@ -27071,7 +27071,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "AI工具",
-      "image": null
+      "image": "https://opengraph.githubassets.com/553eb0d16f34971e57a1f1ce6de36acba7ba9ec6d478dc3b0906727a87ab6528/anthropics/claude-code/issues/6235"
     },
     {
       "id": "2026-08-20-0054",
@@ -28163,7 +28163,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/20/f08f02d0-924a-4643-aaab-97dac0846eea/thumbnail/1200x630/eff37af4405c29f784b2d605e4c80839/cbsn-fusion-senate-races-set-in-alaska-and-florida-as-midterms-approach-thumbnail.jpg"
+      "image": null
     },
     {
       "id": "2026-08-20-0229-h",
@@ -28838,6 +28838,21 @@
       "image": null
     },
     {
+      "id": "2026-08-21-0007",
+      "date": "2026-08-21",
+      "domain": "AI 行业发展",
+      "subdomain": "新反应新方法",
+      "title": "AI数据初创公司Micro1在AI训练热潮中实现5亿美元总运行率",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "summary": "AI 训练数据创业公司 Micro1 年化毛收入达 5 亿美元，显示数据层需求持续爆发。",
+      "source": "Techcrunch",
+      "country": null,
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42004-026-02174-5/MediaObjects/42004_2026_2174_Figa_HTML.png"
+    },
+    {
       "id": "2026-08-21-0004",
       "date": "2026-08-21",
       "domain": "AI 行业发展",
@@ -28851,6 +28866,21 @@
       "score": null,
       "raw": "daily-news",
       "image": "https://images.cnbctv18.com/uploads/2026/08/untitled-design-2026-08-20t115403350-2026-08-5fd16a2907faf95fa7c5b6fab3d341a1.jpg?im=FitAndFill,width=1200,height=675"
+    },
+    {
+      "id": "2026-08-21-0006",
+      "date": "2026-08-21",
+      "domain": "AI 行业发展",
+      "subdomain": "新反应新方法",
+      "title": "谷歌在AI重组中将Antigravity与企业控制绑定",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/21/google-tethers-antigravity-to-enterprise-controls-amid-ai-shakeup/5290730",
+      "summary": "Google Cloud 将 Antigravity 纳入企业级管控，统一管理企业里的 AI 代理。",
+      "source": "Theregister",
+      "country": null,
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
     },
     {
       "id": "2026-08-21-0005",
@@ -28913,7 +28943,22 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0064",
+      "id": "2026-08-21-0097",
+      "date": "2026-08-21",
+      "domain": "医疗健康/生物医药",
+      "subdomain": "医疗政策",
+      "title": "866天“零新发压疮”！上海天佑医院脑复苏中心攻克神经重症护理难题",
+      "url": "https://www.news.cn/health/20260820/0f62eccba2d84e5699f5dc52476e6e4b/c.html",
+      "summary": "上海天佑医院高压氧脑复苏中心通过标准化护理与多学科协作，实现866天无新发压力性损伤。",
+      "source": "新华社",
+      "country": "中国",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0092",
       "date": "2026-08-21",
       "domain": "医疗健康/生物医药",
       "subdomain": "疾病防控",
@@ -28928,7 +28973,7 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0066",
+      "id": "2026-08-21-0094",
       "date": "2026-08-21",
       "domain": "医疗健康/生物医药",
       "subdomain": "疾病防控",
@@ -28943,7 +28988,22 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0063",
+      "id": "2026-08-21-0096",
+      "date": "2026-08-21",
+      "domain": "医疗健康/生物医药",
+      "subdomain": "疾病防控",
+      "title": "小心感染性腹泻的“头号”病原菌！它是这样“入侵”人体的",
+      "url": "https://www.news.cn/health/20260820/5f68b4e907a2467c93d88329a0e6d24a/c.html",
+      "summary": "疾控科普提示沙门菌是食源性感染性腹泻最常见病原，儿童、老人等高风险人群需重点预防。",
+      "source": "新华社",
+      "country": "中国",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0091",
       "date": "2026-08-21",
       "domain": "医疗健康/生物医药",
       "subdomain": "生物技术",
@@ -28958,7 +29018,22 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0065",
+      "id": "2026-08-21-0095",
+      "date": "2026-08-21",
+      "domain": "医疗健康/生物医药",
+      "subdomain": "新药审批",
+      "title": "恒瑞医药半年报中的产业变局：创新药占比首破六成，\"NewCo\"出海迎来收获期",
+      "url": "https://www.news.cn/health/20260820/b6f12f1a472a4918ad393d07a28b4b42/c.html",
+      "summary": "恒瑞医药2026半年报显示创新药收入占比首次突破六成，授权合作与NewCo模式出海进入收获期。",
+      "source": "新华社",
+      "country": "中国",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0093",
       "date": "2026-08-21",
       "domain": "医疗健康/生物医药",
       "subdomain": "医疗政策",
@@ -28973,10 +29048,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0022",
+      "id": "2026-08-21-0031",
       "date": "2026-08-21",
       "domain": "国内民生新闻",
-      "subdomain": "民生政策",
+      "subdomain": "装备动态",
       "title": "上海出台楼市“沪八条”",
       "url": "https://www.thepaper.cn/newsdetail_forward_33817585",
       "summary": "上海六部门8月20日印发通知，自8月21日起施行优化公积金提取、个人住房信贷、以旧换新补贴等8项房地产措施。",
@@ -28988,10 +29063,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0020",
+      "id": "2026-08-21-0029",
       "date": "2026-08-21",
       "domain": "国内民生新闻",
-      "subdomain": "天气灾害",
+      "subdomain": "军贸",
       "title": "南海热带低压或加强为台风 海南未来三天风雨持续局地或现特大暴雨",
       "url": "http://news.weather.com.cn/2026/08/4767817.shtml",
       "summary": "南海热带低压可能在北部湾加强为台风，8月21日至23日海南风雨持续，局地有大暴雨甚至特大暴雨。",
@@ -29003,10 +29078,55 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0021",
+      "id": "2026-08-21-0035",
       "date": "2026-08-21",
       "domain": "国内民生新闻",
-      "subdomain": "社会事件",
+      "subdomain": "高等教育",
+      "title": "多地官宣上调最低工资 深圳最低2700元领跑 广东9月起全面涨薪",
+      "url": "https://m.e23.cn/guonei/2026-08-21/2026082100081.html",
+      "summary": "多地宣布调整最低工资标准，深圳月最低工资提至2700元，广东自9月起全面上调。",
+      "source": "E23",
+      "country": "中国",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0034",
+      "date": "2026-08-21",
+      "domain": "国内民生新闻",
+      "subdomain": "高等教育",
+      "title": "暴雨蓝色预警持续发布！这些地区注意防范大暴雨",
+      "url": "https://m.gmw.cn/2026-08/21/content_1304551523.htm",
+      "summary": "8月21日中央气象台继续发布暴雨蓝色预警，多地需防范大暴雨和强对流天气。",
+      "source": "光明网",
+      "country": "中国",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": "https://img.gmw.cn/pic/gmwLogo_share.jpg"
+    },
+    {
+      "id": "2026-08-21-0032",
+      "date": "2026-08-21",
+      "domain": "国内民生新闻",
+      "subdomain": "装备动态",
+      "title": "秦皇岛市海港区一底商发生火灾 造成8人死亡3人受伤",
+      "url": "http://news.china.com.cn/2026-08/20/content_118656286.shtml",
+      "summary": "8月20日河北秦皇岛底商起火，已致8死3伤，善后和调查进行中。",
+      "source": "中国网",
+      "country": "中国",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": "https://www.twz.com/wp-content/uploads/2025/04/mq-9-stock.jpg?w=1200"
+    },
+    {
+      "id": "2026-08-21-0030",
+      "date": "2026-08-21",
+      "domain": "国内民生新闻",
+      "subdomain": "装备动态",
       "title": "许家印被判处无期徒刑，恒大集团、恒大地产等案一审宣判",
       "url": "https://www.thepaper.cn/newsdetail_forward_33816463",
       "summary": "8月20日深圳中院一审宣判，恒大集团、恒大地产被判处罚金，许家印数罪并罚被判处无期徒刑。",
@@ -29015,13 +29135,43 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
+      "image": "https://www.armytimes.com/resizer/v2/MYFRPVBQDRGP3LE6Z2VZT5B6YA.jpg?width=1200&auth=40e89997fc34a2bf6229413e122ede4f549e6f641d14f8a4ea4388f0d5645b29"
+    },
+    {
+      "id": "2026-08-21-0048",
+      "date": "2026-08-21",
+      "domain": "国防/军工动态",
+      "subdomain": "灾害救援",
+      "title": "Lockheed Martin与Saildrone在RIMPAC 2026演示无人水面艇发射导弹",
+      "url": "https://news.lockheedmartin.com/2026-08-20-Lockheed-Martin-and-Saildrone-Demonstrate-Launch-from-USV-Platform",
+      "summary": "双方从Saildrone USV成功发射JAGM导弹，验证无人艇与美海军作战系统集成能力。",
+      "source": "Lockheedmartin",
+      "country": null,
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
       "image": null
     },
     {
-      "id": "2026-08-21-0031",
+      "id": "2026-08-21-0049",
       "date": "2026-08-21",
       "domain": "国防/军工动态",
-      "subdomain": "装备动态",
+      "subdomain": "国际组织",
+      "title": "台美签署38亿新台币后勤合约，维持反潜直升机和舰载导弹妥善率",
+      "url": "https://www.zaobao.com.sg/news/china/story20260820-9546479",
+      "summary": "两项军事后勤合约总额约1.19亿美元，聚焦美制反潜直升机与舰载导弹的后勤支持。",
+      "source": "联合早报",
+      "country": null,
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": "https://dss0.zbstatic5.com/web2/_astro/pic-default.B3kZzJ_A.png"
+    },
+    {
+      "id": "2026-08-21-0046",
+      "date": "2026-08-21",
+      "domain": "国防/军工动态",
+      "subdomain": "学术事件",
       "title": "白宫召开首次“无人机主导权”会议",
       "url": "https://breakingdefense.com/2026/08/drone-companies-trump-admin-leaders-meet-for-first-white-house-done-dominance-meeting/",
       "summary": "无人机公司与特朗普政府官员就扩大美国无人机产能和工业基础举行首次会议。",
@@ -29030,13 +29180,13 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": null
+      "image": "https://p2.img.cctvpic.com/photoworkspace/contentimg/2026/08/21/2026082109151897645.jpg"
     },
     {
-      "id": "2026-08-21-0028",
+      "id": "2026-08-21-0043",
       "date": "2026-08-21",
       "domain": "国防/军工动态",
-      "subdomain": "演习演训",
+      "subdomain": "光伏风电",
       "title": "美冰岛及北约启动北极演习“Northern Viking 2026”",
       "url": "https://news.usni.org/2026/08/20/arctic-exercise-northern-viking-kicks-off-with-u-s-iceland",
       "summary": "美、冰岛和北约开始在冰岛及周边海域进行两年一度的联合演习，持续至9月3日。",
@@ -29048,7 +29198,7 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0029",
+      "id": "2026-08-21-0044",
       "date": "2026-08-21",
       "domain": "国防/军工动态",
       "subdomain": "军贸",
@@ -29063,10 +29213,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0030",
+      "id": "2026-08-21-0045",
       "date": "2026-08-21",
       "domain": "国防/军工动态",
-      "subdomain": "装备动态",
+      "subdomain": "电池储能",
       "title": "美国海军牵头多国研制下一代“海麻雀”导弹",
       "url": "https://www.militarytimes.com/air-warfare/2026/08/20/us-navy-leads-multinational-effort-for-next-gen-seasparrow-missile/",
       "summary": "美海军领导多国合作开发改进型“海麻雀”舰载防空导弹新版本。",
@@ -29078,10 +29228,10 @@
       "image": "https://www.armytimes.com/resizer/v2/MYFRPVBQDRGP3LE6Z2VZT5B6YA.jpg?width=1200&auth=40e89997fc34a2bf6229413e122ede4f549e6f641d14f8a4ea4388f0d5645b29"
     },
     {
-      "id": "2026-08-21-0032",
+      "id": "2026-08-21-0047",
       "date": "2026-08-21",
       "domain": "国防/军工动态",
-      "subdomain": "装备动态",
+      "subdomain": "全球治理",
       "title": "通用原子公布MQ-9“死神”后继型号“Wildfire”",
       "url": "https://www.twz.com/air/wildfire-is-general-atomics-successor-to-the-mq-9-reaper",
       "summary": "该无人机概念已进入五角大楼下一代中空长航时ISR/打击无人机竞标。",
@@ -29090,13 +29240,28 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "https://www.twz.com/wp-content/uploads/2025/04/mq-9-stock.jpg?w=1200"
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/03-06-2026_UNMISS_South_Sudan_Ezo.jpg/image770x420cropped.jpg"
     },
     {
-      "id": "2026-08-21-0012",
+      "id": "2026-08-21-0020",
       "date": "2026-08-21",
       "domain": "国际形势",
-      "subdomain": "地缘政治",
+      "subdomain": "天气灾害",
+      "title": "俄乌互换103名被俘人员",
+      "url": "https://international.astroawani.com/global-news/russia-and-ukraine-swap-103-prisoners-war-each",
+      "summary": "俄乌官方确认各释放103名战俘，乌情报部门称月底前或还有一次交换。",
+      "source": "Astroawani",
+      "country": null,
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": "https://media.astroawani.com/awani/media/uploads/image/2026-08/TB_Ukrainian%20Prisoners_REUTERS.jpg?VersionId=8QogshEUSOT9SPlsS1_hLLh09nlio3Dp"
+    },
+    {
+      "id": "2026-08-21-0016",
+      "date": "2026-08-21",
+      "domain": "国际形势",
+      "subdomain": "股市",
       "title": "俄罗斯在争议岛屿附近试射导弹，日本提出批评",
       "url": "https://www.theguardian.com/world/2026/aug/21/russia-launch-missiles-kuril-islands-japan",
       "summary": "俄太平洋舰队在俄称千岛群岛、日称北方领土周边举行导弹演练。",
@@ -29105,13 +29270,28 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
+      "image": "https://webquoteklinepic.eastmoney.com/GetPic.aspx?nid=1.000001&imageType=k&token=28dfeb41d35cc81d84b4664d7c23c49f&at=1"
+    },
+    {
+      "id": "2026-08-21-0021",
+      "date": "2026-08-21",
+      "domain": "国际形势",
+      "subdomain": "社会事件",
+      "title": "埃及、卡塔尔、土耳其敦促国际社会施压以色列执行加沙停火",
+      "url": "https://alquds.com/en/posts/254817-egypt-qatar-and-turkey-demand-international-pressure-to-compel-israel-to",
+      "summary": "三国外交方发表联合声明，要求以色列全面履行停火协议承诺，并称将形成统一施压阵线。",
+      "source": "Alquds",
+      "country": "以色列",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
       "image": null
     },
     {
-      "id": "2026-08-21-0013",
+      "id": "2026-08-21-0017",
       "date": "2026-08-21",
       "domain": "国际形势",
-      "subdomain": "制裁贸易",
+      "subdomain": "股市",
       "title": "美国敦促盟友及中国加入对伊朗经济施压",
       "url": "https://www.france24.com/en/middle-east/20260821-us-warns-allies-and-china-to-join-iran-economic-pressure-campaign",
       "summary": "美方在伊朗战争谈判停滞背景下呼吁扩大对伊经济制裁。",
@@ -29123,10 +29303,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0011",
+      "id": "2026-08-21-0015",
       "date": "2026-08-21",
       "domain": "国际形势",
-      "subdomain": "演习演训",
+      "subdomain": "社会事件",
       "title": "美韩提前结束联合军演，前一天朝鲜发射多枚导弹",
       "url": "https://apnews.com/article/north-south-korea-us-drills-trump-kim-e0350e23feac60adfa60f2cbf5eff27f",
       "summary": "美韩在朝鲜导弹齐射后按美方命令缩短年度联合演习。",
@@ -29138,10 +29318,10 @@
       "image": "https://dims.apnews.com/dims4/default/1068c08/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa2%2Fe9%2Ff5ac4916163c5ac16ad3e6955212%2Fff56515df9c5435c81113dce199b7fd6"
     },
     {
-      "id": "2026-08-21-0014",
+      "id": "2026-08-21-0018",
       "date": "2026-08-21",
       "domain": "国际形势",
-      "subdomain": "军事冲突",
+      "subdomain": "大宗商品",
       "title": "胡塞武装与也门政府互袭，也门滑向全面战争",
       "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war",
       "summary": "政府军24小时内发动81次攻击，胡塞方面称打击沙特境内目标。",
@@ -29150,13 +29330,13 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": null
+      "image": "https://webquoteklinepic.eastmoney.com/GetPic.aspx?nid=90.BK0732&imageType=k&token=28dfeb41d35cc81d84b4664d7c23c49f&at=1"
     },
     {
-      "id": "2026-08-21-0015",
+      "id": "2026-08-21-0019",
       "date": "2026-08-21",
       "domain": "国际形势",
-      "subdomain": "社会事件",
+      "subdomain": "公司财务",
       "title": "香港国安法审讯裁定两名天安门烛光守夜组织者煽动颠覆罪名成立",
       "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
       "summary": "香港法院裁定李卓人、邹幸彤煽动颠覆罪成立。",
@@ -29165,13 +29345,13 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": null
+      "image": "https://webquoteklinepic.eastmoney.com/GetPic.aspx?nid=1.601318&imageType=k&token=28dfeb41d35cc81d84b4664d7c23c49f&at=1"
     },
     {
-      "id": "2026-08-21-0048",
+      "id": "2026-08-21-0072",
       "date": "2026-08-21",
       "domain": "国际焦点事件、重大会议",
-      "subdomain": "灾害救援",
+      "subdomain": "体育",
       "title": "IOM发布哥伦比亚地震紧急募捐呼吁",
       "url": "https://reliefweb.int/report/colombia/iom-colombia-earthquake-flash-appeal-aug-2026-feb-2027",
       "summary": "国际移民组织为哥伦比亚地震人道响应发起2026年8月至2027年2月募捐。",
@@ -29180,13 +29360,13 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "https://reliefweb.int/sites/default/files/styles/large/public/previews/64/3c/643c6a81-4239-5785-b34c-a4edb11b6762.png"
+      "image": null
     },
     {
-      "id": "2026-08-21-0049",
+      "id": "2026-08-21-0073",
       "date": "2026-08-21",
       "domain": "国际焦点事件、重大会议",
-      "subdomain": "国际组织",
+      "subdomain": "体育",
       "title": "塔利班释放两名被拘联合国工作人员",
       "url": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan",
       "summary": "两人于8月9日在赫拉特被拘，8月20日上午获释。",
@@ -29198,10 +29378,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0051",
+      "id": "2026-08-21-0075",
       "date": "2026-08-21",
       "domain": "国际焦点事件、重大会议",
-      "subdomain": "全球治理",
+      "subdomain": "文化",
       "title": "巴拿马运河因厄尔尼诺极端天气限制通航",
       "url": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino",
       "summary": "巴拿马运河在厄尔尼诺可能带来干旱和酷热风险前宣布限制船舶通行。",
@@ -29213,10 +29393,25 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0047",
+      "id": "2026-08-21-0076",
       "date": "2026-08-21",
       "domain": "国际焦点事件、重大会议",
-      "subdomain": "全球治理",
+      "subdomain": "法治",
+      "title": "联合国大会继续举行下任秘书长候选人互动对话",
+      "url": "https://english.news.cn/20260821/f45b5f068b4f4760899577f7e1a78dd8/c.html",
+      "summary": "联大先后与乌干达籍候选人奥拉拉·奥图努和厄瓜多尔籍候选人伊冯娜·A-巴基举行对话，讨论安理会改革、维和与人工智能时代全球治理等议题。",
+      "source": "新华社",
+      "country": "中国",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0071",
+      "date": "2026-08-21",
+      "domain": "国际焦点事件、重大会议",
+      "subdomain": "消费电子",
       "title": "联合国支持调查机构警告南苏丹选举临近或发生新的暴行罪",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168173",
       "summary": "联合国调查机构称南苏丹若战斗不止，选举前局势可能恶化并出现更多暴行。",
@@ -29225,13 +29420,28 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/03-06-2026_UNMISS_South_Sudan_Ezo.jpg/image770x420cropped.jpg"
+      "image": "https://up.itheat.com/static/images/logo-pc.jpg"
     },
     {
-      "id": "2026-08-21-0050",
+      "id": "2026-08-21-0077",
       "date": "2026-08-21",
       "domain": "国际焦点事件、重大会议",
       "subdomain": "灾害救援",
+      "title": "莫桑比克洪灾重建预计需16亿美元",
+      "url": "https://www.wam.ae/en/article/17dugsw-mozambique-needs-16-billion-for-flood",
+      "summary": "莫桑比克政府评估洪水灾后重建成本约16亿美元，国际援助与恢复计划受到关注。",
+      "source": "Wam",
+      "country": "莫桑比克",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": "https://www.wam.ae/assets/images/logo/logo.png"
+    },
+    {
+      "id": "2026-08-21-0074",
+      "date": "2026-08-21",
+      "domain": "国际焦点事件、重大会议",
+      "subdomain": "文化",
       "title": "菲律宾发布7.8级地震影响第80期报告",
       "url": "https://reliefweb.int/report/philippines/dswd-dromic-report-80-effects-mw-78-earthquake-incident-maasim-sarangani-21-august-2026-6am",
       "summary": "菲社会福利与发展部更新萨兰加尼省地震受灾规模与人道应对数据。",
@@ -29240,13 +29450,28 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "https://reliefweb.int/sites/default/files/styles/large/public/previews/63/66/6366437d-2048-4feb-ae03-ea34e616f0cf.png"
+      "image": null
     },
     {
-      "id": "2026-08-21-0035",
+      "id": "2026-08-21-0056",
       "date": "2026-08-21",
       "domain": "教育政策",
-      "subdomain": "高等教育",
+      "subdomain": "开发者工具",
+      "title": "2026全球智慧教育大会在京开幕 聚焦人工智能与教育可持续发展",
+      "url": "http://www.jyb.cn/rmtzcg/xwy/wzxw/202608/t20260820_2111511761.html",
+      "summary": "北京师范大学与联合国教科文组织教育信息技术研究所联合主办，探讨AI与教育深度融合的全球可持续发展路径。",
+      "source": "Jyb",
+      "country": "中国",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0052",
+      "date": "2026-08-21",
+      "domain": "教育政策",
+      "subdomain": "开发者工具",
       "title": "AI学伴助力熟悉校园生活全场景，四千余名本科新生圆梦清华园",
       "url": "https://www.chinanews.com.cn/edu/2026/08-20/10680984.shtml",
       "summary": "清华大学2026级本科新生报到，AI学伴等数字化服务覆盖校园生活全场景。",
@@ -29258,10 +29483,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0033",
+      "id": "2026-08-21-0050",
       "date": "2026-08-21",
       "domain": "教育政策",
-      "subdomain": "职业教育",
+      "subdomain": "灾害救援",
       "title": "不“卷”高考，读本科可选“中本贯通”",
       "url": "https://www.chinanews.com.cn/edu/2026/08-21/10681460.shtml",
       "summary": "中职与本科贯通培养成为部分考生新选择，无需高考即可转段升入本科，反映职业教育贯通培养模式受关注。",
@@ -29273,10 +29498,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0036",
+      "id": "2026-08-21-0053",
       "date": "2026-08-21",
       "domain": "教育政策",
-      "subdomain": "基础教育",
+      "subdomain": "开发者工具",
       "title": "今年暑期需求激增，AI研学如何回归育人本质？",
       "url": "https://www.chinanews.com.cn/edu/2026/08-20/10680832.shtml",
       "summary": "2026年暑期AI研学订单同比增长370%，市场火爆但质量参差，专家呼吁回归科学素养培养。",
@@ -29288,10 +29513,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0034",
+      "id": "2026-08-21-0051",
       "date": "2026-08-21",
       "domain": "教育政策",
-      "subdomain": "高等教育",
+      "subdomain": "全球治理",
       "title": "大学英语四六级查分时间定了",
       "url": "https://www.chinanews.com.cn/edu/2026/08-20/10680950.shtml",
       "summary": "教育部教育考试院通知，2026年上半年全国大学英语四、六级考试成绩将于8月24日开通查询。",
@@ -29303,10 +29528,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0037",
+      "id": "2026-08-21-0054",
       "date": "2026-08-21",
       "domain": "教育政策",
-      "subdomain": "学术事件",
+      "subdomain": "开发者工具",
       "title": "当学术期刊集体给AI“立规矩”",
       "url": "https://www.chinanews.com.cn/edu/2026/08-21/10681471.shtml",
       "summary": "中国科技期刊卓越行动计划及多家期刊8月密集发布AI使用规范，要求披露AI用途并禁止其署名。",
@@ -29318,7 +29543,22 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0072",
+      "id": "2026-08-21-0055",
+      "date": "2026-08-21",
+      "domain": "教育政策",
+      "subdomain": "AI工具",
+      "title": "教育部办公厅关于做好庆祝第42个教师节有关工作的通知",
+      "url": "http://www.jyb.cn/rmtzcg/xwy/wzxw/202608/t20260821_2111511967.html",
+      "summary": "2026年教师节主题定为“大力弘扬教育家精神，共筑尊师重教风尚”，教育部部署强师举措与惠师服务。",
+      "source": "Jyb",
+      "country": null,
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0105",
       "date": "2026-08-21",
       "domain": "文体与社会热点",
       "subdomain": "体育",
@@ -29333,7 +29573,7 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0076",
+      "id": "2026-08-21-0109",
       "date": "2026-08-21",
       "domain": "文体与社会热点",
       "subdomain": "法治",
@@ -29348,7 +29588,22 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0075",
+      "id": "2026-08-21-0110",
+      "date": "2026-08-21",
+      "domain": "文体与社会热点",
+      "subdomain": "体育",
+      "title": "中国女排公布亚锦赛名单：吴梦洁回归 张籽萱落选",
+      "url": "https://www.news.cn/sports/20260820/1c2fbc1a35bf45e89102ce657082404b/c.html",
+      "summary": "2026年女排亚锦赛21日在天津打响，中国队14人名单公布，主攻吴梦洁伤愈回归。",
+      "source": "新华社",
+      "country": "中国",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0108",
       "date": "2026-08-21",
       "domain": "文体与社会热点",
       "subdomain": "文化",
@@ -29363,7 +29618,7 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0074",
+      "id": "2026-08-21-0107",
       "date": "2026-08-21",
       "domain": "文体与社会热点",
       "subdomain": "文化",
@@ -29378,7 +29633,22 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0073",
+      "id": "2026-08-21-0111",
+      "date": "2026-08-21",
+      "domain": "文体与社会热点",
+      "subdomain": "文化",
+      "title": "第七届全国少数民族文艺会演正式开启",
+      "url": "https://www.news.cn/ent/20260820/8d9af2c9280542efbd73b3458557eecf/c.html",
+      "summary": "48台剧目、114场演出于8月18日至9月23日在北京上演，数量创历届新高。",
+      "source": "新华社",
+      "country": "中国",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0106",
       "date": "2026-08-21",
       "domain": "文体与社会热点",
       "subdomain": "体育",
@@ -29393,10 +29663,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0009",
+      "id": "2026-08-21-0011",
       "date": "2026-08-21",
       "domain": "有机合成重大进展",
-      "subdomain": "全合成",
+      "subdomain": "演习演训",
       "title": "(±)-异土木香内酯的形式全合成",
       "url": "https://doi.org/10.1021/acs.orglett.6c03173",
       "summary": "六步路线经 SmI₂ 介导还原内酯化构建桉叶烷内酯核心，为迄今步骤最经济的路线之一。",
@@ -29405,13 +29675,43 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
+      "image": "https://dims.apnews.com/dims4/default/1068c08/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa2%2Fe9%2Ff5ac4916163c5ac16ad3e6955212%2Fff56515df9c5435c81113dce199b7fd6"
+    },
+    {
+      "id": "2026-08-21-0014",
+      "date": "2026-08-21",
+      "domain": "有机合成重大进展",
+      "subdomain": "军事冲突",
+      "title": "天冬氨酰β-转角基双铑(II)金属肽催化Z-二取代烯烃的对映选择性氮杂环丙烷化",
+      "url": "https://doi.org/10.1021/jacs.6c10875",
+      "summary": "JACS 报道天冬氨酰 β-转角二铑金属肽催化的 Z-二取代烯烃不对称氮杂环丙烷化，对映选择性最高达 99:1 er。",
+      "source": "Doi",
+      "country": null,
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
       "image": null
     },
     {
-      "id": "2026-08-21-0010",
+      "id": "2026-08-21-0013",
       "date": "2026-08-21",
       "domain": "有机合成重大进展",
-      "subdomain": "全合成",
+      "subdomain": "制裁贸易",
+      "title": "通过杂原子均裂取代合成二烷基醚",
+      "url": "https://www.nature.com/articles/s41586-026-11043-z",
+      "summary": "Nature 报道一种通过杂原子均裂取代构建二烷基醚的新合成策略，为醚键构筑提供非经典路径。",
+      "source": "Nature",
+      "country": null,
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0012",
+      "date": "2026-08-21",
+      "domain": "有机合成重大进展",
+      "subdomain": "地缘政治",
       "title": "培尼菌素 B 及其增强抗菌活性类似物的全合成",
       "url": "https://doi.org/10.1021/acsinfecdis.6c00198",
       "summary": "完成培尼菌素 B 全合成并验证立体化学，部分类似物对万古霉素耐药粪肠球菌活性增强。",
@@ -29423,7 +29723,7 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0006",
+      "id": "2026-08-21-0008",
       "date": "2026-08-21",
       "domain": "有机合成重大进展",
       "subdomain": "新反应新方法",
@@ -29438,10 +29738,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0008",
+      "id": "2026-08-21-0010",
       "date": "2026-08-21",
       "domain": "有机合成重大进展",
-      "subdomain": "新反应新方法",
+      "subdomain": "全合成",
       "title": "钯催化不对称分子内 Heck 类反应构建手性亚甲基环丁烷",
       "url": "https://doi.org/10.1002/anie.9925574",
       "summary": "复旦大学团队发展新方法，实现对映选择性合成手性亚甲基环丁烷骨架。",
@@ -29453,10 +29753,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0007",
+      "id": "2026-08-21-0009",
       "date": "2026-08-21",
       "domain": "有机合成重大进展",
-      "subdomain": "新反应新方法",
+      "subdomain": "全合成",
       "title": "钴催化对映选择性 (4+1) C–H 螺环化构建含中心/轴手性的螺环骨架",
       "url": "https://www.nature.com/articles/s42004-026-02174-5",
       "summary": "钴/Salox 催化芳基酰胺与卡宾前体构建异吲哚螺环，兼具高区域、非对映和对映选择性。",
@@ -29468,7 +29768,7 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42004-026-02174-5/MediaObjects/42004_2026_2174_Figa_HTML.png"
     },
     {
-      "id": "2026-08-21-0061",
+      "id": "2026-08-21-0089",
       "date": "2026-08-21",
       "domain": "每日开源项目",
       "subdomain": "AI工具",
@@ -29483,7 +29783,7 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0053",
+      "id": "2026-08-21-0079",
       "date": "2026-08-21",
       "domain": "每日开源项目",
       "subdomain": "开发者工具",
@@ -29498,7 +29798,7 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0052",
+      "id": "2026-08-21-0078",
       "date": "2026-08-21",
       "domain": "每日开源项目",
       "subdomain": "开发者工具",
@@ -29513,7 +29813,22 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0055",
+      "id": "2026-08-21-0080",
+      "date": "2026-08-21",
+      "domain": "每日开源项目",
+      "subdomain": "AI工具",
+      "title": "SigmanticAI/apex-inference-chip",
+      "url": "https://github.com/SigmanticAI/apex-inference-chip",
+      "summary": "★0.6k — 在 FPGA 上运行真实 LLM（Qwen2.5-0.5B）的开源推理芯片设计，RTL 逐位对齐 golden model。",
+      "source": "GitHub",
+      "country": null,
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0083",
       "date": "2026-08-21",
       "domain": "每日开源项目",
       "subdomain": "AI工具",
@@ -29528,7 +29843,7 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0057",
+      "id": "2026-08-21-0085",
       "date": "2026-08-21",
       "domain": "每日开源项目",
       "subdomain": "开发者工具",
@@ -29543,7 +29858,7 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0056",
+      "id": "2026-08-21-0084",
       "date": "2026-08-21",
       "domain": "每日开源项目",
       "subdomain": "开发者工具",
@@ -29558,7 +29873,7 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0062",
+      "id": "2026-08-21-0090",
       "date": "2026-08-21",
       "domain": "每日开源项目",
       "subdomain": "AI工具",
@@ -29573,7 +29888,7 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0054",
+      "id": "2026-08-21-0082",
       "date": "2026-08-21",
       "domain": "每日开源项目",
       "subdomain": "开发者工具",
@@ -29588,7 +29903,22 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0068",
+      "id": "2026-08-21-0104",
+      "date": "2026-08-21",
+      "domain": "科技产业（非 AI）",
+      "subdomain": "航天",
+      "title": "中国批准吉利进行里程碑式卫星物联网测试以推动商业航天",
+      "url": "https://www.scmp.com/tech/big-tech/article/3364781/china-clears-geely-landmark-satellite-iot-test-spur-commercial-space-sector",
+      "summary": "中国批准吉利系公司开展首个民营商业卫星 IoT 试验，加速商业航天开放。",
+      "source": "南华早报",
+      "country": "中国",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0099",
       "date": "2026-08-21",
       "domain": "科技产业（非 AI）",
       "subdomain": "芯片半导体",
@@ -29603,7 +29933,7 @@
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fd10980ef3b6ef55f1ac4991524d78216c91349b1-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&amp;w=1200&amp;op=resize"
     },
     {
-      "id": "2026-08-21-0070",
+      "id": "2026-08-21-0101",
       "date": "2026-08-21",
       "domain": "科技产业（非 AI）",
       "subdomain": "机器人",
@@ -29618,7 +29948,22 @@
       "image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-08-20/db72345a-4770-41f9-a7da-4f1cde9575c5.jpeg"
     },
     {
-      "id": "2026-08-21-0069",
+      "id": "2026-08-21-0103",
+      "date": "2026-08-21",
+      "domain": "科技产业（非 AI）",
+      "subdomain": "芯片半导体",
+      "title": "美光宣布在博伊西投资100亿美元建设研发中心",
+      "url": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
+      "summary": "美光宣布投资 100 亿美元在博伊西建长期研发中心，押注内存与 AI 算力未来。",
+      "source": "Micron",
+      "country": null,
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0100",
       "date": "2026-08-21",
       "domain": "科技产业（非 AI）",
       "subdomain": "航天",
@@ -29633,7 +29978,7 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0067",
+      "id": "2026-08-21-0098",
       "date": "2026-08-21",
       "domain": "科技产业（非 AI）",
       "subdomain": "芯片半导体",
@@ -29645,10 +29990,10 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "https://www.trendforce.cn/images/trendforce_og_04.jpg"
+      "image": null
     },
     {
-      "id": "2026-08-21-0071",
+      "id": "2026-08-21-0102",
       "date": "2026-08-21",
       "domain": "科技产业（非 AI）",
       "subdomain": "消费电子",
@@ -29663,10 +30008,40 @@
       "image": "https://up.itheat.com/static/images/logo-pc.jpg"
     },
     {
-      "id": "2026-08-21-0039",
+      "id": "2026-08-21-0063",
       "date": "2026-08-21",
       "domain": "科研与科技政策",
-      "subdomain": "基金项目",
+      "subdomain": "生物技术",
+      "title": "纵火袭击震动意大利申办爱因斯坦望远镜",
+      "url": "https://www.science.org/doi/10.1126/science.ael6247",
+      "summary": "Science 报道：撒丁岛拟建爱因斯坦望远镜选址附近两名科学家汽车被烧，意大利申办下一代引力波天文台的进程受到冲击。",
+      "source": "Science",
+      "country": "意大利",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0062",
+      "date": "2026-08-21",
+      "domain": "科研与科技政策",
+      "subdomain": "AI工具",
+      "title": "数百篇纸厂论文在广告中兜售后竟被发表",
+      "url": "https://www.science.org/doi/10.1126/science.ael6249",
+      "summary": "Science 调查：广告兜售的数百篇论文工厂稿件后来被正式发表，部分 IEEE 会议超五分之一论文疑似代写代发。",
+      "source": "Science",
+      "country": null,
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0058",
+      "date": "2026-08-21",
+      "domain": "科研与科技政策",
+      "subdomain": "",
       "title": "NSF 宣布 15 亿美元资助机会，配合新科技安全战略",
       "url": "https://insideaipolicy.com/ai-daily-news/nsf-announces-funding-opportunities-15b-line-new-st-security-strategy",
       "summary": "NSF 以 15 亿美元资助机会推动 AI 等新兴技术，落实去监管化并支持私营部门的科技安全战略。",
@@ -29678,7 +30053,22 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0041",
+      "id": "2026-08-21-0061",
+      "date": "2026-08-21",
+      "domain": "科研与科技政策",
+      "subdomain": "AI工具",
+      "title": "惊人：90%生物医学论文现AI痕迹",
+      "url": "https://www.nature.com/articles/d41586-026-02551-z",
+      "summary": "Nature 新闻：分析显示约 90% 生物医学论文带有 AI 辅助痕迹，引发科研写作规范与学术诚信讨论。",
+      "source": "Nature",
+      "country": null,
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02551-z/d41586-026-02551-z_53140916.jpg"
+    },
+    {
+      "id": "2026-08-21-0060",
       "date": "2026-08-21",
       "domain": "科研与科技政策",
       "subdomain": "科研生态",
@@ -29693,10 +30083,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0038",
+      "id": "2026-08-21-0057",
       "date": "2026-08-21",
       "domain": "科研与科技政策",
-      "subdomain": "基金项目",
+      "subdomain": "开发者工具",
       "title": "美国 NSF 本财年新拨款或为四十余年最低",
       "url": "https://www.nature.com/articles/d41586-026-02574-6",
       "summary": "Nature 独家报道 NSF 因预留 10 亿美元给白宫特别项目，本财年新资助项目数量预计大幅下降。",
@@ -29708,10 +30098,10 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02574-6/d41586-026-02574-6_53130012.jpg"
     },
     {
-      "id": "2026-08-21-0040",
+      "id": "2026-08-21-0059",
       "date": "2026-08-21",
       "domain": "科研与科技政策",
-      "subdomain": "科技自立",
+      "subdomain": "",
       "title": "财政部：“十五五”时期更加有力有效支持科技自强自立",
       "url": "https://www.cnstock.com/commonDetail/765881?commTag=true",
       "summary": "中央财政将聚焦基础研究、应用基础研究和国家战略科技任务，继续加大投入力度。",
@@ -29723,10 +30113,40 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0043",
+      "id": "2026-08-21-0070",
       "date": "2026-08-21",
       "domain": "能源与新材料",
-      "subdomain": "光伏风电",
+      "subdomain": "机器人",
+      "title": "溶剂化层级电解质平衡钠硫电池动力学与稳定性",
+      "url": "https://doi.org/10.1002/anie.9167252",
+      "summary": "Angew 提出溶剂化层级电解液策略，兼顾室温钠硫电池中多硫化物穿梭抑制与反应动力学。",
+      "source": "Doi",
+      "country": null,
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-08-20/db72345a-4770-41f9-a7da-4f1cde9575c5.jpeg"
+    },
+    {
+      "id": "2026-08-21-0069",
+      "date": "2026-08-21",
+      "domain": "能源与新材料",
+      "subdomain": "航天",
+      "title": "理解并抑制醚基电解质锂金属电池中的气体析出",
+      "url": "https://www.nature.com/articles/s41557-026-02219-1",
+      "summary": "Nature Chemistry 揭示醚类电解液锂金属电池的产气机制，并提出相应的抑制策略。",
+      "source": "Nature",
+      "country": null,
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02219-1/MediaObjects/41557_2026_2219_Figa_HTML.png"
+    },
+    {
+      "id": "2026-08-21-0065",
+      "date": "2026-08-21",
+      "domain": "能源与新材料",
+      "subdomain": "医疗政策",
       "title": "刘成团队 Science 发文：破解湿法界面化学难题，推动高效稳定钙钛矿光伏规模化制造",
       "url": "https://fsctm.sjtu.edu.cn/info/1044/6924.htm",
       "summary": "通过共轭酰肼分子重定向界面氧化还原路径，实现小面积效率 27.7%、2 平方米组件 20.1% 及 85 ℃ 下 1500 小时稳定运行。",
@@ -29738,10 +30158,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0045",
+      "id": "2026-08-21-0067",
       "date": "2026-08-21",
       "domain": "能源与新材料",
-      "subdomain": "电池储能",
+      "subdomain": "芯片半导体",
       "title": "大连理工团队在高安全性锂电池领域取得突破性进展",
       "url": "https://www.thepaper.cn/newsDetail_forward_33822881",
       "summary": "基于 TMAI₅ 多卤化物正极的 Li–Br/I 电池经针刺、剪切无热失控，循环 2200 圈并具高比容量。",
@@ -29753,10 +30173,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0046",
+      "id": "2026-08-21-0068",
       "date": "2026-08-21",
       "domain": "能源与新材料",
-      "subdomain": "学术事件",
+      "subdomain": "芯片半导体",
       "title": "我国合成世界上最长单原子直径“金属线”",
       "url": "https://news.cctv.com/2026/08/21/ARTI0JZWNxJL0zzF8VAGyo5l260821.shtml",
       "summary": "高压固相拓扑聚合首次制备微米级碳包裹单金属原子链，成果 8 月 21 日发表于《科学》",
@@ -29765,13 +30185,13 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "https://p2.img.cctvpic.com/photoworkspace/contentimg/2026/08/21/2026082109151897645.jpg"
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fd10980ef3b6ef55f1ac4991524d78216c91349b1-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&amp;w=1200&amp;op=resize"
     },
     {
-      "id": "2026-08-21-0042",
+      "id": "2026-08-21-0064",
       "date": "2026-08-21",
       "domain": "能源与新材料",
-      "subdomain": "光伏风电",
+      "subdomain": "疾病防控",
       "title": "研究在 TOPCon 太阳能电池高效金属化方面获进展",
       "url": "https://news.sciencenet.cn/htmlpaper/2026/8/202682195139911154577.shtm?id=154577",
       "summary": "宁波材料所等提出无铝银浆加激光增强接触工艺，大面积 TOPCon 电池认证效率 26.31%，短路电流密度创纪录。",
@@ -29783,10 +30203,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0023",
+      "id": "2026-08-21-0036",
       "date": "2026-08-21",
       "domain": "重大政策（国内）",
-      "subdomain": "央行政策",
+      "subdomain": "基础教育",
       "title": "三部门发布关于进一步做好财政金融协同促内需政策有关工作的通知",
       "url": "https://www.chinanews.com/cj/2026/08-21/10681606.shtml",
       "summary": "财政部、人民银行、金融监管总局发布通知，将符合条件的中小微民营企业新发放流动资金贷款纳入贴息支持范围。",
@@ -29798,10 +30218,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0027",
+      "id": "2026-08-21-0040",
       "date": "2026-08-21",
       "domain": "重大政策（国内）",
-      "subdomain": "外交",
+      "subdomain": "科技自立",
       "title": "中国与瑞士宣布完成自贸协定升级谈判",
       "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681496.shtml",
       "summary": "中国商务部部长王文涛与瑞士方面共同宣布完成中瑞自贸协定升级谈判并签署谅解备忘录。",
@@ -29813,10 +30233,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0026",
+      "id": "2026-08-21-0039",
       "date": "2026-08-21",
       "domain": "重大政策（国内）",
-      "subdomain": "民生政策",
+      "subdomain": "基金项目",
       "title": "医疗保障法草案将三审 拟细化异地就医医药费用结算要求",
       "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681480.shtml",
       "summary": "医疗保障法草案三次审议稿拟提请全国人大常委会审议，拟细化异地就医结算并增加长期护理保险相关规定。",
@@ -29828,10 +30248,25 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0024",
+      "id": "2026-08-21-0041",
       "date": "2026-08-21",
       "domain": "重大政策（国内）",
-      "subdomain": "民生政策",
+      "subdomain": "科研生态",
+      "title": "国家发展改革委召开“六张网”重大项目协调调度机制会 完善“六网协同”工作推进机制",
+      "url": "https://www.ndrc.gov.cn/fzggw/jgsj/tzs/sjdt/202608/t20260820_1407103.html",
+      "summary": "8月20日发改委部署“六张网”重大项目协调调度，研究建立算力网、新型电网、新一代通信网“2+3+N”协调机制。",
+      "source": "中国政府网",
+      "country": "中国",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0037",
+      "date": "2026-08-21",
+      "domain": "重大政策（国内）",
+      "subdomain": "学术事件",
       "title": "图表：中国240小时过境免签“朋友圈”扩展至57国",
       "url": "https://www.gov.cn/zhengce/jiedu/tujie/202608/content_7078719.htm",
       "summary": "国家移民管理局8月20日公告，吉尔吉斯斯坦、越南公民适用240小时过境免签政策，适用国家增至57国。",
@@ -29843,10 +30278,25 @@
       "image": "https://www.gov.cn/images/150.jpg"
     },
     {
-      "id": "2026-08-21-0025",
+      "id": "2026-08-21-0042",
       "date": "2026-08-21",
       "domain": "重大政策（国内）",
-      "subdomain": "民生政策",
+      "subdomain": "光伏风电",
+      "title": "财政部：下达241亿元资金，支持地方落实学前一年免保育教育费政策",
+      "url": "https://www.ctdsb.net/c1476_202608/2836445.html",
+      "summary": "8月21日财政部下达241亿元，支持地方落实学前一年免保育教育费政策。",
+      "source": "Ctdsb",
+      "country": "中国",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0038",
+      "date": "2026-08-21",
+      "domain": "重大政策（国内）",
+      "subdomain": "基金项目",
       "title": "财政部：今年民生领域安排资金12.4万亿元",
       "url": "https://finance.sina.com.cn/roll/2026-08-21/doc-ininzyer6484387.shtml",
       "summary": "财政部在8月21日国新办发布会上介绍，今年一般公共预算安排教育、社保、卫生、住房等民生领域资金12.4万亿元，同比增长5.4%。",
@@ -29855,13 +30305,43 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "https://n.sinaimg.cn/spider20260821/516/w775h541/20260821/3ca2-3ad0c5cc83696a7c3993027d032d3ba3.png"
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02574-6/d41586-026-02574-6_53130012.jpg"
     },
     {
-      "id": "2026-08-21-0019",
+      "id": "2026-08-21-0026",
       "date": "2026-08-21",
       "domain": "金融",
-      "subdomain": "公司财务",
+      "subdomain": "民生政策",
+      "title": "8月份LPR出炉！1年期3.0%、5年期以上3.5%",
+      "url": "https://finance.eastmoney.com/a/202608203847631845.html",
+      "summary": "8月20日LPR报价出炉，连续15个月维持不变。",
+      "source": "东方财富",
+      "country": null,
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0028",
+      "date": "2026-08-21",
+      "domain": "金融",
+      "subdomain": "演习演训",
+      "title": "WTI原油、布油期货均涨超2%",
+      "url": "https://dxpress.gelonghui.com/live/2622588",
+      "summary": "8月20日国际油价显著走强，地缘冲突等因素推动原油期货涨超2%。",
+      "source": "Gelonghui",
+      "country": null,
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
+    },
+    {
+      "id": "2026-08-21-0025",
+      "date": "2026-08-21",
+      "domain": "金融",
+      "subdomain": "民生政策",
       "title": "上半年净利大增36.1% 中国平安业绩出炉！",
       "url": "https://finance.eastmoney.com/a/202608203848186067.html",
       "summary": "中国平安披露2026年中期业绩，归母净利润925.85亿元、同比增36.1%，中期股息每股0.98元。",
@@ -29870,13 +30350,13 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "https://webquoteklinepic.eastmoney.com/GetPic.aspx?nid=1.601318&imageType=k&token=28dfeb41d35cc81d84b4664d7c23c49f&at=1"
+      "image": "https://n.sinaimg.cn/spider20260821/516/w775h541/20260821/3ca2-3ad0c5cc83696a7c3993027d032d3ba3.png"
     },
     {
-      "id": "2026-08-21-0017",
+      "id": "2026-08-21-0023",
       "date": "2026-08-21",
       "domain": "金融",
-      "subdomain": "股市",
+      "subdomain": "央行政策",
       "title": "全球市场：美股收跌 道指跌超1%",
       "url": "https://finance.eastmoney.com/a/202608213848260831.html",
       "summary": "美股8月20日收盘三大指数全线下跌，道指跌1.32%，科技股集体下挫、Moderna大跌23.55%。",
@@ -29888,10 +30368,10 @@
       "image": null
     },
     {
-      "id": "2026-08-21-0018",
+      "id": "2026-08-21-0024",
       "date": "2026-08-21",
       "domain": "金融",
-      "subdomain": "大宗商品",
+      "subdomain": "民生政策",
       "title": "内外催化共振！黄金概念狂飙 有机构中期看多",
       "url": "https://finance.eastmoney.com/a/202608213849106937.html",
       "summary": "受美国财政部加大长债回购等信号催化，8月21日贵金属板块大涨，现货金价一度触及4550美元/盎司。",
@@ -29900,13 +30380,13 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "https://webquoteklinepic.eastmoney.com/GetPic.aspx?nid=90.BK0732&imageType=k&token=28dfeb41d35cc81d84b4664d7c23c49f&at=1"
+      "image": "https://www.gov.cn/images/150.jpg"
     },
     {
-      "id": "2026-08-21-0016",
+      "id": "2026-08-21-0022",
       "date": "2026-08-21",
       "domain": "金融",
-      "subdomain": "股市",
+      "subdomain": "民生政策",
       "title": "创业板指上涨1.21% 贵金属、能源金属领涨 农业股回落",
       "url": "https://finance.eastmoney.com/a/202608213849095922.html",
       "summary": "8月21日午间收盘沪指微涨报3903.81点，创业板指涨1.21%，贵金属、能源金属板块领涨。",
@@ -29916,6 +30396,21 @@
       "score": null,
       "raw": "daily-news",
       "image": "https://webquoteklinepic.eastmoney.com/GetPic.aspx?nid=1.000001&imageType=k&token=28dfeb41d35cc81d84b4664d7c23c49f&at=1"
+    },
+    {
+      "id": "2026-08-21-0027",
+      "date": "2026-08-21",
+      "domain": "金融",
+      "subdomain": "外交",
+      "title": "强化全栈AI能力 阿里巴巴单季净利207亿元",
+      "url": "https://stcn.com/article/detail/4093671.html",
+      "summary": "阿里首财季收入2689.53亿元、同比增9%，经调整净利润207.2亿元、同比降38%，AI投入大幅拖累利润。",
+      "source": "证券时报",
+      "country": "中国",
+      "keywords": [],
+      "score": null,
+      "raw": "daily-news",
+      "image": null
     }
   ]
 }
