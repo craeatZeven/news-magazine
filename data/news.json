@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T09:29:15+08:00",
+    "generated_at": "2026-09-05T09:44:24+08:00",
     "days": [
       "2026-08-30",
       "2026-08-31",
@@ -38,7 +38,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "模型发布",
-      "image": "covers/ai-2026-08-30-0204-h.png"
+      "image": "covers/ai-2026-08-30-0204-h.jpg"
     },
     {
       "id": "2026-08-30-0191-h",
@@ -81,7 +81,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "行业应用",
-      "image": "covers/ai-2026-08-30-0048-h.png"
+      "image": "covers/ai-2026-08-30-0048-h.jpg"
     },
     {
       "id": "2026-08-30-0051-h",
@@ -103,7 +103,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "模型发布",
-      "image": "covers/ai-2026-08-30-0051-h.png"
+      "image": "covers/ai-2026-08-30-0051-h.jpg"
     },
     {
       "id": "2026-08-30-0009-h",
@@ -145,7 +145,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "文化",
-      "image": "covers/ai-2026-08-30-0195-h.png"
+      "image": "covers/ai-2026-08-30-0195-h.jpg"
     },
     {
       "id": "2026-08-30-0016-h",
@@ -167,7 +167,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "互联网大厂",
-      "image": "covers/ai-2026-08-30-0016-h.png"
+      "image": "covers/ai-2026-08-30-0016-h.jpg"
     },
     {
       "id": "2026-08-30-0001",
@@ -182,7 +182,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0001.png"
+      "image": "covers/ai-2026-08-30-0001.jpg"
     },
     {
       "id": "2026-08-30-0027-h",
@@ -204,7 +204,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "行业应用",
-      "image": "covers/ai-2026-08-30-0027-h.png"
+      "image": "covers/ai-2026-08-30-0027-h.jpg"
     },
     {
       "id": "2026-08-30-0038-h",
@@ -226,7 +226,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "模型发布",
-      "image": "covers/ai-2026-08-30-0038-h.png"
+      "image": "covers/ai-2026-08-30-0038-h.jpg"
     },
     {
       "id": "2026-08-30-0098-h",
@@ -249,7 +249,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "军事冲突",
-      "image": "covers/ai-2026-08-30-0098-h.png"
+      "image": "covers/ai-2026-08-30-0098-h.jpg"
     },
     {
       "id": "2026-08-30-0241-h",
@@ -271,7 +271,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "行业应用",
-      "image": "covers/ai-2026-08-30-0241-h.png"
+      "image": "covers/ai-2026-08-30-0241-h.jpg"
     },
     {
       "id": "2026-08-30-0005",
@@ -286,7 +286,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0005.png"
+      "image": "covers/ai-2026-08-30-0005.jpg"
     },
     {
       "id": "2026-08-30-0194-h",
@@ -352,7 +352,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "芯片半导体",
-      "image": "covers/ai-2026-08-30-0011-h.png"
+      "image": "covers/ai-2026-08-30-0011-h.jpg"
     },
     {
       "id": "2026-08-30-0233-h",
@@ -374,7 +374,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "行业应用",
-      "image": "covers/ai-2026-08-30-0233-h.png"
+      "image": "covers/ai-2026-08-30-0233-h.jpg"
     },
     {
       "id": "2026-08-30-0172-h",
@@ -396,7 +396,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "公司财务",
-      "image": "covers/ai-2026-08-30-0172-h.png"
+      "image": "covers/ai-2026-08-30-0172-h.jpg"
     },
     {
       "id": "2026-08-30-0201-h",
@@ -418,7 +418,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "体育",
-      "image": "covers/ai-2026-08-30-0201-h.png"
+      "image": "covers/ai-2026-08-30-0201-h.jpg"
     },
     {
       "id": "2026-08-30-0136-h",
@@ -440,7 +440,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "全球治理",
-      "image": "covers/ai-2026-08-30-0136-h.png"
+      "image": "covers/ai-2026-08-30-0136-h.jpg"
     },
     {
       "id": "2026-08-30-0103-h",
@@ -462,7 +462,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0103-h.png"
+      "image": "covers/ai-2026-08-30-0103-h.jpg"
     },
     {
       "id": "2026-08-30-0208-h",
@@ -482,7 +482,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "天气灾害",
-      "image": "covers/ai-2026-08-30-0208-h.png"
+      "image": "covers/ai-2026-08-30-0208-h.jpg"
     },
     {
       "id": "2026-08-30-0107-h",
@@ -519,7 +519,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0002.png"
+      "image": "covers/ai-2026-08-30-0002.jpg"
     },
     {
       "id": "2026-08-30-0216-h",
@@ -541,7 +541,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "军事冲突",
-      "image": "covers/ai-2026-08-30-0216-h.png"
+      "image": "covers/ai-2026-08-30-0216-h.jpg"
     },
     {
       "id": "2026-08-30-0164-h",
@@ -586,7 +586,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "法治",
-      "image": "covers/ai-2026-08-30-0157-h.png"
+      "image": "covers/ai-2026-08-30-0157-h.jpg"
     },
     {
       "id": "2026-08-30-0045-h",
@@ -608,7 +608,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "法治",
-      "image": "covers/ai-2026-08-30-0045-h.png"
+      "image": "covers/ai-2026-08-30-0045-h.jpg"
     },
     {
       "id": "2026-08-30-0065-h",
@@ -629,7 +629,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0065-h.png"
+      "image": "covers/ai-2026-08-30-0065-h.jpg"
     },
     {
       "id": "2026-08-30-0064-h",
@@ -651,7 +651,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0064-h.png"
+      "image": "covers/ai-2026-08-30-0064-h.jpg"
     },
     {
       "id": "2026-08-30-0196-h",
@@ -672,7 +672,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "职业教育",
-      "image": "covers/ai-2026-08-30-0196-h.png"
+      "image": "covers/ai-2026-08-30-0196-h.jpg"
     },
     {
       "id": "2026-08-30-0086-h",
@@ -693,7 +693,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "天气灾害",
-      "image": "covers/ai-2026-08-30-0086-h.png"
+      "image": "covers/ai-2026-08-30-0086-h.jpg"
     },
     {
       "id": "2026-08-30-0197-h",
@@ -713,7 +713,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "文化",
-      "image": "covers/ai-2026-08-30-0197-h.png"
+      "image": "covers/ai-2026-08-30-0197-h.jpg"
     },
     {
       "id": "2026-08-30-0052-h",
@@ -802,7 +802,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "经济产业",
-      "image": "covers/ai-2026-08-30-0089-h.png"
+      "image": "covers/ai-2026-08-30-0089-h.jpg"
     },
     {
       "id": "2026-08-30-0188-h",
@@ -843,7 +843,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "体育",
-      "image": "covers/ai-2026-08-30-0200-h.png"
+      "image": "covers/ai-2026-08-30-0200-h.jpg"
     },
     {
       "id": "2026-08-30-0237-h",
@@ -865,7 +865,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "股市",
-      "image": "covers/ai-2026-08-30-0237-h.png"
+      "image": "covers/ai-2026-08-30-0237-h.jpg"
     },
     {
       "id": "2026-08-30-0155-h",
@@ -888,7 +888,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "制裁贸易",
-      "image": "covers/ai-2026-08-30-0155-h.png"
+      "image": "covers/ai-2026-08-30-0155-h.jpg"
     },
     {
       "id": "2026-08-30-0079-h",
@@ -909,7 +909,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "灾害救援",
-      "image": "covers/ai-2026-08-30-0079-h.png"
+      "image": "covers/ai-2026-08-30-0079-h.jpg"
     },
     {
       "id": "2026-08-30-0158-h",
@@ -930,7 +930,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "社会事件",
-      "image": "covers/ai-2026-08-30-0158-h.png"
+      "image": "covers/ai-2026-08-30-0158-h.jpg"
     },
     {
       "id": "2026-08-30-0007-h",
@@ -952,7 +952,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "学术事件",
-      "image": "covers/ai-2026-08-30-0007-h.png"
+      "image": "covers/ai-2026-08-30-0007-h.jpg"
     },
     {
       "id": "2026-08-30-0225-h",
@@ -974,7 +974,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "行业应用",
-      "image": "covers/ai-2026-08-30-0225-h.png"
+      "image": "covers/ai-2026-08-30-0225-h.jpg"
     },
     {
       "id": "2026-08-30-0003",
@@ -989,7 +989,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0003.png"
+      "image": "covers/ai-2026-08-30-0003.jpg"
     },
     {
       "id": "2026-08-30-0213-h",
@@ -1033,7 +1033,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0078-h.png"
+      "image": "covers/ai-2026-08-30-0078-h.jpg"
     },
     {
       "id": "2026-08-30-0004",
@@ -1048,7 +1048,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0004.png"
+      "image": "covers/ai-2026-08-30-0004.jpg"
     },
     {
       "id": "2026-08-30-0221-h",
@@ -1070,7 +1070,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "互联网大厂",
-      "image": "covers/ai-2026-08-30-0221-h.png"
+      "image": "covers/ai-2026-08-30-0221-h.jpg"
     },
     {
       "id": "2026-08-30-0029-h",
@@ -1092,7 +1092,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "行业应用",
-      "image": "covers/ai-2026-08-30-0029-h.png"
+      "image": "covers/ai-2026-08-30-0029-h.jpg"
     },
     {
       "id": "2026-08-30-0012-h",
@@ -1114,7 +1114,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "智能体",
-      "image": "covers/ai-2026-08-30-0012-h.png"
+      "image": "covers/ai-2026-08-30-0012-h.jpg"
     },
     {
       "id": "2026-08-30-0167-h",
@@ -1136,7 +1136,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "全球治理",
-      "image": "covers/ai-2026-08-30-0167-h.png"
+      "image": "covers/ai-2026-08-30-0167-h.jpg"
     },
     {
       "id": "2026-08-30-0066",
@@ -1151,7 +1151,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0066.png"
+      "image": "covers/ai-2026-08-30-0066.jpg"
     },
     {
       "id": "2026-08-30-0065",
@@ -1166,7 +1166,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0065.png"
+      "image": "covers/ai-2026-08-30-0065.jpg"
     },
     {
       "id": "2026-08-30-0067",
@@ -1181,7 +1181,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0067.png"
+      "image": "covers/ai-2026-08-30-0067.jpg"
     },
     {
       "id": "2026-08-30-0132-h",
@@ -1203,7 +1203,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "公司财务",
-      "image": "covers/ai-2026-08-30-0132-h.png"
+      "image": "covers/ai-2026-08-30-0132-h.jpg"
     },
     {
       "id": "2026-08-30-0153-h",
@@ -1225,7 +1225,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "生物技术",
-      "image": "covers/ai-2026-08-30-0153-h.png"
+      "image": "covers/ai-2026-08-30-0153-h.jpg"
     },
     {
       "id": "2026-08-30-0076-h",
@@ -1246,7 +1246,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "军事冲突",
-      "image": "covers/ai-2026-08-30-0076-h.png"
+      "image": "covers/ai-2026-08-30-0076-h.jpg"
     },
     {
       "id": "2026-08-30-0141-h",
@@ -1267,7 +1267,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "社会事件",
-      "image": "covers/ai-2026-08-30-0141-h.png"
+      "image": "covers/ai-2026-08-30-0141-h.jpg"
     },
     {
       "id": "2026-08-30-0161-h",
@@ -1288,7 +1288,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "全球治理",
-      "image": "covers/ai-2026-08-30-0161-h.png"
+      "image": "covers/ai-2026-08-30-0161-h.jpg"
     },
     {
       "id": "2026-08-30-0069",
@@ -1303,7 +1303,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0069.png"
+      "image": "covers/ai-2026-08-30-0069.jpg"
     },
     {
       "id": "2026-08-30-0106-h",
@@ -1346,7 +1346,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "法治",
-      "image": "covers/ai-2026-08-30-0092-h.png"
+      "image": "covers/ai-2026-08-30-0092-h.jpg"
     },
     {
       "id": "2026-08-30-0160-h",
@@ -1368,7 +1368,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "社会事件",
-      "image": "covers/ai-2026-08-30-0160-h.png"
+      "image": "covers/ai-2026-08-30-0160-h.jpg"
     },
     {
       "id": "2026-08-30-0144-h",
@@ -1390,7 +1390,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0144-h.png"
+      "image": "covers/ai-2026-08-30-0144-h.jpg"
     },
     {
       "id": "2026-08-30-0068",
@@ -1405,7 +1405,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0068.png"
+      "image": "covers/ai-2026-08-30-0068.jpg"
     },
     {
       "id": "2026-08-30-0193-h",
@@ -1427,7 +1427,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "舆情热点",
-      "image": "covers/ai-2026-08-30-0193-h.png"
+      "image": "covers/ai-2026-08-30-0193-h.jpg"
     },
     {
       "id": "2026-08-30-0022",
@@ -1442,7 +1442,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0022.png"
+      "image": "covers/ai-2026-08-30-0022.jpg"
     },
     {
       "id": "2026-08-30-0020",
@@ -1457,7 +1457,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0020.png"
+      "image": "covers/ai-2026-08-30-0020.jpg"
     },
     {
       "id": "2026-08-30-0175-h",
@@ -1478,7 +1478,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "天气灾害",
-      "image": "covers/ai-2026-08-30-0175-h.png"
+      "image": "covers/ai-2026-08-30-0175-h.jpg"
     },
     {
       "id": "2026-08-30-0087-h",
@@ -1500,7 +1500,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "天气灾害",
-      "image": "covers/ai-2026-08-30-0087-h.png"
+      "image": "covers/ai-2026-08-30-0087-h.jpg"
     },
     {
       "id": "2026-08-30-0240-h",
@@ -1522,7 +1522,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0240-h.png"
+      "image": "covers/ai-2026-08-30-0240-h.jpg"
     },
     {
       "id": "2026-08-30-0219-h",
@@ -1544,7 +1544,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "灾害救援",
-      "image": "covers/ai-2026-08-30-0219-h.png"
+      "image": "covers/ai-2026-08-30-0219-h.jpg"
     },
     {
       "id": "2026-08-30-0021",
@@ -1559,7 +1559,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0021.png"
+      "image": "covers/ai-2026-08-30-0021.jpg"
     },
     {
       "id": "2026-08-30-0018",
@@ -1574,7 +1574,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0018.png"
+      "image": "covers/ai-2026-08-30-0018.jpg"
     },
     {
       "id": "2026-08-30-0128-h",
@@ -1610,7 +1610,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0019.png"
+      "image": "covers/ai-2026-08-30-0019.jpg"
     },
     {
       "id": "2026-08-30-0173-h",
@@ -1631,7 +1631,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "天气灾害",
-      "image": "covers/ai-2026-08-30-0173-h.png"
+      "image": "covers/ai-2026-08-30-0173-h.jpg"
     },
     {
       "id": "2026-08-30-0031",
@@ -1646,7 +1646,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0031.png"
+      "image": "covers/ai-2026-08-30-0031.jpg"
     },
     {
       "id": "2026-08-30-0244-h",
@@ -1668,7 +1668,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "装备动态",
-      "image": "covers/ai-2026-08-30-0244-h.png"
+      "image": "covers/ai-2026-08-30-0244-h.jpg"
     },
     {
       "id": "2026-08-30-0062-h",
@@ -1690,7 +1690,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "军事冲突",
-      "image": "covers/ai-2026-08-30-0062-h.png"
+      "image": "covers/ai-2026-08-30-0062-h.jpg"
     },
     {
       "id": "2026-08-30-0027",
@@ -1705,7 +1705,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0027.png"
+      "image": "covers/ai-2026-08-30-0027.jpg"
     },
     {
       "id": "2026-08-30-0093-h",
@@ -1728,7 +1728,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "军事冲突",
-      "image": "covers/ai-2026-08-30-0093-h.png"
+      "image": "covers/ai-2026-08-30-0093-h.jpg"
     },
     {
       "id": "2026-08-30-0049-h",
@@ -1750,7 +1750,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "装备动态",
-      "image": "covers/ai-2026-08-30-0049-h.png"
+      "image": "covers/ai-2026-08-30-0049-h.jpg"
     },
     {
       "id": "2026-08-30-0026-h",
@@ -1772,7 +1772,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "航天",
-      "image": "covers/ai-2026-08-30-0026-h.png"
+      "image": "covers/ai-2026-08-30-0026-h.jpg"
     },
     {
       "id": "2026-08-30-0152-h",
@@ -1794,7 +1794,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0152-h.png"
+      "image": "covers/ai-2026-08-30-0152-h.jpg"
     },
     {
       "id": "2026-08-30-0110-h",
@@ -1816,7 +1816,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "制裁贸易",
-      "image": "covers/ai-2026-08-30-0110-h.png"
+      "image": "covers/ai-2026-08-30-0110-h.jpg"
     },
     {
       "id": "2026-08-30-0060-h",
@@ -1838,7 +1838,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0060-h.png"
+      "image": "covers/ai-2026-08-30-0060-h.jpg"
     },
     {
       "id": "2026-08-30-0070-h",
@@ -1860,7 +1860,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0070-h.png"
+      "image": "covers/ai-2026-08-30-0070-h.jpg"
     },
     {
       "id": "2026-08-30-0151-h",
@@ -1882,7 +1882,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "舆情热点",
-      "image": "covers/ai-2026-08-30-0151-h.png"
+      "image": "covers/ai-2026-08-30-0151-h.jpg"
     },
     {
       "id": "2026-08-30-0030",
@@ -1897,7 +1897,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0030.png"
+      "image": "covers/ai-2026-08-30-0030.jpg"
     },
     {
       "id": "2026-08-30-0123-h",
@@ -1919,7 +1919,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0123-h.png"
+      "image": "covers/ai-2026-08-30-0123-h.jpg"
     },
     {
       "id": "2026-08-30-0029",
@@ -1934,7 +1934,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0029.png"
+      "image": "covers/ai-2026-08-30-0029.jpg"
     },
     {
       "id": "2026-08-30-0112-h",
@@ -1955,7 +1955,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0112-h.png"
+      "image": "covers/ai-2026-08-30-0112-h.jpg"
     },
     {
       "id": "2026-08-30-0028",
@@ -1970,7 +1970,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0028.png"
+      "image": "covers/ai-2026-08-30-0028.jpg"
     },
     {
       "id": "2026-08-30-0127-h",
@@ -1991,7 +1991,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0127-h.png"
+      "image": "covers/ai-2026-08-30-0127-h.jpg"
     },
     {
       "id": "2026-08-30-0099-h",
@@ -2013,7 +2013,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "外交",
-      "image": "covers/ai-2026-08-30-0099-h.png"
+      "image": "covers/ai-2026-08-30-0099-h.jpg"
     },
     {
       "id": "2026-08-30-0039-h",
@@ -2034,7 +2034,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "开发者工具",
-      "image": "covers/ai-2026-08-30-0039-h.png"
+      "image": "covers/ai-2026-08-30-0039-h.jpg"
     },
     {
       "id": "2026-08-30-0042-h",
@@ -2056,7 +2056,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "舆情热点",
-      "image": "covers/ai-2026-08-30-0042-h.png"
+      "image": "covers/ai-2026-08-30-0042-h.jpg"
     },
     {
       "id": "2026-08-30-0207-h",
@@ -2077,7 +2077,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "舆情热点",
-      "image": "covers/ai-2026-08-30-0207-h.png"
+      "image": "covers/ai-2026-08-30-0207-h.jpg"
     },
     {
       "id": "2026-08-30-0084-h",
@@ -2100,7 +2100,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "行业应用",
-      "image": "covers/ai-2026-08-30-0084-h.png"
+      "image": "covers/ai-2026-08-30-0084-h.jpg"
     },
     {
       "id": "2026-08-30-0189-h",
@@ -2120,7 +2120,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "外交",
-      "image": "covers/ai-2026-08-30-0189-h.png"
+      "image": "covers/ai-2026-08-30-0189-h.jpg"
     },
     {
       "id": "2026-08-30-0105-h",
@@ -2142,7 +2142,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "外交",
-      "image": "covers/ai-2026-08-30-0105-h.png"
+      "image": "covers/ai-2026-08-30-0105-h.jpg"
     },
     {
       "id": "2026-08-30-0071-h",
@@ -2186,7 +2186,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "军事冲突",
-      "image": "covers/ai-2026-08-30-0059-h.png"
+      "image": "covers/ai-2026-08-30-0059-h.jpg"
     },
     {
       "id": "2026-08-30-0008",
@@ -2201,7 +2201,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0008.png"
+      "image": "covers/ai-2026-08-30-0008.jpg"
     },
     {
       "id": "2026-08-30-0231-h",
@@ -2223,7 +2223,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "制裁贸易",
-      "image": "covers/ai-2026-08-30-0231-h.png"
+      "image": "covers/ai-2026-08-30-0231-h.jpg"
     },
     {
       "id": "2026-08-30-0137-h",
@@ -2244,7 +2244,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "外交",
-      "image": "covers/ai-2026-08-30-0137-h.png"
+      "image": "covers/ai-2026-08-30-0137-h.jpg"
     },
     {
       "id": "2026-08-30-0178-h",
@@ -2266,7 +2266,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "舆情热点",
-      "image": "covers/ai-2026-08-30-0178-h.png"
+      "image": "covers/ai-2026-08-30-0178-h.jpg"
     },
     {
       "id": "2026-08-30-0011",
@@ -2281,7 +2281,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0011.png"
+      "image": "covers/ai-2026-08-30-0011.jpg"
     },
     {
       "id": "2026-08-30-0226-h",
@@ -2303,7 +2303,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "制裁贸易",
-      "image": "covers/ai-2026-08-30-0226-h.png"
+      "image": "covers/ai-2026-08-30-0226-h.jpg"
     },
     {
       "id": "2026-08-30-0142-h",
@@ -2324,7 +2324,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0142-h.png"
+      "image": "covers/ai-2026-08-30-0142-h.jpg"
     },
     {
       "id": "2026-08-30-0118-h",
@@ -2345,7 +2345,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "外交",
-      "image": "covers/ai-2026-08-30-0118-h.png"
+      "image": "covers/ai-2026-08-30-0118-h.jpg"
     },
     {
       "id": "2026-08-30-0010",
@@ -2360,7 +2360,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0010.png"
+      "image": "covers/ai-2026-08-30-0010.jpg"
     },
     {
       "id": "2026-08-30-0012",
@@ -2375,7 +2375,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0012.png"
+      "image": "covers/ai-2026-08-30-0012.jpg"
     },
     {
       "id": "2026-08-30-0096-h",
@@ -2397,7 +2397,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0096-h.png"
+      "image": "covers/ai-2026-08-30-0096-h.jpg"
     },
     {
       "id": "2026-08-30-0046-h",
@@ -2419,7 +2419,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "互联网大厂",
-      "image": "covers/ai-2026-08-30-0046-h.png"
+      "image": "covers/ai-2026-08-30-0046-h.jpg"
     },
     {
       "id": "2026-08-30-0126-h",
@@ -2441,7 +2441,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0126-h.png"
+      "image": "covers/ai-2026-08-30-0126-h.jpg"
     },
     {
       "id": "2026-08-30-0061-h",
@@ -2463,7 +2463,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "全球治理",
-      "image": "covers/ai-2026-08-30-0061-h.png"
+      "image": "covers/ai-2026-08-30-0061-h.jpg"
     },
     {
       "id": "2026-08-30-0147-h",
@@ -2484,7 +2484,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0147-h.png"
+      "image": "covers/ai-2026-08-30-0147-h.jpg"
     },
     {
       "id": "2026-08-30-0101-h",
@@ -2507,7 +2507,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "大宗商品",
-      "image": "covers/ai-2026-08-30-0101-h.png"
+      "image": "covers/ai-2026-08-30-0101-h.jpg"
     },
     {
       "id": "2026-08-30-0094-h",
@@ -2529,7 +2529,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0094-h.png"
+      "image": "covers/ai-2026-08-30-0094-h.jpg"
     },
     {
       "id": "2026-08-30-0091-h",
@@ -2551,7 +2551,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0091-h.png"
+      "image": "covers/ai-2026-08-30-0091-h.jpg"
     },
     {
       "id": "2026-08-30-0067-h",
@@ -2572,7 +2572,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0067-h.png"
+      "image": "covers/ai-2026-08-30-0067-h.jpg"
     },
     {
       "id": "2026-08-30-0108-h",
@@ -2595,7 +2595,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "制裁贸易",
-      "image": "covers/ai-2026-08-30-0108-h.png"
+      "image": "covers/ai-2026-08-30-0108-h.jpg"
     },
     {
       "id": "2026-08-30-0088-h",
@@ -2661,7 +2661,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "制裁贸易",
-      "image": "covers/ai-2026-08-30-0097-h.png"
+      "image": "covers/ai-2026-08-30-0097-h.jpg"
     },
     {
       "id": "2026-08-30-0248-h",
@@ -2683,7 +2683,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "消费电子",
-      "image": "covers/ai-2026-08-30-0248-h.png"
+      "image": "covers/ai-2026-08-30-0248-h.jpg"
     },
     {
       "id": "2026-08-30-0184-h",
@@ -2704,7 +2704,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "体育",
-      "image": "covers/ai-2026-08-30-0184-h.png"
+      "image": "covers/ai-2026-08-30-0184-h.jpg"
     },
     {
       "id": "2026-08-30-0163-h",
@@ -2726,7 +2726,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "文化",
-      "image": "covers/ai-2026-08-30-0163-h.png"
+      "image": "covers/ai-2026-08-30-0163-h.jpg"
     },
     {
       "id": "2026-08-30-0049",
@@ -2764,7 +2764,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "外交",
-      "image": "covers/ai-2026-08-30-0080-h.png"
+      "image": "covers/ai-2026-08-30-0080-h.jpg"
     },
     {
       "id": "2026-08-30-0150-h",
@@ -2807,7 +2807,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0104-h.png"
+      "image": "covers/ai-2026-08-30-0104-h.jpg"
     },
     {
       "id": "2026-08-30-0171-h",
@@ -2827,7 +2827,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0171-h.png"
+      "image": "covers/ai-2026-08-30-0171-h.jpg"
     },
     {
       "id": "2026-08-30-0181-h",
@@ -2848,7 +2848,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "文化",
-      "image": "covers/ai-2026-08-30-0181-h.png"
+      "image": "covers/ai-2026-08-30-0181-h.jpg"
     },
     {
       "id": "2026-08-30-0133-h",
@@ -2870,7 +2870,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0133-h.png"
+      "image": "covers/ai-2026-08-30-0133-h.jpg"
     },
     {
       "id": "2026-08-30-0114-h",
@@ -2892,7 +2892,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "军事冲突",
-      "image": "covers/ai-2026-08-30-0114-h.png"
+      "image": "covers/ai-2026-08-30-0114-h.jpg"
     },
     {
       "id": "2026-08-30-0050",
@@ -2907,7 +2907,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0050.png"
+      "image": "covers/ai-2026-08-30-0050.jpg"
     },
     {
       "id": "2026-08-30-0182-h",
@@ -2929,7 +2929,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "文化",
-      "image": "covers/ai-2026-08-30-0182-h.png"
+      "image": "covers/ai-2026-08-30-0182-h.jpg"
     },
     {
       "id": "2026-08-30-0120-h",
@@ -2951,7 +2951,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "外交",
-      "image": "covers/ai-2026-08-30-0120-h.png"
+      "image": "covers/ai-2026-08-30-0120-h.jpg"
     },
     {
       "id": "2026-08-30-0149-h",
@@ -2973,7 +2973,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0149-h.png"
+      "image": "covers/ai-2026-08-30-0149-h.jpg"
     },
     {
       "id": "2026-08-30-0131-h",
@@ -2996,7 +2996,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "消费电子",
-      "image": "covers/ai-2026-08-30-0131-h.png"
+      "image": "covers/ai-2026-08-30-0131-h.jpg"
     },
     {
       "id": "2026-08-30-0053-h",
@@ -3018,7 +3018,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "天气灾害",
-      "image": "covers/ai-2026-08-30-0053-h.png"
+      "image": "covers/ai-2026-08-30-0053-h.jpg"
     },
     {
       "id": "2026-08-30-0180-h",
@@ -3038,7 +3038,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "文化",
-      "image": "covers/ai-2026-08-30-0180-h.png"
+      "image": "covers/ai-2026-08-30-0180-h.jpg"
     },
     {
       "id": "2026-08-30-0116-h",
@@ -3059,7 +3059,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0116-h.png"
+      "image": "covers/ai-2026-08-30-0116-h.jpg"
     },
     {
       "id": "2026-08-30-0048",
@@ -3074,7 +3074,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0048.png"
+      "image": "covers/ai-2026-08-30-0048.jpg"
     },
     {
       "id": "2026-08-30-0202-h",
@@ -3097,7 +3097,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "舆情热点",
-      "image": "covers/ai-2026-08-30-0202-h.png"
+      "image": "covers/ai-2026-08-30-0202-h.jpg"
     },
     {
       "id": "2026-08-30-0122-h",
@@ -3118,7 +3118,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "制裁贸易",
-      "image": "covers/ai-2026-08-30-0122-h.png"
+      "image": "covers/ai-2026-08-30-0122-h.jpg"
     },
     {
       "id": "2026-08-30-0124-h",
@@ -3162,7 +3162,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0177-h.png"
+      "image": "covers/ai-2026-08-30-0177-h.jpg"
     },
     {
       "id": "2026-08-30-0083-h",
@@ -3183,7 +3183,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "央行政策",
-      "image": "covers/ai-2026-08-30-0083-h.png"
+      "image": "covers/ai-2026-08-30-0083-h.jpg"
     },
     {
       "id": "2026-08-30-0139-h",
@@ -3226,7 +3226,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0125-h.png"
+      "image": "covers/ai-2026-08-30-0125-h.jpg"
     },
     {
       "id": "2026-08-30-0056-h",
@@ -3248,7 +3248,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "制裁贸易",
-      "image": "covers/ai-2026-08-30-0056-h.png"
+      "image": "covers/ai-2026-08-30-0056-h.jpg"
     },
     {
       "id": "2026-08-30-0077-h",
@@ -3269,7 +3269,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "天气灾害",
-      "image": "covers/ai-2026-08-30-0077-h.png"
+      "image": "covers/ai-2026-08-30-0077-h.jpg"
     },
     {
       "id": "2026-08-30-0055-h",
@@ -3291,7 +3291,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "文化",
-      "image": "covers/ai-2026-08-30-0055-h.png"
+      "image": "covers/ai-2026-08-30-0055-h.jpg"
     },
     {
       "id": "2026-08-30-0156-h",
@@ -3313,7 +3313,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "国际组织",
-      "image": "covers/ai-2026-08-30-0156-h.png"
+      "image": "covers/ai-2026-08-30-0156-h.jpg"
     },
     {
       "id": "2026-08-30-0115-h",
@@ -3335,7 +3335,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "演习演训",
-      "image": "covers/ai-2026-08-30-0115-h.png"
+      "image": "covers/ai-2026-08-30-0115-h.jpg"
     },
     {
       "id": "2026-08-30-0069-h",
@@ -3357,7 +3357,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "外交",
-      "image": "covers/ai-2026-08-30-0069-h.png"
+      "image": "covers/ai-2026-08-30-0069-h.jpg"
     },
     {
       "id": "2026-08-30-0203-h",
@@ -3377,7 +3377,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0203-h.png"
+      "image": "covers/ai-2026-08-30-0203-h.jpg"
     },
     {
       "id": "2026-08-30-0095-h",
@@ -3398,7 +3398,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0095-h.png"
+      "image": "covers/ai-2026-08-30-0095-h.jpg"
     },
     {
       "id": "2026-08-30-0206-h",
@@ -3419,7 +3419,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0206-h.png"
+      "image": "covers/ai-2026-08-30-0206-h.jpg"
     },
     {
       "id": "2026-08-30-0192-h",
@@ -3440,7 +3440,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "舆情热点",
-      "image": "covers/ai-2026-08-30-0192-h.png"
+      "image": "covers/ai-2026-08-30-0192-h.jpg"
     },
     {
       "id": "2026-08-30-0117-h",
@@ -3461,7 +3461,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "天气灾害",
-      "image": "covers/ai-2026-08-30-0117-h.png"
+      "image": "covers/ai-2026-08-30-0117-h.jpg"
     },
     {
       "id": "2026-08-30-0085-h",
@@ -3483,7 +3483,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "互联网大厂",
-      "image": "covers/ai-2026-08-30-0085-h.png"
+      "image": "covers/ai-2026-08-30-0085-h.jpg"
     },
     {
       "id": "2026-08-30-0036",
@@ -3520,7 +3520,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "制裁贸易",
-      "image": "covers/ai-2026-08-30-0037-h.png"
+      "image": "covers/ai-2026-08-30-0037-h.jpg"
     },
     {
       "id": "2026-08-30-0140-h",
@@ -3541,7 +3541,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "体育",
-      "image": "covers/ai-2026-08-30-0140-h.png"
+      "image": "covers/ai-2026-08-30-0140-h.jpg"
     },
     {
       "id": "2026-08-30-0035",
@@ -3571,7 +3571,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0033.png"
+      "image": "covers/ai-2026-08-30-0033.jpg"
     },
     {
       "id": "2026-08-30-0034",
@@ -3586,7 +3586,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0034.png"
+      "image": "covers/ai-2026-08-30-0034.jpg"
     },
     {
       "id": "2026-08-30-0166-h",
@@ -3607,7 +3607,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "基础教育",
-      "image": "covers/ai-2026-08-30-0166-h.png"
+      "image": "covers/ai-2026-08-30-0166-h.jpg"
     },
     {
       "id": "2026-08-30-0176-h",
@@ -3628,7 +3628,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "电影",
-      "image": "covers/ai-2026-08-30-0176-h.png"
+      "image": "covers/ai-2026-08-30-0176-h.jpg"
     },
     {
       "id": "2026-08-30-0010-h",
@@ -3672,7 +3672,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "文化",
-      "image": "covers/ai-2026-08-30-0035-h.png"
+      "image": "covers/ai-2026-08-30-0035-h.jpg"
     },
     {
       "id": "2026-08-30-0162-h",
@@ -3724,7 +3724,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0079.png"
+      "image": "covers/ai-2026-08-30-0079.jpg"
     },
     {
       "id": "2026-08-30-0077",
@@ -3761,7 +3761,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "文化",
-      "image": "covers/ai-2026-08-30-0183-h.png"
+      "image": "covers/ai-2026-08-30-0183-h.jpg"
     },
     {
       "id": "2026-08-30-0170-h",
@@ -3802,7 +3802,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "文化",
-      "image": "covers/ai-2026-08-30-0199-h.png"
+      "image": "covers/ai-2026-08-30-0199-h.jpg"
     },
     {
       "id": "2026-08-30-0075",
@@ -3876,7 +3876,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "体育",
-      "image": "covers/ai-2026-08-30-0168-h.png"
+      "image": "covers/ai-2026-08-30-0168-h.jpg"
     },
     {
       "id": "2026-08-30-0121-h",
@@ -3897,7 +3897,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "文化",
-      "image": "covers/ai-2026-08-30-0121-h.png"
+      "image": "covers/ai-2026-08-30-0121-h.jpg"
     },
     {
       "id": "2026-08-30-0040-h",
@@ -3917,7 +3917,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "互联网大厂",
-      "image": "covers/ai-2026-08-30-0040-h.png"
+      "image": "covers/ai-2026-08-30-0040-h.jpg"
     },
     {
       "id": "2026-08-30-0214-h",
@@ -3939,7 +3939,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "互联网大厂",
-      "image": "covers/ai-2026-08-30-0214-h.png"
+      "image": "covers/ai-2026-08-30-0214-h.jpg"
     },
     {
       "id": "2026-08-30-0198-h",
@@ -3982,7 +3982,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "行业应用",
-      "image": "covers/ai-2026-08-30-0008-h.png"
+      "image": "covers/ai-2026-08-30-0008-h.jpg"
     },
     {
       "id": "2026-08-30-0159-h",
@@ -4004,7 +4004,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "全球治理",
-      "image": "covers/ai-2026-08-30-0159-h.png"
+      "image": "covers/ai-2026-08-30-0159-h.jpg"
     },
     {
       "id": "2026-08-30-0179-h",
@@ -4026,7 +4026,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "全球治理",
-      "image": "covers/ai-2026-08-30-0179-h.png"
+      "image": "covers/ai-2026-08-30-0179-h.jpg"
     },
     {
       "id": "2026-08-30-0036-h",
@@ -4048,7 +4048,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "央行政策",
-      "image": "covers/ai-2026-08-30-0036-h.png"
+      "image": "covers/ai-2026-08-30-0036-h.jpg"
     },
     {
       "id": "2026-08-30-0185-h",
@@ -4068,7 +4068,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "文化",
-      "image": "covers/ai-2026-08-30-0185-h.png"
+      "image": "covers/ai-2026-08-30-0185-h.jpg"
     },
     {
       "id": "2026-08-30-0007",
@@ -4083,7 +4083,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0007.png"
+      "image": "covers/ai-2026-08-30-0007.jpg"
     },
     {
       "id": "2026-08-30-0006",
@@ -4098,7 +4098,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0006.png"
+      "image": "covers/ai-2026-08-30-0006.jpg"
     },
     {
       "id": "2026-08-30-0235-h",
@@ -4120,7 +4120,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "汇率",
-      "image": "covers/ai-2026-08-30-0235-h.png"
+      "image": "covers/ai-2026-08-30-0235-h.jpg"
     },
     {
       "id": "2026-08-30-0059",
@@ -4135,7 +4135,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0059.png"
+      "image": "covers/ai-2026-08-30-0059.jpg"
     },
     {
       "id": "2026-08-30-0051",
@@ -4150,7 +4150,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0051.png"
+      "image": "covers/ai-2026-08-30-0051.jpg"
     },
     {
       "id": "2026-08-30-0052",
@@ -4165,7 +4165,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0052.png"
+      "image": "covers/ai-2026-08-30-0052.jpg"
     },
     {
       "id": "2026-08-30-0017-h",
@@ -4187,7 +4187,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "AI工具",
-      "image": "covers/ai-2026-08-30-0017-h.png"
+      "image": "covers/ai-2026-08-30-0017-h.jpg"
     },
     {
       "id": "2026-08-30-0055",
@@ -4202,7 +4202,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0055.png"
+      "image": "covers/ai-2026-08-30-0055.jpg"
     },
     {
       "id": "2026-08-30-0058",
@@ -4217,7 +4217,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0058.png"
+      "image": "covers/ai-2026-08-30-0058.jpg"
     },
     {
       "id": "2026-08-30-0057",
@@ -4232,7 +4232,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0057.png"
+      "image": "covers/ai-2026-08-30-0057.jpg"
     },
     {
       "id": "2026-08-30-0054",
@@ -4247,7 +4247,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0054.png"
+      "image": "covers/ai-2026-08-30-0054.jpg"
     },
     {
       "id": "2026-08-30-0061",
@@ -4262,7 +4262,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0061.png"
+      "image": "covers/ai-2026-08-30-0061.jpg"
     },
     {
       "id": "2026-08-30-0062",
@@ -4277,7 +4277,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0062.png"
+      "image": "covers/ai-2026-08-30-0062.jpg"
     },
     {
       "id": "2026-08-30-0053",
@@ -4292,7 +4292,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0053.png"
+      "image": "covers/ai-2026-08-30-0053.jpg"
     },
     {
       "id": "2026-08-30-0056",
@@ -4307,7 +4307,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0056.png"
+      "image": "covers/ai-2026-08-30-0056.jpg"
     },
     {
       "id": "2026-08-30-0174-h",
@@ -4329,7 +4329,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "消费电子",
-      "image": "covers/ai-2026-08-30-0174-h.png"
+      "image": "covers/ai-2026-08-30-0174-h.jpg"
     },
     {
       "id": "2026-08-30-0014-h",
@@ -4351,7 +4351,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "开发者工具",
-      "image": "covers/ai-2026-08-30-0014-h.png"
+      "image": "covers/ai-2026-08-30-0014-h.jpg"
     },
     {
       "id": "2026-08-30-0071",
@@ -4388,7 +4388,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "开发者工具",
-      "image": "covers/ai-2026-08-30-0013-h.png"
+      "image": "covers/ai-2026-08-30-0013-h.jpg"
     },
     {
       "id": "2026-08-30-0074",
@@ -4403,7 +4403,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0074.png"
+      "image": "covers/ai-2026-08-30-0074.jpg"
     },
     {
       "id": "2026-08-30-0072",
@@ -4418,7 +4418,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0072.png"
+      "image": "covers/ai-2026-08-30-0072.jpg"
     },
     {
       "id": "2026-08-30-0073",
@@ -4433,7 +4433,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0073.png"
+      "image": "covers/ai-2026-08-30-0073.jpg"
     },
     {
       "id": "2026-08-30-0135-h",
@@ -4455,7 +4455,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "航天",
-      "image": "covers/ai-2026-08-30-0135-h.png"
+      "image": "covers/ai-2026-08-30-0135-h.jpg"
     },
     {
       "id": "2026-08-30-0169-h",
@@ -4477,7 +4477,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "消费电子",
-      "image": "covers/ai-2026-08-30-0169-h.png"
+      "image": "covers/ai-2026-08-30-0169-h.jpg"
     },
     {
       "id": "2026-08-30-0050-h",
@@ -4499,7 +4499,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "芯片半导体",
-      "image": "covers/ai-2026-08-30-0050-h.png"
+      "image": "covers/ai-2026-08-30-0050-h.jpg"
     },
     {
       "id": "2026-08-30-0130-h",
@@ -4521,7 +4521,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "制裁贸易",
-      "image": "covers/ai-2026-08-30-0130-h.png"
+      "image": "covers/ai-2026-08-30-0130-h.jpg"
     },
     {
       "id": "2026-08-30-0246-h",
@@ -4543,7 +4543,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "互联网大厂",
-      "image": "covers/ai-2026-08-30-0246-h.png"
+      "image": "covers/ai-2026-08-30-0246-h.jpg"
     },
     {
       "id": "2026-08-30-0070",
@@ -4579,7 +4579,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "舆情热点",
-      "image": "covers/ai-2026-08-30-0205-h.png"
+      "image": "covers/ai-2026-08-30-0205-h.jpg"
     },
     {
       "id": "2026-08-30-0165-h",
@@ -4601,7 +4601,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "疾病防控",
-      "image": "covers/ai-2026-08-30-0165-h.png"
+      "image": "covers/ai-2026-08-30-0165-h.jpg"
     },
     {
       "id": "2026-08-30-0040",
@@ -4616,7 +4616,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0040.png"
+      "image": "covers/ai-2026-08-30-0040.jpg"
     },
     {
       "id": "2026-08-30-0038",
@@ -4646,7 +4646,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0037.png"
+      "image": "covers/ai-2026-08-30-0037.jpg"
     },
     {
       "id": "2026-08-30-0146-h",
@@ -4666,7 +4666,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "民生政策",
-      "image": "covers/ai-2026-08-30-0146-h.png"
+      "image": "covers/ai-2026-08-30-0146-h.jpg"
     },
     {
       "id": "2026-08-30-0031-h",
@@ -4686,7 +4686,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "消费电子",
-      "image": "covers/ai-2026-08-30-0031-h.png"
+      "image": "covers/ai-2026-08-30-0031-h.jpg"
     },
     {
       "id": "2026-08-30-0041",
@@ -4701,7 +4701,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0041.png"
+      "image": "covers/ai-2026-08-30-0041.jpg"
     },
     {
       "id": "2026-08-30-0043",
@@ -4716,7 +4716,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0043.png"
+      "image": "covers/ai-2026-08-30-0043.jpg"
     },
     {
       "id": "2026-08-30-0042",
@@ -4753,7 +4753,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "学术事件",
-      "image": "covers/ai-2026-08-30-0047-h.png"
+      "image": "covers/ai-2026-08-30-0047-h.jpg"
     },
     {
       "id": "2026-08-30-0045",
@@ -4768,7 +4768,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0045.png"
+      "image": "covers/ai-2026-08-30-0045.jpg"
     },
     {
       "id": "2026-08-30-0044",
@@ -4783,7 +4783,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0044.png"
+      "image": "covers/ai-2026-08-30-0044.jpg"
     },
     {
       "id": "2026-08-30-0044-h",
@@ -4805,7 +4805,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "电池储能",
-      "image": "covers/ai-2026-08-30-0044-h.png"
+      "image": "covers/ai-2026-08-30-0044-h.jpg"
     },
     {
       "id": "2026-08-30-0015-h",
@@ -4849,7 +4849,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "文化",
-      "image": "covers/ai-2026-08-30-0187-h.png"
+      "image": "covers/ai-2026-08-30-0187-h.jpg"
     },
     {
       "id": "2026-08-30-0023",
@@ -4864,7 +4864,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0023.png"
+      "image": "covers/ai-2026-08-30-0023.jpg"
     },
     {
       "id": "2026-08-30-0190-h",
@@ -4884,7 +4884,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "社会事件",
-      "image": "covers/ai-2026-08-30-0190-h.png"
+      "image": "covers/ai-2026-08-30-0190-h.jpg"
     },
     {
       "id": "2026-08-30-0143-h",
@@ -4906,7 +4906,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "装备动态",
-      "image": "covers/ai-2026-08-30-0143-h.png"
+      "image": "covers/ai-2026-08-30-0143-h.jpg"
     },
     {
       "id": "2026-08-30-0025-h",
@@ -4928,7 +4928,7 @@
       "raw": "horizon",
       "profile": "tech-news",
       "subdomain": "互联网大厂",
-      "image": "covers/ai-2026-08-30-0025-h.png"
+      "image": "covers/ai-2026-08-30-0025-h.jpg"
     },
     {
       "id": "2026-08-30-0102-h",
@@ -4950,7 +4950,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "地缘政治",
-      "image": "covers/ai-2026-08-30-0102-h.png"
+      "image": "covers/ai-2026-08-30-0102-h.jpg"
     },
     {
       "id": "2026-08-30-0024",
@@ -4965,7 +4965,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0024.png"
+      "image": "covers/ai-2026-08-30-0024.jpg"
     },
     {
       "id": "2026-08-30-0026",
@@ -4980,7 +4980,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0026.png"
+      "image": "covers/ai-2026-08-30-0026.jpg"
     },
     {
       "id": "2026-08-30-0111-h",
@@ -5002,7 +5002,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "军事冲突",
-      "image": "covers/ai-2026-08-30-0111-h.png"
+      "image": "covers/ai-2026-08-30-0111-h.jpg"
     },
     {
       "id": "2026-08-30-0138-h",
@@ -5024,7 +5024,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "社会事件",
-      "image": "covers/ai-2026-08-30-0138-h.png"
+      "image": "covers/ai-2026-08-30-0138-h.jpg"
     },
     {
       "id": "2026-08-30-0025",
@@ -5039,7 +5039,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0025.png"
+      "image": "covers/ai-2026-08-30-0025.jpg"
     },
     {
       "id": "2026-08-30-0212-h",
@@ -5061,7 +5061,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "央行政策",
-      "image": "covers/ai-2026-08-30-0212-h.png"
+      "image": "covers/ai-2026-08-30-0212-h.jpg"
     },
     {
       "id": "2026-08-30-0145-h",
@@ -5083,7 +5083,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "公司财务",
-      "image": "covers/ai-2026-08-30-0145-h.png"
+      "image": "covers/ai-2026-08-30-0145-h.jpg"
     },
     {
       "id": "2026-08-30-0218-h",
@@ -5105,7 +5105,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "股市",
-      "image": "covers/ai-2026-08-30-0218-h.png"
+      "image": "covers/ai-2026-08-30-0218-h.jpg"
     },
     {
       "id": "2026-08-30-0229-h",
@@ -5127,7 +5127,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "公司财务",
-      "image": "covers/ai-2026-08-30-0229-h.png"
+      "image": "covers/ai-2026-08-30-0229-h.jpg"
     },
     {
       "id": "2026-08-30-0015",
@@ -5142,7 +5142,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0015.png"
+      "image": "covers/ai-2026-08-30-0015.jpg"
     },
     {
       "id": "2026-08-30-0016",
@@ -5201,7 +5201,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "大宗商品",
-      "image": "covers/ai-2026-08-30-0082-h.png"
+      "image": "covers/ai-2026-08-30-0082-h.jpg"
     },
     {
       "id": "2026-08-30-0232-h",
@@ -5223,7 +5223,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "公司财务",
-      "image": "covers/ai-2026-08-30-0232-h.png"
+      "image": "covers/ai-2026-08-30-0232-h.jpg"
     },
     {
       "id": "2026-08-30-0014",
@@ -5238,7 +5238,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0014.png"
+      "image": "covers/ai-2026-08-30-0014.jpg"
     },
     {
       "id": "2026-08-30-0215-h",
@@ -5260,7 +5260,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "军事冲突",
-      "image": "covers/ai-2026-08-30-0215-h.png"
+      "image": "covers/ai-2026-08-30-0215-h.jpg"
     },
     {
       "id": "2026-08-30-0247-h",
@@ -5280,7 +5280,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "股市",
-      "image": "covers/ai-2026-08-30-0247-h.png"
+      "image": "covers/ai-2026-08-30-0247-h.jpg"
     },
     {
       "id": "2026-08-30-0242-h",
@@ -5302,7 +5302,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "股市",
-      "image": "covers/ai-2026-08-30-0242-h.png"
+      "image": "covers/ai-2026-08-30-0242-h.jpg"
     },
     {
       "id": "2026-08-30-0154-h",
@@ -5347,7 +5347,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "央行政策",
-      "image": "covers/ai-2026-08-30-0234-h.png"
+      "image": "covers/ai-2026-08-30-0234-h.jpg"
     },
     {
       "id": "2026-08-30-0245-h",
@@ -5369,7 +5369,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "股市",
-      "image": "covers/ai-2026-08-30-0245-h.png"
+      "image": "covers/ai-2026-08-30-0245-h.jpg"
     },
     {
       "id": "2026-08-30-0238-h",
@@ -5390,7 +5390,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "股市",
-      "image": "covers/ai-2026-08-30-0238-h.png"
+      "image": "covers/ai-2026-08-30-0238-h.jpg"
     },
     {
       "id": "2026-08-30-0013",
@@ -5405,7 +5405,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-08-30-0013.png"
+      "image": "covers/ai-2026-08-30-0013.jpg"
     },
     {
       "id": "2026-08-30-0090-h",
@@ -5471,7 +5471,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "制裁贸易",
-      "image": "covers/ai-2026-08-30-0217-h.png"
+      "image": "covers/ai-2026-08-30-0217-h.jpg"
     },
     {
       "id": "2026-08-30-0228-h",
@@ -5493,7 +5493,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "央行政策",
-      "image": "covers/ai-2026-08-30-0228-h.png"
+      "image": "covers/ai-2026-08-30-0228-h.jpg"
     },
     {
       "id": "2026-08-30-0230-h",
@@ -5515,7 +5515,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "股市",
-      "image": "covers/ai-2026-08-30-0230-h.png"
+      "image": "covers/ai-2026-08-30-0230-h.jpg"
     },
     {
       "id": "2026-08-30-0134-h",
@@ -5536,7 +5536,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "股市",
-      "image": "covers/ai-2026-08-30-0134-h.png"
+      "image": "covers/ai-2026-08-30-0134-h.jpg"
     },
     {
       "id": "2026-08-30-0224-h",
@@ -5602,7 +5602,7 @@
       "raw": "horizon",
       "profile": "finance-news",
       "subdomain": "股市",
-      "image": "covers/ai-2026-08-30-0239-h.png"
+      "image": "covers/ai-2026-08-30-0239-h.jpg"
     },
     {
       "id": "2026-08-30-0100-h",
@@ -5624,7 +5624,7 @@
       "raw": "horizon",
       "profile": "general-news",
       "subdomain": "芯片半导体",
-      "image": "covers/ai-2026-08-30-0100-h.png"
+      "image": "covers/ai-2026-08-30-0100-h.jpg"
     },
     {
       "id": "2026-08-30-0017",
@@ -11336,7 +11336,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-09-02-0001.png"
+      "image": "covers/ai-2026-09-02-0001.jpg"
     },
     {
       "id": "2026-09-02-0005",
@@ -11366,7 +11366,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-09-02-0002.png"
+      "image": "covers/ai-2026-09-02-0002.jpg"
     },
     {
       "id": "2026-09-02-0004",
@@ -11441,7 +11441,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-09-02-0070.png"
+      "image": "covers/ai-2026-09-02-0070.jpg"
     },
     {
       "id": "2026-09-02-0072",
@@ -11471,7 +11471,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-09-02-0025.png"
+      "image": "covers/ai-2026-09-02-0025.jpg"
     },
     {
       "id": "2026-09-02-0022",
@@ -11546,7 +11546,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-09-02-0032.png"
+      "image": "covers/ai-2026-09-02-0032.jpg"
     },
     {
       "id": "2026-09-02-0034",
@@ -11561,7 +11561,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-09-02-0034.png"
+      "image": "covers/ai-2026-09-02-0034.jpg"
     },
     {
       "id": "2026-09-02-0033",
@@ -11591,7 +11591,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-09-02-0035.png"
+      "image": "covers/ai-2026-09-02-0035.jpg"
     },
     {
       "id": "2026-09-02-0031",
@@ -11606,7 +11606,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-09-02-0031.png"
+      "image": "covers/ai-2026-09-02-0031.jpg"
     },
     {
       "id": "2026-09-02-0015",
@@ -11636,7 +11636,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-09-02-0011.png"
+      "image": "covers/ai-2026-09-02-0011.jpg"
     },
     {
       "id": "2026-09-02-0014",
@@ -11681,7 +11681,7 @@
       "keywords": [],
       "score": null,
       "raw": "daily-news",
-      "image": "covers/ai-2026-09-02-0012.png"
+      "image": "covers/ai-2026-09-02-0012.jpg"
     },
     {
       "id": "2026-09-02-0052",
