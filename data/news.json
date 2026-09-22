@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T09:00:27+08:00",
+    "generated_at": "2026-09-22T16:00:33+08:00",
     "days": [
       "2026-09-16",
       "2026-09-17",
@@ -33204,7 +33204,7 @@
     {
       "id": "2026-09-21-0048-h",
       "date": "2026-09-21",
-      "domain": "AI 行业发展",
+      "domain": "文体与社会热点",
       "title": "祖辈热衷 AI 生成孙辈图像，父母担忧隐私与真实性",
       "url": "https://www.businessinsider.com/grandparents-ai-images-grandkids-privacy-parents-2026-9",
       "summary": "一篇 Business Insider 文章在 Reddit 引发讨论：祖辈（婴儿潮一代）热衷于用 AI 生成孙辈的图像，而千禧一代父母则出于隐私和真实性理由表示反对。该讨论帖获得 10,964 分、95%的点赞率，评论者从记忆真实性、代际技术态度和实际案例等角度展开争论。有评论者质疑，如果照片的意义在于定格真实发生过的时刻，那么 AI 生成的“从未存在过的瞬间”究竟算什么。另有评论者提到，自己母亲痴迷观看 AI 生成的婴儿说话、唱歌或与小狗玩耍的视频，明知不真实却觉得可爱。一位评论者还称，其孩子所在的日托机构也做了类似的事，结果遭到家长们的强烈反对。",
@@ -33220,13 +33220,13 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "",
+      "subdomain": "舆情热点",
       "image": null
     },
     {
       "id": "2026-09-21-0189-h",
       "date": "2026-09-21",
-      "domain": "AI 行业发展",
+      "domain": "金融",
       "title": "纳斯达克指数上涨 2%创 6 月以来首个收盘新高",
       "url": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html",
       "summary": "纳斯达克综合指数上涨 2%，收于 6 月以来的首个历史新高，CNBC 将其归因于人工智能（AI）股票的上涨以及油价和债券收益率的回落。",
@@ -33242,13 +33242,13 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "",
+      "subdomain": "股市",
       "image": null
     },
     {
       "id": "2026-09-21-0021-h",
       "date": "2026-09-21",
-      "domain": "AI 行业发展",
+      "domain": "国内民生新闻",
       "title": "美东机场航班因光缆中断停飞",
       "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
       "summary": "美国东海岸多个繁忙机场的航班因通信问题被暂停，官方将原因归为一条光缆被切断。该事件由路透社报道，日期为 2026 年 9 月 21 日，涉及联邦航空管理局（FAA）对部分东海岸航班的处置。事件凸显关键基础设施对单一光纤链路的依赖，以及冗余与监控不足可能带来的运行风险。",
@@ -33264,13 +33264,13 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "",
+      "subdomain": "社会事件",
       "image": null
     },
     {
       "id": "2026-09-21-0060-h",
       "date": "2026-09-21",
-      "domain": "AI 行业发展",
+      "domain": "国际形势",
       "title": "美中官员纽约会晤 商讨 AI 安全计划为特朗普-习近平峰会铺路",
       "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&amp;at_campaign=rss",
       "summary": "美国和中国高级官员于周日在纽约举行会谈，讨论人工智能安全计划，为本周举行的特朗普与习近平峰会做准备。此次会晤是在两国元首峰会前夕进行的高层接触，凸显 AI 安全已成为美中关系中的重要议题。目前会谈的具体成果和细节尚未公布。",
@@ -33286,13 +33286,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "外交",
       "image": null
     },
     {
       "id": "2026-09-21-0057-h",
       "date": "2026-09-21",
-      "domain": "AI 行业发展",
+      "domain": "国内民生新闻",
       "title": "美国东海岸主要机场因设备故障停飞，FAA 发布地面停飞令",
       "url": "https://www.aljazeera.com/economy/2026/9/21/faa-halts-flights-to-major-us-east-coast-airports-amid-outage?traffic_source=rss",
       "summary": "",
@@ -33308,13 +33308,13 @@
       "score": 9.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "模型发布",
+      "subdomain": "社会事件",
       "image": null
     },
     {
       "id": "2026-09-21-0100-h",
       "date": "2026-09-21",
-      "domain": "AI 行业发展",
+      "domain": "国际形势",
       "title": "美国威胁自周三起全球停飞伊朗航空公司",
       "url": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday",
       "summary": "",
@@ -33331,13 +33331,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "制裁贸易",
       "image": null
     },
     {
       "id": "2026-09-21-0123-h",
       "date": "2026-09-21",
-      "domain": "AI 行业发展",
+      "domain": "国际焦点事件、重大会议",
       "title": "美国得州奥斯汀：ICE 特工开枪致一男子受伤，市长呼吁独立调查",
       "url": "https://www.dw.com/en/us-man-wounded-in-texas-after-being-shot-by-ice-agent/a-79349482?maca=en-rss-en-world-4025-rdf",
       "summary": "",
@@ -33354,7 +33354,7 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "智能体",
+      "subdomain": "全球治理",
       "image": null
     },
     {
@@ -33375,13 +33375,13 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "",
+      "subdomain": "行业应用",
       "image": null
     },
     {
       "id": "2026-09-21-0077-h",
       "date": "2026-09-21",
-      "domain": "AI 行业发展",
+      "domain": "国际形势",
       "title": "美日韩在习特会前启动经济安全磋商并重申台海稳定",
       "url": "https://www.scmp.com/news/us/diplomacy/article/3368306/us-japan-and-south-korea-launch-economic-security-talks-xi-summit?utm_source=rss_feed",
       "summary": "",
@@ -33398,7 +33398,7 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
@@ -33440,7 +33440,7 @@
     {
       "id": "2026-09-21-0046-h",
       "date": "2026-09-21",
-      "domain": "AI 行业发展",
+      "domain": "科研与科技政策",
       "title": "能力-残差解耦建模用于情感认知诊断",
       "url": "https://arxiv.org/abs/2609.21214",
       "summary": "arXiv 论文《Ability-Residual Decoupled Modeling for Affective Cognitive Diagnosis》提出一种能力-残差解耦框架，用于情感认知诊断。作者指出，现有方法假设认知诊断主干已解释能力、题目和概念效应，剩余误差主要归因于情感，但真实教育数据中的题目校准偏差、系统性概念偏差、个性化学生-概念偏差以及潜在学生-题目匹配会形成稳定的认知残差，若缺乏显式建模路径，这些残差可能泄漏进情感表示，造成情感污染。该模型先通过学生、题目、概念、学生-概念和低秩学生-题目组件捕捉未建模的认知残差，再用情感模块调节猜测/失误效应，并采用 Q 矩阵约束的概念残差注意力机制，仅自适应聚合与题目相关的概念残差。在 ASSIST2017、ASSIST2012、ASSIST2009 和 Junyi 四个数据集、六种认知诊断主干上的实验显示响应预测有所提升，在有情感标签时情感对齐总体改善；消融、泄漏探测、主成分分析可视化、长尾分析和案例研究进一步表明能力残差吸收稳定认知偏差、减少情感分支中的认知污染，并提升模型鲁棒性与预测准确率。",
@@ -33456,7 +33456,7 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "",
+      "subdomain": "学术事件",
       "image": null
     },
     {
@@ -33477,13 +33477,13 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "",
+      "subdomain": "行业应用",
       "image": null
     },
     {
       "id": "2026-09-21-0106-h",
       "date": "2026-09-21",
-      "domain": "AI 行业发展",
+      "domain": "国际焦点事件、重大会议",
       "title": "英国空管系统再次故障引发航班混乱 航空公司与首相表达关切",
       "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&amp;at_campaign=rss",
       "summary": "",
@@ -33499,13 +33499,13 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "灾害救援",
       "image": null
     },
     {
       "id": "2026-09-21-0184-h",
       "date": "2026-09-21",
-      "domain": "AI 行业发展",
+      "domain": "国际焦点事件、重大会议",
       "title": "英国航班因空管故障再度中断",
       "url": "https://www.ft.com/content/946b1b1e-292d-40ec-9cd8-dbf0475f4141?syn-25a6b1a6=1",
       "summary": "英国国家航空交通服务公司（NATS）表示，已修复其位于苏格兰普雷斯蒂克（Prestwick）管制中心的一处故障，该故障导致航班取消和延误。NATS 未披露受影响航班数量、延误时长或经济损失。",
@@ -33520,13 +33520,13 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "",
+      "subdomain": "灾害救援",
       "image": null
     },
     {
       "id": "2026-09-21-0059-h",
       "date": "2026-09-21",
-      "domain": "AI 行业发展",
+      "domain": "国际焦点事件、重大会议",
       "title": "英国首次就 1994 年卢旺达大屠杀提出指控",
       "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&amp;at_campaign=rss",
       "summary": "",
@@ -33542,13 +33542,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "全球治理",
       "image": null
     },
     {
       "id": "2026-09-21-0039-h",
       "date": "2026-09-21",
-      "domain": "AI 行业发展",
+      "domain": "科技产业（非 AI）",
       "title": "苹果发布 Mac 上关闭与限制 Apple Intelligence 的官方指南",
       "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
       "summary": "苹果发布了一份官方 Mac 使用指南，说明如何在 macOS 上关闭和限制 Apple Intelligence 功能。该指南在 Hacker News 上引发讨论，获得 177 分和 114 条评论，用户主要抱怨相关设置位置隐蔽、难以发现。有评论指出，写作工具的开关位于“设置 -&gt; 屏幕时间 -&gt; 内容与隐私限制 -&gt; Siri -&gt; 写作辅助”之下，普通用户很难自行找到。另有用户对设备上预装的 AI 模型占用磁盘空间表示不满，希望收回这部分存储。讨论还提到该指南适用于 macOS 26，而 iOS 27 上关闭八个不同应用的设置可能需要各走五六步。",
@@ -33564,13 +33564,13 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "模型发布",
+      "subdomain": "消费电子",
       "image": null
     },
     {
       "id": "2026-09-21-0198-h",
       "date": "2026-09-21",
-      "domain": "AI 行业发展",
+      "domain": "科技产业（非 AI）",
       "title": "蚂蚁集团调整支付宝架构，组建全新事业群",
       "url": "https://stock.10jqka.com.cn/20260921/c680135771.shtml",
       "summary": "蚂蚁集团 CEO 韩歆毅发布全员信，宣布将支付宝事业群、数字支付事业群和芝麻信用事业部合并，组建全新的支付宝事业群。吴敏芝将出任新事业群总裁，并兼任蚂蚁集团 CPO。 <details><summary>参考链接</summary> <ul> <li><a href=\"https://www.antgroup.com/\">蚂蚁集团</a></li> </ul> </details>",
@@ -33586,13 +33586,13 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "模型发布",
+      "subdomain": "互联网大厂",
       "image": null
     },
     {
       "id": "2026-09-21-0040-h",
       "date": "2026-09-21",
-      "domain": "AI 行业发展",
+      "domain": "科研与科技政策",
       "title": "陶哲轩宣布数学与人工智能咨询小组成立",
       "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
       "summary": "数学家陶哲轩（Terry Tao）在其博客上发布了一篇题为《数学与人工智能咨询小组》的文章，宣布成立一个聚焦数学与人工智能交叉领域的咨询小组。该条目在 Hacker News 首页以链接形式出现，但所提供的内容仅为指向该博客文章的裸链接，没有附带任何正文、技术细节或分析。因此，目前无法从现有材料判断该小组的具体成员、职责范围、成立时间或运作方式，也无法评估其实际影响。该主题涉及人工智能、数学与研究政策，来源可信，但可用证据过于单薄，尚不足以作出深入判断。",
@@ -33607,13 +33607,13 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "模型发布",
+      "subdomain": "科研生态",
       "image": null
     },
     {
       "id": "2026-09-21-0110-h",
       "date": "2026-09-21",
-      "domain": "AI 行业发展",
+      "domain": "国际形势",
       "title": "默茨政治危机考验德国对稳定的执念",
       "url": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&amp;at_campaign=rss",
       "summary": "BBC 分析文章指出，围绕德国政治人物默茨的政治危机正在威胁德国长期引以为傲的稳定传统。文章由 Katya Adler 撰写，认为德国的政治变动正受到欧洲及其他地区的高度关注。分析提到，民粹主义对民族认同及其所受威胁的强调——无论这些威胁是真实还是想象的——在那些对世界感到迷茫的选民中引发了深刻共鸣。该报道为简短的评论性文章，未提供具体事件细节、日期或数据。",
@@ -33629,13 +33629,13 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
       "id": "2026-09-21-0054-h",
       "date": "2026-09-21",
-      "domain": "医疗健康/生物医药",
+      "domain": "科技产业（非 AI）",
       "title": "Apple Watch S12/Ultra 4 被指 128G 硬盘仅开放 64 GB",
       "url": "https://bilibili.com/opus/1250158559208931350",
       "summary": "博主拆解 Apple Watch Series 12 和 Apple Watch Ultra 4 时发现，设备使用海力士 TLC NAND，裸 Die 容量为 152.98 GB，但实际提供给用户的仅 64 GB。博主提出，若三星颗粒也是 128 GB，多出的容量可能用于 OP 冗余，具体原因尚未确认。存储主控为 S6E，支持 PCIe 5.0 x1，也可能按 PCIe 4.0 x1 运行。博主称，持续健康监测可能增加写入量；其使用五年的 Series 7 已累计主机写入 5.84 TB，平均每天 3.3 GB。该说法来自拆解报告，核心结论尚未得到证实。 ## 综合新闻",
@@ -33651,7 +33651,7 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "医疗器械",
+      "subdomain": "消费电子",
       "image": null
     },
     {
@@ -33732,7 +33732,7 @@
     {
       "id": "2026-09-21-0157-h",
       "date": "2026-09-21",
-      "domain": "医疗健康/生物医药",
+      "domain": "国际焦点事件、重大会议",
       "title": "日本百岁老人首次突破 10 万，达 107,677 人，居全球之首",
       "url": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
       "summary": "日本厚生劳动省数据显示，日本百岁及以上人口首次突破 10 万，达到 107,677 人，为全球最多，其中 88%为女性。最长寿女性为京都府京都市 114 岁的岸本ふよ，最长寿男性为熊本县 112 岁的加藤光。厚生劳动大臣上野贤一郎表示，对如此多的人能够健康积极地长寿感到欣慰。这一人口里程碑凸显日本社会老龄化程度之深，也引发对年轻一代赡养负担及劳动力可持续性的关注。",
@@ -33748,13 +33748,13 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "全球治理",
       "image": null
     },
     {
       "id": "2026-09-21-0183-h",
       "date": "2026-09-21",
-      "domain": "医疗健康/生物医药",
+      "domain": "金融",
       "title": "星巴克咖啡师称医保保费大涨，部分涨幅超过一倍",
       "url": "https://www.theguardian.com/business/2026/sep/21/starbucks-baristas-health-insurance-surge",
       "summary": "星巴克工人联合会（Starbucks Workers United）一项针对 130 多名星巴克员工的调查显示，自 10 月 1 日起，这些员工的医保保费大幅上涨，部分涨幅超过一倍；有员工表示因此放弃医保。该调查由工会开展并独家提供给《卫报》，涵盖工会化与非工会化门店的员工。",
@@ -33770,13 +33770,13 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "医疗政策",
+      "subdomain": "公司财务",
       "image": null
     },
     {
       "id": "2026-09-21-0072-h",
       "date": "2026-09-21",
-      "domain": "医疗健康/生物医药",
+      "domain": "国际形势",
       "title": "特朗普再批美国媒体为“国家安全威胁”，三大媒体机构起诉白宫",
       "url": "https://www.france24.com/en/video/20260921-national-security-threat-trump-s-latest-attack-on-us-media",
       "summary": "美国总统特朗普周一指责主流媒体是“癌症”和国家安全威胁，这是他针对新闻界的最新攻击。此前，特朗普禁止 CNN、MS NOW 和 Politico 的记者进入白宫，这三家媒体机构周一表示将起诉特朗普政府，称该禁令“公然违反”第一修正案。诉讼寻求临时限制令以阻止特朗普的行动，联邦法院可能最早于本周举行紧急听证会。多家主要电视网络随后暂停了白宫电视报道，拒绝在禁令解除前为特朗普的日常活动提供联合采访报道。",
@@ -33794,7 +33794,7 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
@@ -33919,7 +33919,7 @@
     {
       "id": "2026-09-21-0155-h",
       "date": "2026-09-21",
-      "domain": "国内民生新闻",
+      "domain": "国际焦点事件、重大会议",
       "title": "优胜美地国家公园灭火直升机坠毁 致 2 人死亡",
       "url": "https://abcnews.com/US/helicopter-crash-dome-fire-yosemite-national-park/story?id=136624787",
       "summary": "据美国联邦航空管理局称，一架参与优胜美地国家公园灭火行动的直升机于周日下午坠毁，造成两人死亡。该直升机当时正在执行消防作业，事故发生在灭火任务期间。目前官方尚未公布遇难者身份及坠机具体原因，事故仍在调查中。这一事件凸显了野外灭火作业的高风险性。",
@@ -33935,7 +33935,7 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "社会事件",
+      "subdomain": "灾害救援",
       "image": null
     },
     {
@@ -33979,7 +33979,7 @@
     {
       "id": "2026-09-21-0115-h",
       "date": "2026-09-21",
-      "domain": "国内民生新闻",
+      "domain": "国际焦点事件、重大会议",
       "title": "哥伦比亚宣布进入公共灾难状态，野火威胁著名旅游小镇",
       "url": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva",
       "summary": "哥伦比亚当局宣布进入公共灾难状态，因为一场野火正在该国东北部著名殖民风格小镇莱瓦镇周边的山区蔓延，烧毁大片植被并迫使居民撤离。目前哥伦比亚全国有近 20 处活跃火点。干燥天气加剧了火险，该国正准备应对可能助长野火蔓延的厄尔尼诺现象。此次灾难状态宣布与人员疏散行动，正值该国野火风险因厄尔尼诺而升高之际。",
@@ -33997,7 +33997,7 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "天气灾害",
+      "subdomain": "灾害救援",
       "image": null
     },
     {
@@ -34018,7 +34018,7 @@
     {
       "id": "2026-09-21-0176-h",
       "date": "2026-09-21",
-      "domain": "国内民生新闻",
+      "domain": "金融",
       "title": "德国汽车工人抗议，大众预警加剧行业悲观情绪",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnJJLTVGWW5aUllhczl1T0lvaXpFSVJTS19oSjhURWVpWmlkQXBLRXFIaWpnQmhMRnNBUlM2SHdWVldmbXlZM0VONUtwU3NLa05xWkZzMUhjdzlhamJQZGRrZmJTRHU4LTZ1ODk1a0N2OGxRWFRaekZUV2tHbXVlQzBBREhuanBxcEk4WTBKZ2FtOWV3ekxpenpfWGV3M19NTVRqOUZ2UWk4UVFhVGFLS2tB?oc=5",
       "summary": "据彭博社报道，德国汽车工人举行抗议，此前大众汽车发出的预警加剧了汽车行业的悲观情绪。报道未提供预警的具体数据或细节。",
@@ -34034,7 +34034,7 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "天气灾害",
+      "subdomain": "公司财务",
       "image": null
     },
     {
@@ -34056,13 +34056,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "军工企业",
       "image": null
     },
     {
       "id": "2026-09-21-0052-h",
       "date": "2026-09-21",
-      "domain": "国防/军工动态",
+      "domain": "科技产业（非 AI）",
       "title": "亚马逊无人机配送扰民，得州郊区居民抱怨噪音",
       "url": "https://www.nytimes.com/2026/09/21/us/politics/amazon-drone-delivery-texas.html?unlocked_article_code=1.C1E.QIHL.7qTJRR5Uj6n4",
       "summary": "《纽约时报》报道称，亚马逊的无人机配送服务在得克萨斯州一个郊区造成大量无人机频繁飞越居民区，引发当地居民对噪音和生活质量下降的不满。Reddit 上的讨论帖聚焦于这一技术带来的副作用，评论者指出类似问题在奥马哈等地已持续存在，仓库附近居民全天都能听到无人机噪音。有评论者认为，随着亚马逊希望用无人机替代送货司机，这种高频次飞行将成为常态。也有居民表示无人机每隔几分钟就飞过自家屋顶，室内听不到但室外难以忽略，并对即时配送需求之大感到意外。",
@@ -34078,13 +34078,13 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "装备动态",
+      "subdomain": "互联网大厂",
       "image": null
     },
     {
       "id": "2026-09-21-0080-h",
       "date": "2026-09-21",
-      "domain": "国防/军工动态",
+      "domain": "国际形势",
       "title": "韩国前军官因 2024 年戒严事件被判刑",
       "url": "https://www.japantimes.co.jp/news/2026/09/21/asia-pacific/south-korea-commanders-martial-law/",
       "summary": "韩国前军方官员因参与 2024 年戒严事件被判处监禁。该事件与当时的韩国总统尹锡悦有关，尹锡悦于 2024 年宣布戒严，并下令军队前往国会，但这场自我政变最终失败。此次判决是针对该事件相关人员的司法追究的一部分。由于现有信息较为简略，具体刑期和涉案人员范围尚不明确。",
@@ -34100,13 +34100,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
       "id": "2026-09-21-0160-h",
       "date": "2026-09-21",
-      "domain": "国际形势",
+      "domain": "文体与社会热点",
       "title": "Converse 因广告被指使用种族主义意象而撤下球鞋广告",
       "url": "https://www.cbsnews.com/news/converse-pulls-sneaker-ad-racist-imagery/",
       "summary": "耐克旗下的 Converse 撤下了一则 Chuck Taylor 帆布鞋广告，此前该广告因被批评使用种族主义意象而引发争议。Converse 承认这则广告“令人深感不安”。该事件属于品牌在广告内容引发社会文化争议后作出回应的案例。",
@@ -34122,7 +34122,7 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "地缘政治",
+      "subdomain": "舆情热点",
       "image": null
     },
     {
@@ -34143,7 +34143,7 @@
     {
       "id": "2026-09-21-0177-h",
       "date": "2026-09-21",
-      "domain": "国际形势",
+      "domain": "科技产业（非 AI）",
       "title": "Verizon 光纤线路被切断，纽瓦克、纽约和费城航班受扰",
       "url": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
       "summary": "美国联邦航空管理局（FAA）的设备故障导致纽瓦克自由国际机场和费城国际机场周一航班运行受阻，该故障与一条 Verizon 光纤线路被切断有关。",
@@ -34158,7 +34158,7 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "",
+      "subdomain": "互联网大厂",
       "image": null
     },
     {
@@ -34194,7 +34194,7 @@
     {
       "id": "2026-09-21-0185-h",
       "date": "2026-09-21",
-      "domain": "国际形势",
+      "domain": "金融",
       "title": "中东冲突推高借贷成本，英国房主房贷年增约 840 英镑",
       "url": "https://www.ft.com/content/789c2d18-d6ce-4556-bbfb-877233b12aee?syn-25a6b1a6=1",
       "summary": "据《金融时报》报道，受中东冲突引发的借贷成本上升影响，英国房主的房贷成本每年增加约 840 英镑，并开始削弱消费者的支出能力。",
@@ -34210,7 +34210,7 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "军事冲突",
+      "subdomain": "央行政策",
       "image": null
     },
     {
@@ -34239,7 +34239,7 @@
     {
       "id": "2026-09-21-0053-h",
       "date": "2026-09-21",
-      "domain": "国际形势",
+      "domain": "能源与新材料",
       "title": "中国试验全球首座海底太阳能电站",
       "url": "https://interestingengineering.com/energy/china-scientists-underwater-solar-panels-power-plant",
       "summary": "据 Reddit 分享的一篇文章报道，中国正在试验全球首座海底太阳能电站。该报道称这是全球首个此类项目，但未提供技术细节、性能数据或独立验证。相关社区讨论热度不高，且主要围绕地缘政治而非技术层面展开。",
@@ -34255,7 +34255,7 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "地缘政治",
+      "subdomain": "光伏风电",
       "image": null
     },
     {
@@ -34343,7 +34343,7 @@
     {
       "id": "2026-09-21-0167-h",
       "date": "2026-09-21",
-      "domain": "国际形势",
+      "domain": "金融",
       "title": "共和党议员促特朗普禁止美国柴油出口",
       "url": "https://www.ft.com/content/319c7b67-b585-407e-a0da-6e23b1612180?syn-25a6b1a6=1",
       "summary": "据金融时报报道，来自美国农村地区的共和党议员正敦促特朗普禁止美国柴油出口，以应对其伊朗战争引发的燃料价格危机。报道未提供具体价格数据，也未确认是否已有政策行动。",
@@ -34359,13 +34359,13 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "军事冲突",
+      "subdomain": "大宗商品",
       "image": null
     },
     {
       "id": "2026-09-21-0136-h",
       "date": "2026-09-21",
-      "domain": "国际形势",
+      "domain": "科技产业（非 AI）",
       "title": "前联邦检察官称出售 Truth Social 帖子提前访问权属违法",
       "url": "https://www.cbsnews.com/news/ex-federal-prosecutors-trump-media-early-access-truth-social-posts/",
       "summary": "特朗普媒体与科技集团（Trump Media &amp; Technology）近期推出 Truth Social 的 API 数据接口，以 10 万美元的价格出售“对 Truth Social 最高级别账号帖子的实时访问权”。多名前联邦检察官表示，出售特朗普 Truth Social 帖子的提前访问权属于违法行为。此事涉及特朗普媒体旗下社交平台的付费数据服务，引发对媒体监管与市场合规的关注。",
@@ -34381,7 +34381,7 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "外交",
+      "subdomain": "互联网大厂",
       "image": null
     },
     {
@@ -34404,13 +34404,13 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "地缘政治",
+      "subdomain": "外交",
       "image": null
     },
     {
       "id": "2026-09-21-0146-h",
       "date": "2026-09-21",
-      "domain": "国际形势",
+      "domain": "文体与社会热点",
       "title": "因凡蒂诺称世界杯争议后愿就国际足联改革展开磋商",
       "url": "https://www.france24.com/en/sport/20260921-infantino-says-open-to-fifa-reform-talks-after-world-cup-controversy",
       "summary": "",
@@ -34426,13 +34426,13 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "地缘政治",
+      "subdomain": "体育",
       "image": null
     },
     {
       "id": "2026-09-21-0143-h",
       "date": "2026-09-21",
-      "domain": "国际形势",
+      "domain": "国内民生新闻",
       "title": "塔斯马尼亚三文鱼养殖场自 2016 年以来使用逾 15 万枚水下爆炸物驱赶海豹",
       "url": "https://www.theguardian.com/australia-news/2026/sep/22/underwater-explosives-used-to-deter-seals-at-tasmanian-salmon-farms-since-2016",
       "summary": "塔斯马尼亚政府最新数据显示，自 2016 年以来，当地三文鱼养殖企业已在海域中使用超过 15 万枚水下爆炸物来驱赶海豹。塔斯马尼亚自然资源与环境部（NRE Tas）上周公布的数据显示，仅 2026 年上半年，三文鱼公司就向养殖场附近的海豹投放了近 1800 枚水下爆炸物。这一数字凸显了水产养殖业与海洋野生动物之间的持续冲突，也引发了对动物福利和行业监管的关注。",
@@ -34448,7 +34448,7 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "军事冲突",
+      "subdomain": "社会事件",
       "image": null
     },
     {
@@ -34477,7 +34477,7 @@
     {
       "id": "2026-09-21-0111-h",
       "date": "2026-09-21",
-      "domain": "国际形势",
+      "domain": "国际焦点事件、重大会议",
       "title": "斯里兰卡北部意外发现该国最大乱葬岗，内战创伤再度被揭开",
       "url": "https://www.bbc.co.uk/news/articles/cm1j4kl80z56o?at_medium=RSS&amp;at_campaign=rss",
       "summary": "斯里兰卡北部工人在施工中意外发现了该国迄今规模最大的乱葬岗，共出土 572 具遗骸。这一发现与斯里兰卡内战相关，重新揭开了战争留下的社会创伤。事件引发国际关注，被视为具有历史与社会意义的重要进展，但并非影响市场或政策的紧迫事件。",
@@ -34492,7 +34492,7 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "军事冲突",
+      "subdomain": "全球治理",
       "image": null
     },
     {
@@ -34542,7 +34542,7 @@
     {
       "id": "2026-09-21-0168-h",
       "date": "2026-09-21",
-      "domain": "国际形势",
+      "domain": "金融",
       "title": "泄密文件：克里姆林宫支持的伪造计划经全球银行转移 69 亿美元",
       "url": "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1?syn-25a6b1a6=1",
       "summary": "据《金融时报》报道，一份来自金融科技公司 A7 内部的泄密文件显示，一项由克里姆林宫支持的伪造计划通过渣打银行、花旗集团等国际银行转移了 69 亿美元。",
@@ -34558,7 +34558,7 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "",
+      "subdomain": "公司财务",
       "image": null
     },
     {
@@ -34581,7 +34581,7 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "军事冲突",
+      "subdomain": "外交",
       "image": null
     },
     {
@@ -34603,7 +34603,7 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "军事冲突",
+      "subdomain": "外交",
       "image": null
     },
     {
@@ -34640,7 +34640,7 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "军事冲突",
+      "subdomain": "外交",
       "image": null
     },
     {
@@ -34662,13 +34662,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "军事冲突",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
       "id": "2026-09-21-0130-h",
       "date": "2026-09-21",
-      "domain": "国际形势",
+      "domain": "AI 行业发展",
       "title": "美中紧张关系令全球 AI 安全协议前景复杂化",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYlZPMTBWa09ZNHd4U05adDg3T3FLcDNyczdLaTRQMGNmMkVlNHZLNTliLWV4bmswcGRUSWpaZUtGdnMxejBwbE9lY3FDTll2R2ItVFFyQW9nbFg4MDZYUmVfQVBTeXVRYk5kczE1V3VydzZJRTF4RWlDNzgwdGtFdUt6Wl9fcVIyV0RFeEp2MDlaazlHVXJKOXBxRHM?oc=5",
       "summary": "据 1News 援引美联社报道，美国与中国之间的紧张关系正在使达成一项全球人工智能安全协议的前景变得更加复杂。该报道指出，这一地缘政治摩擦为国际社会在 AI 安全治理上的协调努力增添了障碍。目前披露的信息仅为标题和来源归属，尚无关于谈判进展、具体参与方或协议框架的实质性细节。",
@@ -34684,7 +34684,7 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "地缘政治",
+      "subdomain": "行业应用",
       "image": null
     },
     {
@@ -34707,7 +34707,7 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "地缘政治",
+      "subdomain": "制裁贸易",
       "image": null
     },
     {
@@ -34776,7 +34776,7 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "地缘政治",
+      "subdomain": "军事冲突",
       "image": null
     },
     {
@@ -34856,7 +34856,7 @@
     {
       "id": "2026-09-21-0082-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "国际形势",
       "title": "与基地组织有关武装分子据称在袭击中杀害逾百名马里士兵",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEZhbk1EWjhiRnM4M2Z5QXQ0TTZ5Vlg0OFBiTXR0TkdjOW54b3BjWmR5ZnZ5c2N1QndsTEFXR19hRVQ4dDNvSGNIdzFoZ09scC1yaWUtZDk4VnJEZzF5RkJtelFvZUhhT3hvQUFyZkRvLXZweEZjTWNRZ1hOUldGaGFBem9ycmNSZk5BYW9UenZ5d1ZmT3NqLTlBcXpSRDZVRDFRZlNXbWtZTzZ1QkpYdGVlb0h0X2V2OEJ5dERpdzMwYUtuWWc?oc=5",
       "summary": "据路透社援引消息人士报道，与基地组织有关联的武装分子本月发动袭击，杀害了超过 100 名马里士兵。这一事件若得到证实，将是马里军方近期遭受的最严重伤亡之一，凸显萨赫勒地区安全形势持续恶化。报道基于未具名消息源，目前缺乏袭击具体时间、地点及官方确认等细节。",
@@ -34873,7 +34873,7 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "军事冲突",
       "image": null
     },
     {
@@ -34894,7 +34894,7 @@
     {
       "id": "2026-09-21-0102-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "国际形势",
       "title": "丹麦称格陵兰安全协议将北极安全置于北约框架下",
       "url": "https://www.reuters.com/world/europe/denmark-says-nato-shares-responsibility-arctic-security-under-greenland-deal-2026-09-21/",
       "summary": "丹麦、格陵兰与美国将于周二在纽约联合国大会期间签署一项关于格陵兰安全的协议。丹麦方面表示，该协议将把北极安全置于北约的监督之下，而非仅由华盛顿和哥本哈根双边负责。协议定于美国东部时间上午 10 时 30 分（格林尼治时间 14 时 30 分）签署，但具体内容尚未公开。美国总统特朗普称该协议赋予美国“永久控制权”，而丹麦和格陵兰方面的说法与此存在差异。此举涉及北约、美国与丹麦在北极地区的安全安排，具有明显的地缘政治影响。",
@@ -34912,13 +34912,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "国际组织",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
       "id": "2026-09-21-0061-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "国际形势",
       "title": "伊拉克总理扎伊迪誓言解除伊朗支持民兵武装",
       "url": "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html",
       "summary": "",
@@ -34934,13 +34934,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
       "id": "2026-09-21-0191-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "国际形势",
       "title": "伊朗总统将赴纽约出席联合国会议，特朗普警告无协议后果",
       "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
       "summary": "伊朗总统佩泽希齐扬将前往纽约出席联合国会议；特朗普警告称，若德黑兰不达成协议，将摧毁伊朗经济或清除其领导层，这使外交努力更加复杂。",
@@ -34956,13 +34956,13 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "国际组织",
+      "subdomain": "外交",
       "image": null
     },
     {
       "id": "2026-09-21-0156-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "国际形势",
       "title": "前法塔赫官员称以色列与哈马斯在 10 月 7 日前曾接近达成协议",
       "url": "https://www.haaretz.com/gaza/2026-09-21/ty-article/.premium/ex-fatah-official-israel-and-hamas-were-close-to-reaching-deal-before-oct-7/000001a0-c326-d310-a9bf-c7ee3d6c0001",
       "summary": "",
@@ -34979,7 +34979,7 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "全球治理",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
@@ -35002,13 +35002,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "灾害救援",
       "image": null
     },
     {
       "id": "2026-09-21-0147-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "文体与社会热点",
       "title": "南非连环杀害女性事件引发关注：南部非洲性别暴力为何难以根除",
       "url": "https://www.dw.com/en/why-gender-based-violence-persists-in-southern-africa/a-79356560?maca=en-rss-en-world-4025-rdf",
       "summary": "德国之声报道指出，南非近期发生的一系列杀害事件再次引发外界对打击针对女性暴力行为的关注。活动人士表示，仅有法律并不足够，关键在于有效落实。报道认为，南部非洲的性别暴力问题持续存在，反映出执法与执行层面的不足。",
@@ -35024,13 +35024,13 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "舆情热点",
       "image": null
     },
     {
       "id": "2026-09-21-0120-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "国际形势",
       "title": "博索纳罗家族南下布局：卡洛斯与雅伊尔·雷南竞选巴西南部议席",
       "url": "https://www.france24.com/en/americas/20260921-bolsonaro-sons-carlos-and-race-for-power-brazil-south",
       "summary": "",
@@ -35047,13 +35047,13 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
       "id": "2026-09-21-0065-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "文体与社会热点",
       "title": "安大略省贝尔维尔犹太教堂附近赎罪日发生枪击，一名警察受伤",
       "url": "https://www.nytimes.com/2026/09/21/world/canada/synagogue-shooting-belleville-ontario-yom-kippur.html",
       "summary": "",
@@ -35069,13 +35069,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "法治",
       "image": null
     },
     {
       "id": "2026-09-21-0097-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "国际形势",
       "title": "德国州选举：极右翼 AfD 领先，默茨所在基民盟遭遇战后最惨重地区性失败",
       "url": "https://www.haaretz.com/world-news/europe/2026-09-21/ty-article/far-right-afd-party-leads-germany-state-election-merz-suffers-major-defeat/000001a0-c2f1-d286-adff-d6f7b1280000",
       "summary": "",
@@ -35092,13 +35092,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
       "id": "2026-09-21-0067-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "国际形势",
       "title": "德国总理默茨在州选举失利后誓言留任，极右翼 AfD 再获进展",
       "url": "https://www.theguardian.com/world/2026/sep/21/germany-chancellor-freidrich-merz-cdu-christian-democratic-union-state-election-defeats-mecklenburg-western-pomerania-berlin",
       "summary": "",
@@ -35116,13 +35116,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
       "id": "2026-09-21-0138-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "科研与科技政策",
       "title": "柯林斯与默里反对白宫据报推动 NIH 拨款政治化",
       "url": "https://thehill.com/policy/healthcare/6102442-collins-murray-omb-nih-grants/",
       "summary": "",
@@ -35140,13 +35140,13 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "科研生态",
       "image": null
     },
     {
       "id": "2026-09-21-0070-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "金融",
       "title": "派拉蒙让步以挽救 1110 亿美元华纳兄弟探索交易",
       "url": "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit",
       "summary": "派拉蒙的拥有者已向 12 位民主党州总检察长作出让步，以了结一桩威胁其收购好莱坞竞争对手华纳兄弟探索公司的诉讼。据路透社报道，派拉蒙在华纳兄弟收购案中胜出，此前已与各州及工会的诉讼达成和解。NBC 新闻报道称，派拉蒙 Skydance 与华纳兄弟探索公司价值约 1100 亿美元的合并现已确定推进。有报道指出，若这笔 1100 亿美元的交易在 9 月 30 日前完成，由埃里森领导的派拉蒙将可避免每日 700 万美元的费用。Variety 和《纽约时报》均报道称，派拉蒙与各州总检察长就反垄断案达成和解，为华纳兄弟交易扫清了障碍。",
@@ -35163,13 +35163,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "公司财务",
       "image": null
     },
     {
       "id": "2026-09-21-0098-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "国际形势",
       "title": "消息称特朗普政府准备对国际刑事法院实施大规模制裁",
       "url": "https://www.haaretz.com/us-news/2026-09-21/ty-article/sources-trump-administration-readying-sweeping-sanctions-against-icc/000001a0-c2ec-d310-a9bf-c7ee44b70000",
       "summary": "据路透社援引《华尔街日报》报道，美国官员透露，特朗普政府正准备对国际刑事法院（ICC）实施大规模制裁，相关决定可能在本周联合国大会会议期间敲定。此举被视为特朗普政府进一步削弱这一全球司法机构的行动。报道称，日本首相高市早苗将面临两难处境，需在台湾问题引发的关切以及美国对国际刑事法院日本籍院长实施制裁之间谨慎权衡。",
@@ -35186,13 +35186,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "国际组织",
+      "subdomain": "制裁贸易",
       "image": null
     },
     {
       "id": "2026-09-21-0142-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "国际形势",
       "title": "澳大利亚新闻直播：查默斯称出生率下降需靠移民；悉尼市禁智能眼镜",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb",
       "summary": "澳大利亚财政部长查默斯表示，在出生率下降的背景下，澳大利亚需要依靠移民来维持人口与经济发展。与此同时，悉尼市议会通过禁令，禁止在市政相关场合使用智能眼镜。总理阿尔巴尼斯在纽约联合国大会期间，与二十多个国家领导人共同签署声明，呼吁将人工智能的快速发展置于人类控制之下，并强调 AI 必须符合国际法。阿尔巴尼斯还在联合国气候周活动上表示，澳大利亚对全球变暖的危险和气候行动的紧迫性有切身感受，过去数十年经历了严重的山火和洪水。",
@@ -35208,13 +35208,13 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "国际组织",
+      "subdomain": "外交",
       "image": null
     },
     {
       "id": "2026-09-21-0092-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "国际形势",
       "title": "特朗普将在伊朗战争阴影下出席联合国大会并发表讲话",
       "url": "https://abcnews.com/Politics/trump-address-general-assembly-iran-war-looms-large/story?id=136621201",
       "summary": "美国总统特朗普计划在纽约市出席联合国大会并发表讲话，同时将会见受伊朗战争影响的海湾国家领导人。此次行程正值美国与伊朗持续交战之际，使这一联合国大会讲话具有突出的国际关注度。目前披露的信息较为有限，尚未说明特朗普是否会在讲话中宣布具体政策或新举措。",
@@ -35230,7 +35230,7 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "国际组织",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
@@ -35253,13 +35253,13 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "国际组织",
+      "subdomain": "重大会议",
       "image": null
     },
     {
       "id": "2026-09-21-0125-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "国际形势",
       "title": "特朗普迎来外交密集周：联合国大会与习近平时段会晤，盟友支持不足成隐忧",
       "url": "https://www.washingtonpost.com/politics/2026/09/21/trump-speak-un-host-chinese-leader-has-alienated-allies/",
       "summary": "美国总统特朗普本周将展开密集外交活动：周二在联合国发表讲话，周四与中国国家主席习近平举行会晤。据《华盛顿邮报》分析，特朗普在这两场重要外交场合中“基本上将独自面对”，因为其此前的外交政策已疏远了许多传统盟友。报道指出，这一周的高风险外交议程还包括伊朗问题等全球危机，而盟友支持的缺失可能削弱美方在联合国及对华谈判中的影响力。目前披露的内容较为简短，具体议程与成果尚待进一步信息确认。",
@@ -35276,13 +35276,13 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "国际组织",
+      "subdomain": "外交",
       "image": null
     },
     {
       "id": "2026-09-21-0116-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "重大政策（国内）",
       "title": "维多利亚州将禁止在住宅区建设数据中心",
       "url": "https://www.theguardian.com/australia-news/2026/sep/22/datacentres-in-victoria-to-be-banned-in-residential-areas",
       "summary": "",
@@ -35300,13 +35300,13 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "经济产业",
       "image": null
     },
     {
       "id": "2026-09-21-0169-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "国际形势",
       "title": "美中称会谈积极，特朗普与习近平峰会前释放进展信号",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXFEVnhDOG40MGFwR0ZVZWhjTFNmOFFUQUdsN19vMTFjRnh5SklUZGVKRlVnWUhBRlA0ZEVjRXM4VWotOFdZUDdaV2F1elRXczgxMzlQWTN1U2xSSWRyRzRVOEVhRXY5OGJ6RENSMzg4aDV2NXlPXzVaeHpPSlNrcEh0QS1NWm05Vkllci1JZWtMamNlSFAwMGgwZlplbkN5dGdXSXE0dXZLQkpXWE1FNzdR?oc=5",
       "summary": "据彭博社报道，美国和中国的会谈被双方形容为“积极”，这发生在特朗普与习近平峰会之前，显示贸易关系可能出现进展。报道未提供具体数字、政策细节或比较基准。",
@@ -35321,13 +35321,13 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "重大会议",
+      "subdomain": "外交",
       "image": null
     },
     {
       "id": "2026-09-21-0121-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "国际形势",
       "title": "美中竞争重塑全球贸易格局，欧洲夹在中间",
       "url": "https://www.dw.com/en/us-china-rivalry-is-reshaping-global-trade-and-europe-is-caught-in-the-middle/a-79356540?maca=en-rss-en-world-4025-rdf",
       "summary": "德国之声的一篇分析指出，中国国家主席习近平本周将前往华盛顿与美国总统特朗普举行峰会。分析认为，无论会谈结果如何，欧盟都可能继续夹在美国反复无常的贸易政策与中国强大的出口机器之间。峰会前夕，芝加哥全球事务委员会周一公布的民调显示，美国人对中国的看法较去年和 2024 年有所改善，认为北京威胁较小，对台湾的支持度下降，更倾向于接触而非遏制，但民调也显示出党派分歧。",
@@ -35345,13 +35345,13 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "重大会议",
+      "subdomain": "制裁贸易",
       "image": null
     },
     {
       "id": "2026-09-21-0081-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "金融",
       "title": "美联储官员穆萨莱姆：或需进一步加息以遏制通胀",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjJsZS0wTVZyNThsTkszYWk2c2xqN19RbzlWSnpqQ3cwZ0xCLWFTT0xaVkpkWkE5MmhDZFg1bHZzUW9EYlBuQVpUOVIydEJoVmR6OVl0ME5WNllZZTRVWXFMYy0yX19mNG9nYU5GbFpMdXdaeTA3ZDFiOXlTTlBGNDBmZ2VxR0I3UzE4M25hVGNZcDZXU0pXSFdXV1FIRVQ3dEh4XzRnLUZDN3do?oc=5",
       "summary": "",
@@ -35368,7 +35368,7 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "央行政策",
       "image": null
     },
     {
@@ -35392,7 +35392,7 @@
       "score": 9.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "国际组织",
+      "subdomain": "全球治理",
       "image": null
     },
     {
@@ -35416,13 +35416,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "国际组织",
+      "subdomain": "重大会议",
       "image": null
     },
     {
       "id": "2026-09-21-0076-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "国际形势",
       "title": "英国首相伯纳姆同意沙特空中加油支援请求",
       "url": "https://www.scmp.com/news/world/europe/article/3368308/uk-pm-burnham-agrees-saudi-request-refuelling-support?utm_source=rss_feed",
       "summary": "",
@@ -35439,13 +35439,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "军事冲突",
       "image": null
     },
     {
       "id": "2026-09-21-0093-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "金融",
       "title": "贝森特在美联储加息后表示对沃什“充满信心”",
       "url": "https://thehill.com/business/6102424-bessent-supports-warsh-after-fed-hike/",
       "summary": "",
@@ -35463,13 +35463,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "央行政策",
       "image": null
     },
     {
       "id": "2026-09-21-0127-h",
       "date": "2026-09-21",
-      "domain": "国际焦点事件、重大会议",
+      "domain": "国际形势",
       "title": "韩国总统幕僚长辞职，李在明支持率下滑",
       "url": "https://www.japantimes.co.jp/news/2026/09/21/asia-pacific/politics/lee-chief-staff-resigns/",
       "summary": "韩国总统幕僚长已辞职，此时总统李在明的支持率正在下滑。据日本时报报道，支持率下降部分被归因于部长级人事提名失败。该报道未提供辞职的具体时间、继任者安排或支持率的具体数字。幕僚长辞职与提名受挫叠加，可能进一步影响李在明政府的施政推进与内阁组建。",
@@ -35485,7 +35485,7 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
@@ -35506,7 +35506,7 @@
     {
       "id": "2026-09-21-0148-h",
       "date": "2026-09-21",
-      "domain": "教育政策",
+      "domain": "国际形势",
       "title": "习近平回信美国大学生 寄语青年推动中美合作",
       "url": "https://www.scmp.com/news/hong-kong/education/article/3368300/president-xi-jinping-calls-china-us-youth-advance-bilateral-cooperation?utm_source=rss_feed",
       "summary": "据中国官方媒体报道，国家主席习近平在回复美国 10 所大学学生的来信时表示，希望年轻一代能够推动中美合作、增进相互理解，确保双边关系稳定、长期发展。这些学生本月早些时候参加了在中国举办的青年交流项目，并在信中分享了他们的感受和经历。习近平的上述表态由新华社于周一报道。这一外交信号值得关注，但属于对青年交流的总体期望，而非具体政策调整或协议。",
@@ -35523,7 +35523,7 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "高等教育",
+      "subdomain": "外交",
       "image": null
     },
     {
@@ -35544,7 +35544,7 @@
     {
       "id": "2026-09-21-0078-h",
       "date": "2026-09-21",
-      "domain": "教育政策",
+      "domain": "国际焦点事件、重大会议",
       "title": "加沙儿童近三年来首次重返线下课堂",
       "url": "https://www.scmp.com/news/world/middle-east/article/3368299/gaza-children-return-person-schools-first-time-3-years?utm_source=rss_feed",
       "summary": "加沙数十万名儿童近三年来首次重返线下课堂，但许多人在受损或临时搭建的校舍和帐篷中上课，校服、笔记本和笔等学习用品对不少家庭而言仍难以负担。联合国儿童基金会表示，加沙 98%的学校在战争中遭到摧毁或损坏。加沙教育官员称，约 66 万名学生此前被剥夺了线下学习和正常教育的机会。此次复课是在基础设施严重受损和人道主义条件受限的背景下进行的。",
@@ -35561,7 +35561,7 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "基础教育",
+      "subdomain": "灾害救援",
       "image": null
     },
     {
@@ -35672,13 +35672,13 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "文化",
+      "subdomain": "舆情热点",
       "image": null
     },
     {
       "id": "2026-09-21-0018-h",
       "date": "2026-09-21",
-      "domain": "文体与社会热点",
+      "domain": "AI 行业发展",
       "title": "不列颠哥伦比亚省政府就 Tumbler Ridge 枪击案起诉 OpenAI",
       "url": "https://www.cbc.ca/news/canada/british-columbia/bc-government-announce-update-openai-legal-action-9.7352395",
       "summary": "加拿大不列颠哥伦比亚省（B.C.）政府宣布对 OpenAI 提起法律诉讼，指控该公司在 Tumbler Ridge 大规模枪击事件中扮演了某种角色。该消息由 CBC 新闻报道，并在 Reddit 上引发讨论，焦点集中在 AI 责任归属与监管问题上。目前公开信息未披露诉讼的具体法律依据、索赔金额、指控细节或 OpenAI 的回应，案件事实与责任认定仍有待进一步披露。",
@@ -35694,7 +35694,7 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "法治",
+      "subdomain": "行业应用",
       "image": null
     },
     {
@@ -35730,7 +35730,7 @@
     {
       "id": "2026-09-21-0117-h",
       "date": "2026-09-21",
-      "domain": "文体与社会热点",
+      "domain": "国际形势",
       "title": "数千移民滞留西班牙飞地休达，生存状况引发关注",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss",
       "summary": "半岛电视台报道，在 7 月出现创纪录的移民涌入潮后，数千名移民仍滞留在西班牙飞地休达。当局估计，目前至少还有 1 万人留在该地。报道关注这些滞留者如何维持生存，并提到足球也被卷入围绕摩洛哥移民涌入休达的紧张局势之中。",
@@ -35746,7 +35746,7 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "体育",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
@@ -35977,7 +35977,7 @@
     {
       "id": "2026-09-21-0096-h",
       "date": "2026-09-21",
-      "domain": "每日开源项目",
+      "domain": "国际形势",
       "title": "报道称特朗普应沙特请求下令打击胡塞武装后又临时叫停",
       "url": "https://www.haaretz.com/middle-east-news/2026-09-21/ty-article/.premium/report-trump-backtracked-after-ordering-strikes-on-houthis-at-saudis-request/000001a0-c376-d286-adff-d7f670840000",
       "summary": "",
@@ -35994,7 +35994,7 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "军事冲突",
       "image": null
     },
     {
@@ -36016,7 +36016,7 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "芯片半导体",
+      "subdomain": "消费电子",
       "image": null
     },
     {
@@ -36066,7 +36066,7 @@
     {
       "id": "2026-09-21-0181-h",
       "date": "2026-09-21",
-      "domain": "科技产业（非 AI）",
+      "domain": "AI 行业发展",
       "title": "Meta 的 Muse AI 代理带动芯片股上涨，AMD 市值突破 1 万亿美元",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SSTIydHlWS0FFdS1GRHczbHByd0d5aXU0OEF5X1lkTUdVTjlldTlVdEYwZHNxR0Z3M0RvWnU2TXBKV2R3NDViTFoxZDlVV3RfQ0NaZVQ4VXhFdmdpVXh6eER2YjlhOTRrRVktQ3h5Ykd2THBmcmZiTVI0YTNWdw?oc=5",
       "summary": "据《巴伦周刊》报道，Meta 的 Muse AI 代理引发英特尔及其他芯片股上涨，AMD 市值突破 1 万亿美元。报道未提供涨幅或 Muse AI 代理具体细节。",
@@ -36082,7 +36082,7 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "芯片半导体",
+      "subdomain": "智能体",
       "image": null
     },
     {
@@ -36109,7 +36109,7 @@
     {
       "id": "2026-09-21-0026-h",
       "date": "2026-09-21",
-      "domain": "科技产业（非 AI）",
+      "domain": "每日开源项目",
       "title": "修复的 PDP-11/83 运行 211BSD 提供网页服务",
       "url": "http://pdp1173.com/",
       "summary": "一台经过修复的 PDP-11/83 小型计算机正在运行 211BSD Unix，并据称通过它提供所链接页面的服务。该项目属于复古计算与硬件保存范畴，涉及硬件修复和遗留操作系统的实际运行。由于来源内容仅为一个链接，没有附带技术细节、说明或分析，因此关于其配置、性能或实现方式的信息尚不明确。",
@@ -36125,7 +36125,7 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "",
+      "subdomain": "开发者工具",
       "image": null
     },
     {
@@ -36168,7 +36168,7 @@
     {
       "id": "2026-09-21-0131-h",
       "date": "2026-09-21",
-      "domain": "科技产业（非 AI）",
+      "domain": "国际形势",
       "title": "日经：日中关系趋冷之际，特朗普为习近平铺红毯",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdi1aemYzMmVIQnFvOEZjZl92eTcycTFKREFTaTRWS3hxYkpfM09zdS0yQXhNbE1vaGoyVWN6ZnlHVjZDZXVGQmNncFo0YkhnZ3lzSm1ucUx5V2RZWkl4UHF4cWlwcHB6ZF81eGhmeElfMGZfWDhFaDU2MU5VbUtyT0ZBQ1pscFhheUY2MFNWVUg1ZzJWSmdLVXhoS2ZadnhYdmlKb083TnhvcUpWVk5USHNWQWJzbzYyQkpmNmNVX01lUjRTX19meGZyMHl1U1dKVDVJTXUxczBNSTRJ?oc=5",
       "summary": "《日经亚洲》报道称，随着美国总统特朗普准备高规格接待中国国家主席习近平，日本与中国的关系正在恶化。报道指出，习近平与特朗普将于 9 月 24 日举行峰会，这并非一次普通会晤：两人 5 月的会晤在北京举行，主要聚焦经济议题，而此次会晤将在特朗普的主场进行，预计将把战略问题摆上桌面。报道还提出疑问：朝鲜半岛局势与朝鲜核问题是否会再次被边缘化。报道提到，在北京的会晤中，双方聚焦于贸易、半导体、稀土等直接涉及本国利益的议题。",
@@ -36185,7 +36185,7 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "芯片半导体",
+      "subdomain": "外交",
       "image": null
     },
     {
@@ -36207,7 +36207,7 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "消费电子",
+      "subdomain": "互联网大厂",
       "image": null
     },
     {
@@ -36235,7 +36235,7 @@
     {
       "id": "2026-09-21-0118-h",
       "date": "2026-09-21",
-      "domain": "科技产业（非 AI）",
+      "domain": "国际焦点事件、重大会议",
       "title": "联合国秘书长古特雷斯呼吁禁止“杀手机器人”",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/un-chief-guterres-calls-for-ban-on-killer?traffic_source=rss",
       "summary": "",
@@ -36251,7 +36251,7 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "机器人",
+      "subdomain": "全球治理",
       "image": null
     },
     {
@@ -36310,7 +36310,7 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "消费电子",
+      "subdomain": "互联网大厂",
       "image": null
     },
     {
@@ -36367,7 +36367,7 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "",
+      "subdomain": "科研生态",
       "image": null
     },
     {
@@ -36425,7 +36425,7 @@
     {
       "id": "2026-09-21-0165-h",
       "date": "2026-09-21",
-      "domain": "能源与新材料",
+      "domain": "国际形势",
       "title": "法国呼吁欧盟立即行动降低能源价格",
       "url": "https://www.ft.com/content/07c05f00-5c05-4b6d-837b-17118b266ecd?syn-25a6b1a6=1",
       "summary": "法国呼吁欧盟立即采取行动降低能源价格，总统马克龙同时要求欧盟委员会将新甲烷规则的实施推迟一年。",
@@ -36441,7 +36441,7 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "",
+      "subdomain": "外交",
       "image": null
     },
     {
@@ -36522,7 +36522,7 @@
     {
       "id": "2026-09-21-0075-h",
       "date": "2026-09-21",
-      "domain": "重大政策（国内）",
+      "domain": "国际形势",
       "title": "华盛顿邮报调查：特朗普政府将难民机构改造为 4.1 亿美元驱逐行动",
       "url": "https://www.washingtonpost.com/politics/interactive/2026/09/21/how-trump-turned-refugee-bureau-into-410-million-deportation-operation/",
       "summary": "《华盛顿邮报》发布调查报道，指出特朗普政府将原本负责难民事务的机构改造为一项规模达 4.1 亿美元的驱逐行动。报道称，该行动涉及秘密协议，旨在将移民遣送至并非其原籍国的第三国。这一政策转向被视为美国移民与国际关系领域的重大变化，但报道的具体细节、涉及国家及协议内容目前尚未在已提供的信息中披露。",
@@ -36539,13 +36539,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
       "id": "2026-09-21-0187-h",
       "date": "2026-09-21",
-      "domain": "重大政策（国内）",
+      "domain": "国际形势",
       "title": "彭博：特朗普相关委内瑞拉石油协议依赖老旧偏远油田",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUS02OHhXa2JDZmg3QnVubmxjajI5cHNnWm9OMjBTdjBJTXhMdHNxMzh3aXk0dXpoWXozd3R0Y3llenlOa1ptTzBiOFBIcHB6RlIzNzl1dVVGU2hqNUpWd3BJUzV0bjNibDEzZXBMc1BVcEN0SHo2aVVNMmM2ZEpqU1B2Y01ERjVmZXY0bExKYm12X3o0RUJEbHB1NXZ0VWxUX1pHbmhfSUFUM2lVMXRGVFRWQkp0YkVldkdJNlZyWHVISU9IMGFr?oc=5",
       "summary": "彭博社报道称，一项与特朗普相关的委内瑞拉石油协议将取决于当地老旧且偏远的油田；该报道未提供具体金额、产量或政策细节。",
@@ -36561,13 +36561,13 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "",
+      "subdomain": "制裁贸易",
       "image": null
     },
     {
       "id": "2026-09-21-0135-h",
       "date": "2026-09-21",
-      "domain": "重大政策（国内）",
+      "domain": "国际形势",
       "title": "联邦法官下令将一名被遣送至中非国家的洪都拉斯移民接回美国",
       "url": "https://abcnews.com/US/judge-orders-return-honduran-migrant-deported-central-african/story?id=136626492",
       "summary": "一名洪都拉斯移民被遣送至一个中非国家一个月后，一名联邦法官下令美国政府将其接回美国。该命令针对的是单个个体，而非整体政策调整，但涉及将移民遣送至第三国的做法，因而具有更广泛的移民执法与司法审查意义。目前公开信息未披露该移民的姓名、被遣送的具体国家名称，以及法官命令的详细法律依据。",
@@ -36584,13 +36584,13 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
       "id": "2026-09-21-0194-h",
       "date": "2026-09-21",
-      "domain": "重大政策（国内）",
+      "domain": "金融",
       "title": "高盛策略师回应泡沫担忧：企业盈利增速远超经济",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVmZhV3pfRGtoN0s4TW1ZN20wZ1lIejZTQ1N5NHQ4NnU3MkxnaXAzNDloNVlOYkVQWXhJQVZPOTcyQnFKOVR0eWNoZkRmV2VWUEJSM25YeEx5NXNVOEFLdWlmZlhPUVJyb0V5ZVV2TXhyUl9hNUNwR1FXY0dVUzVFQlV6YjRuS3NQN2JPNnBkZXZJZlN2VXB5c0tla2NrOVRLRk1QSVRwUThrbXlPcjlSNFNOYzRKWDZYaExTMVJpVTFyaURPOUZwXzYwN29NRThqbXRUT0xFb3FKbHlUU1gxVGV0OTd4dXZp?oc=5",
       "summary": "MarketWatch 报道，高盛策略师就泡沫担忧作出回应，指出企业盈利增速远快于整体经济。该报道仅提供标题，未给出具体数据或政策细节。",
@@ -36606,13 +36606,13 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "经济产业",
+      "subdomain": "股市",
       "image": null
     },
     {
       "id": "2026-09-21-0095-h",
       "date": "2026-09-21",
-      "domain": "金融",
+      "domain": "国际形势",
       "title": "Axios：特朗普多次要求泽连斯基停止打击俄罗斯炼油厂",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3JzTl9OYkpvbVhmUkNHTjZXOGxaTXFlV1dNNGpSQXJqY2VGazI1UkpLZEFTcmNmd2k4QXVxNVF4OXk1NWlqRG9MMjhrSkdfVEE4M05fNHhMOXRpN1JmSWgxSU1jMFZBRnF0amd6NkNDYmhJOHl5QnQtbEtXQ2JvS2hJVWdXWWtKdUJzSHpVeG45dzE4UkE4RzBBclhZVjlERURvemxlenV0N2ZJd0ZDQ3Y5dDhEQ1lSMmlsSWRPYWZQMlRpaVHSAcYBQVVfeXFMTWtyc05fTmJKb21YZlJDR042VzhsWk1xZVdXTTRqUkFyamNlRmsyNVJKS2RBU3JjZndpOEF1cTVReDl5NTVpakRvTDI4a0pHX1RBODNOXzR4TDl0aTdSZkloMUlNYzBWQUZxdGpnejZDQ2JoSTh5eUJ0LWxLV0Nib0toSVVnV1lrSnVCc0h6VXhuOXcxOFJBOEcwQXJYWVY5REVEb3psZXp1dDdmSXdGQ0N2OXQ4RENZUjJpbElkT2FmUDJUaWlR?oc=5",
       "summary": "据 Axios 报道，美国总统特朗普多次要求乌克兰总统泽连斯基停止对俄罗斯炼油厂的打击。多家媒体转载了这一消息，包括 Hromadske、Meduza、The Telegraph、乌克兰真理报等。报道称，特朗普提出这一要求与柴油价格上涨有关，并提到特朗普与泽连斯基同意在纽约会面。目前该消息主要基于 Axios 单一信源的报道，所提供内容中缺乏更多细节和独立证实。",
@@ -36630,13 +36630,13 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "大宗商品",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
       "id": "2026-09-21-0005-h",
       "date": "2026-09-21",
-      "domain": "金融",
+      "domain": "科技产业（非 AI）",
       "title": "Bryan Cantrill 回顾 Sun Microsystems 的战略与技术失误",
       "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
       "summary": "Bryan Cantrill 发表了一篇题为《What Sun got wrong》的回顾文章，分析 Sun Microsystems 在战略和技术上的失误，该文在 Hacker News 上引发广泛讨论，获得 428 分和 241 条评论。评论者列举了 Sun 在 2000 年代的多项具体错误，包括 2002 年短暂取消 Solaris 的 x86 版本，以及未能与 Google 达成交易——据称 Sun 坚持要知道 Google 拥有多少台服务器，而 Google 视此为高度机密。多位评论者还提到 Sun 缺乏面向新客户的可行入门路径：当通用 x86 加 Linux 能以低得多的成本完成 SPARC 机器 99% 的工作时，客户没有理由投资 SPARC 和 Solaris。讨论还涉及 Sun 与 Digital（DEC）在 1990 年代末的采购体验远逊于 Dell，以及 Sun 股价从互联网泡沫顶峰的 70 美元跌至 7 美元的历史。",
@@ -36652,7 +36652,7 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "tech-news",
-      "subdomain": "股市",
+      "subdomain": "互联网大厂",
       "image": null
     },
     {
@@ -36674,7 +36674,7 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "",
+      "subdomain": "股市",
       "image": null
     },
     {
@@ -36710,7 +36710,7 @@
     {
       "id": "2026-09-21-0172-h",
       "date": "2026-09-21",
-      "domain": "金融",
+      "domain": "科技产业（非 AI）",
       "title": "中国监管放缓人形机器人 IPO 审批",
       "url": "https://www.reuters.com/business/finance/china-slows-humanoid-robot-ipo-rush-hype-outruns-reality-2026-09-21/",
       "summary": "据路透社报道，中国监管部门正通过非正式“窗口指导”放缓人形机器人企业 IPO，要求企业证明部署规模、订单量和商业可行性，目前尚无正式禁令。知情人士称，宇树科技上市初期股价剧烈波动是诱因，至少 6 家中国人形机器人企业正准备上市。",
@@ -36726,7 +36726,7 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "公司财务",
+      "subdomain": "机器人",
       "image": null
     },
     {
@@ -36800,7 +36800,7 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "公司财务",
+      "subdomain": "股市",
       "image": null
     },
     {
@@ -36844,7 +36844,7 @@
     {
       "id": "2026-09-21-0119-h",
       "date": "2026-09-21",
-      "domain": "金融",
+      "domain": "国际形势",
       "title": "巴基斯坦伊斯兰大会党因油价飙升向伊斯兰堡发起抗议游行",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
       "summary": "",
@@ -36861,13 +36861,13 @@
       "score": 7.0,
       "raw": "horizon",
       "profile": "general-news",
-      "subdomain": "大宗商品",
+      "subdomain": "地缘政治",
       "image": null
     },
     {
       "id": "2026-09-21-0186-h",
       "date": "2026-09-21",
-      "domain": "金融",
+      "domain": "国际形势",
       "title": "巴基斯坦在与伊朗达成协议后获得卡塔尔最新一批 LNG 货物",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdV9ZVTFyaGFBMHI3bVFJZEs2cFlZVUV6RV84dTdERlU2QndFelR0am9ReHdyeWdQZ29nU2puenlnc3dZMmRoY3lCR3RxbUNJR1ZtSzlOV2s0SGkzc28tazlJeE1VYVhDNG1lY3c0TF9fMFEyQ0pCQ2x6SFdvaXZWYkZvMmRwM3NJbVJFeTBRN3dWNU1xaEhZTkZnOXJLMGxzRkpsYWhFSFpuQTRhNUJncmJvdjg?oc=5",
       "summary": "据彭博社报道，巴基斯坦在与伊朗达成协议后，获得了来自卡塔尔的最新一批液化天然气（LNG）货物。报道未披露该批货物的数量、价格或协议的具体条款。",
@@ -36883,13 +36883,13 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "",
+      "subdomain": "外交",
       "image": null
     },
     {
       "id": "2026-09-21-0175-h",
       "date": "2026-09-21",
-      "domain": "金融",
+      "domain": "AI 行业发展",
       "title": "彭博社：美国价值 680 亿美元的新建数据中心受阻",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ3dvT3VPdjJrRkZCajBpNmREVjZuXzJ3ZmY4cThnX05ZZEQwX29pekF4VHNxNWZIUUVGLVhWX1BHYnVocTVHUDRYeEFza3UyZlpiTklQclVCbDBsdV91QmZSV2dJdmsxUGJHdlp5ZHg2M3RzYjJ2YVhxVHg0Q0k5c0ZDY2xBQjlnQklnbDRMd1pJbE9FMmtDUA?oc=5",
       "summary": "据彭博社报道，美国有价值 680 亿美元的新建数据中心项目受到干扰。该报道未提供干扰原因、涉及企业或统计口径等细节。",
@@ -36904,7 +36904,7 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "",
+      "subdomain": "算力基建",
       "image": null
     },
     {
@@ -36933,7 +36933,7 @@
     {
       "id": "2026-09-21-0192-h",
       "date": "2026-09-21",
-      "domain": "金融",
+      "domain": "科技产业（非 AI）",
       "title": "日产在南非推出印度产 SUV，此前已将当地工厂出售给奇瑞",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVGh3UGZ6UVRrQ0c2eHFZVW00QmF1VEcxQ1FtVzZzNEtBMTBSSDVVVmMzRHo3XzJBWHlNV3A4c0lmb0hYb1BRTUFLNHNUd0E2N2pRSWQzc2FzRHZaT1Z4b05KaFRMT3I2dHYteTBPMVRKczVzWF8zakNRU2hXZGZQa29JUnVhYmt3Zlluc0drcDBhbzRPM243a3JieUpEN0xOSGpZVDJ5Z3hQLWFyYURQWWh2S2VSampwR3VMcUVZTzJFeVNrM09fWEpsMklOUDF6?oc=5",
       "summary": "日产在南非推出一款印度制造的 SUV，售价为 20,940 美元。此前，日产已将位于南非的工厂出售给中国车企奇瑞。",
@@ -36949,7 +36949,7 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "",
+      "subdomain": "消费电子",
       "image": null
     },
     {
@@ -36971,13 +36971,13 @@
       "score": 6.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "股市",
+      "subdomain": "大宗商品",
       "image": null
     },
     {
       "id": "2026-09-21-0162-h",
       "date": "2026-09-21",
-      "domain": "金融",
+      "domain": "文体与社会热点",
       "title": "派拉蒙与 12 州达成和解，为 1100 亿美元华纳兄弟交易扫清障碍",
       "url": "https://www.ft.com/content/0bfc882f-fe1b-40cb-a356-162e833f2008?syn-25a6b1a6=1",
       "summary": "派拉蒙与 12 个州就反垄断诉讼达成和解，为其 1100 亿美元收购华纳兄弟探索的交易扫清障碍；和解条款包括不剥离资产、将运营保留在加利福尼亚州，并设立新闻编辑独立委员会以维护 CBS 新闻和 CNN 的编辑独立性。",
@@ -36993,7 +36993,7 @@
       "score": 8.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "",
+      "subdomain": "文化",
       "image": null
     },
     {
@@ -37021,7 +37021,7 @@
     {
       "id": "2026-09-21-0161-h",
       "date": "2026-09-21",
-      "domain": "金融",
+      "domain": "文体与社会热点",
       "title": "美国饮酒量疫情后首次下降，但各年龄组趋势不一",
       "url": "https://www.nbcnews.com/health/health-news/drinking-alcohol-down-after-pandemic-age-generation-gender-rcna598414",
       "summary": "## 财经新闻",
@@ -37037,7 +37037,7 @@
       "score": 5.0,
       "raw": "horizon",
       "profile": "finance-news",
-      "subdomain": "",
+      "subdomain": "舆情热点",
       "image": null
     },
     {
@@ -37140,7 +37140,7 @@
       "id": "2026-09-22-0005",
       "date": "2026-09-22",
       "domain": "AI 行业发展",
-      "subdomain": "",
+      "subdomain": "生物技术",
       "title": "3 分钟 20cm 封板！AI 制药迎海内外双催化 Claude 时刻即将到来？",
       "url": "https://finance.eastmoney.com/news/11822,202609213879818095.html",
       "summary": "（东方财富，2026-09-21）— AI 制药概念股异动（**行情/概念解读稿，非事实通稿，「Claude 时刻」为评论措辞**；与上条 DAMO RADAR 同属「AI+医疗」催化簇）。",
@@ -37155,7 +37155,7 @@
       "id": "2026-09-22-0006",
       "date": "2026-09-22",
       "domain": "AI 行业发展",
-      "subdomain": "开源生态",
+      "subdomain": "今日 Trending",
       "title": "不会说话的 Jev，为什么爆火？",
       "url": "https://www.sohu.com/a/1079005971_120603108",
       "summary": "（搜狐，2026-09-21）— TypeSafe 的 **Jev「判断模型」**热度延续（与 9/21 digest 同链）。**本日新增可观测证据在「每日开源项目」板块**：近 24h star 增量榜前 10 名中至少 4 个是 Jev 复现/工具链仓库，GitHub 当日新建仓库里也有一整簇 Jev 相关项目——**这是「新范式 48 小时内被复现」这一判断在当日榜单上的直接体现**。",
@@ -37200,7 +37200,7 @@
       "id": "2026-09-22-0004",
       "date": "2026-09-22",
       "domain": "AI 行业发展",
-      "subdomain": "",
+      "subdomain": "行业应用",
       "title": "安克创新与阿里云围绕全栈 AI 达成战略合作",
       "url": "https://stcn.com/article/detail/4192899.html",
       "summary": "（证券时报，2026-09-21；[网易同稿](https://www.163.com/dy/article/L7BULJT9053469RG.html)）— 消费电子厂商与云厂商的**全栈 AI 合作**（合作金额与范围未在标题层披露）。",
@@ -37305,7 +37305,7 @@
       "id": "2026-09-22-0025",
       "date": "2026-09-22",
       "domain": "国内民生新闻",
-      "subdomain": "",
+      "subdomain": "民生政策",
       "title": "市场监管总局发布月饼专项监督抽检情况",
       "url": "https://fund.eastmoney.com/a/202609213880203046.html",
       "summary": "（央视新闻联播，2026-09-21）— **抽检合格率 97.67%**，产品安全状况总体稳定（**临近中秋的节令性抽检**）。",
@@ -37320,7 +37320,7 @@
       "id": "2026-09-22-0013",
       "date": "2026-09-22",
       "domain": "国际形势",
-      "subdomain": "",
+      "subdomain": "军事冲突",
       "title": "乌克兰：10 个州关键基础设施遭袭",
       "url": "https://finance.sina.com.cn/wm/2026-09-21/doc-inisqzxx9217628.shtml",
       "summary": "（新浪财经，2026-09-21）— 乌方称**击落和压制 147 架无人机、境内 14 处地点被无人机击中**（**乌方单方战报口径**；[同链另一稿](https://finance.sina.com.cn/wm/2026-09-21/doc-inisqzyc2765349.shtml)）。",
@@ -37350,7 +37350,7 @@
       "id": "2026-09-22-0015",
       "date": "2026-09-22",
       "domain": "国际形势",
-      "subdomain": "地缘政治",
+      "subdomain": "演习演训",
       "title": "北 잇단 도발후…해병대, 서북도서 K9자주포 등 200발 쐈다",
       "url": "https://www.donga.com/news/Politics/article/all/20260921/134711358/1",
       "summary": "（东亚日报，2026-09-21；[中央日报同题](https://www.joongang.co.kr/article/25463684)）— **韩国海军陆战队在西北岛屿以 K9 自行火炮、「天橆」多管火箭等射击 200 发**，作为对朝连续挑衅的回应（**韩媒口径**；跨「国防/军工」）。",
@@ -37395,7 +37395,7 @@
       "id": "2026-09-22-0048",
       "date": "2026-09-22",
       "domain": "国际焦点事件、重大会议",
-      "subdomain": "国际组织",
+      "subdomain": "重大会议",
       "title": "战争、AI 与气候问题令联合国世界领导人会议升温",
       "url": "http://vov.vn/the-gioi/ho-so/chien-tranh-ai-va-khi-hau-lam-nong-hoi-nghi-lanh-dao-the-gioi-tai-lien-hop-quoc-post1334689.vov",
       "summary": "（越南之声，2026-09-21）— **战争、AI 与气候**构成联大领导人会议三大热点（**与联合国中文稿的三大重点完全一致，构成跨语种互证**）。",
@@ -37425,7 +37425,7 @@
       "id": "2026-09-22-0047",
       "date": "2026-09-22",
       "domain": "国际焦点事件、重大会议",
-      "subdomain": "",
+      "subdomain": "外交",
       "title": "高市打算在联大演讲中强调日本将肩负重要责任",
       "url": "http://emb3.nhk.or.jp/nhkworld/zh/news/nd-20260921de51459/",
       "summary": "（NHK World 中文，2026-09-21）— 日本首相联大演讲方向（**日方口径**）。",
@@ -37440,7 +37440,7 @@
       "id": "2026-09-22-0046",
       "date": "2026-09-22",
       "domain": "国际焦点事件、重大会议",
-      "subdomain": "",
+      "subdomain": "重大会议",
       "title": "유엔총회 개막·미중 정상회담…이번주 세계 정상외교 '슈퍼위크'",
       "url": "https://www.yna.co.kr/view/AKR20260921004100072",
       "summary": "（韩联社，2026-09-21）／[미·이란·우크라 등 각국 정상 집결…뉴욕 유엔총회 22일 개막](https://www.yna.co.kr/view/AKR20260921004100072?section=international/all)（韩联社，2026-09-21）— **纽约本周同时承载联大一般性辩论与中美元首外交**，被韩媒定性为「世界首脑外交超级周」（**第三方视角交叉印证**；「中美元首会谈」已由 9/21 中方外交部通稿确认访问安排）。",
@@ -37455,7 +37455,7 @@
       "id": "2026-09-22-0032",
       "date": "2026-09-22",
       "domain": "教育政策",
-      "subdomain": "",
+      "subdomain": "教育数字化",
       "title": "20260921《全国教育新闻联播》全集",
       "url": "http://www.centv.cn/jylbqj/p/604200.html",
       "summary": "（中国教育电视台，2026-09-21）— 当日教育新闻总目入口（**视频页，未取正文**）。",
@@ -37485,7 +37485,7 @@
       "id": "2026-09-22-0029",
       "date": "2026-09-22",
       "domain": "教育政策",
-      "subdomain": "",
+      "subdomain": "高等教育",
       "title": "国新办举行「开局起步『十五五』」系列主题新闻发布会 介绍贯彻落实「十五五」规划，加快推进教育强国建设有关情况",
       "url": "http://www.scio.gov.cn./xwfb/fbhyg_13737/zxyg/202609/t20260921_1009161.html",
       "summary": "（国务院新闻办，2026-09-21）— ⚠️ **降级③：该正文页返回 `unsupported content type`，本次未取到发布会正文**，只保留发布会议题与时间。**「加快推进教育强国建设」是当日国新办两场『十五五』发布会之一（另一场为粮食流通），建议次日补取全文。**",
@@ -37500,7 +37500,7 @@
       "id": "2026-09-22-0033",
       "date": "2026-09-22",
       "domain": "教育政策",
-      "subdomain": "高等教育",
+      "subdomain": "职业教育",
       "title": "新闻联播：我国推出新举措加快数字经济领域复合型人才培养",
       "url": "https://news.nankai.edu.cn/mtnk/system/2026/09/19/030074321.shtml",
       "summary": "（南开大学转央视新闻联播，2026-09-19，**跨窗口**）— 数字经济领域**复合型人才培养**新举措（**职业教育 / 高等教育人才供给方向**）。",
@@ -37515,7 +37515,7 @@
       "id": "2026-09-22-0095",
       "date": "2026-09-22",
       "domain": "文体与社会热点",
-      "subdomain": "",
+      "subdomain": "法治",
       "title": "《今日说法》20260921 舆情敲诈需严惩",
       "url": "https://tv.cctv.cn/2026/09/21/VIDE7XBcu5xTmgyzqU7mxLnE260921.shtml",
       "summary": "（央视，2026-09-21）— **舆情敲诈**专题（与「8 点见」里的自媒体舆情事件、锅盔店误读事件构成同日「网络舆情治理」簇）。",
@@ -37560,7 +37560,7 @@
       "id": "2026-09-22-0093",
       "date": "2026-09-22",
       "domain": "文体与社会热点",
-      "subdomain": "",
+      "subdomain": "电影",
       "title": "中秋档影院：江湖萧瑟，复联复映感情复杂",
       "url": "https://web.ahnews.com.cn/toutiao/dist/2026/09/553891.html",
       "summary": "（安徽网，2026-09-21）— 中秋档复映片策略的行业观察（**评论稿**）。",
@@ -37620,7 +37620,7 @@
       "id": "2026-09-22-0009",
       "date": "2026-09-22",
       "domain": "有机合成重大进展",
-      "subdomain": "新反应新方法",
+      "subdomain": "催化",
       "title": "通过镍/光氧化还原双重协同催化实现含硫季碳手性中心的不对称合成",
       "url": "https://pubs.acs.org/orlef7/article-abstract/doi/10.1021/acs.orglett.6c03299/5422133/Asymmetric-Synthesis-of-Sulfur-Containing",
       "summary": "（Organic Letters，DOI: 10.1021/acs.orglett.6c03299）— **镍/光氧化还原双催化构建含硫季碳手性中心**（与上条同属 Ni/光 redox 方向，同日同域命中）。",
@@ -37635,7 +37635,7 @@
       "id": "2026-09-22-0010",
       "date": "2026-09-22",
       "domain": "有机合成重大进展",
-      "subdomain": "新反应新方法",
+      "subdomain": "全合成",
       "title": "通过有机-SOMO 催化实现 (+)-Subincanadine F 的对映选择性全合成",
       "url": "https://pubs-acs-org-443.webvpna.lzu.edu.cn/doi/pdf/10.1021/acs.orglett.5c04906",
       "summary": "（Organic Letters，DOI: 10.1021/acs.orglett.5c04906）— **有机 SOMO 催化完成 (+)-subincanadine F 的对映选择性全合成**（吲哚生物碱，单电子氧化策略）。",
@@ -37695,7 +37695,7 @@
       "id": "2026-09-22-0053",
       "date": "2026-09-22",
       "domain": "每日开源项目",
-      "subdomain": "开发者工具",
+      "subdomain": "今日新上架",
       "title": "Finderchangchang/jev-chat-JARVIS",
       "url": "https://github.com/Finderchangchang/jev-chat-JARVIS",
       "summary": "★813（Kotlin，MIT）— 当日新建仓库 star 最高者；**无仓库描述**，命名指向 Jev 对话/助手方向（**内容未核**）。",
@@ -37725,7 +37725,7 @@
       "id": "2026-09-22-0062",
       "date": "2026-09-22",
       "domain": "每日开源项目",
-      "subdomain": "今日新上架",
+      "subdomain": "AI工具",
       "title": "KaLM-Embedding/KaLM-Jev",
       "url": "https://github.com/KaLM-Embedding/KaLM-Jev",
       "summary": "★26（Python）— 本地 Jev 风格判断引擎，提供 **Nano / Small / Large** 三档。",
@@ -37740,7 +37740,7 @@
       "id": "2026-09-22-0061",
       "date": "2026-09-22",
       "domain": "每日开源项目",
-      "subdomain": "AI工具",
+      "subdomain": "开发者工具",
       "title": "RenaGao/jev-dataops",
       "url": "https://github.com/RenaGao/jev-dataops",
       "summary": "★35（Python）— **JEV 驱动的数据运维工作台**：流式数据选择、质量评估、自动 LoRA 训练与留出集模型评估。",
@@ -37785,7 +37785,7 @@
       "id": "2026-09-22-0060",
       "date": "2026-09-22",
       "domain": "每日开源项目",
-      "subdomain": "今日新上架",
+      "subdomain": "开发者工具",
       "title": "baoerger/editable-ppt-rebuilder",
       "url": "https://github.com/baoerger/editable-ppt-rebuilder",
       "summary": "★36（Python）— 把位图幻灯片重建为**可编辑 PPT** 的可审计工作流：OCR + 语义资产 + ImageGen + 严格 QA（**与本地 ppt-master / pptx 技能同域，值得回看**）。",
@@ -37830,7 +37830,7 @@
       "id": "2026-09-22-0058",
       "date": "2026-09-22",
       "domain": "每日开源项目",
-      "subdomain": "今日新上架",
+      "subdomain": "开发者工具",
       "title": "fstandhartinger/chat-seek-vscode",
       "url": "https://github.com/fstandhartinger/chat-seek-vscode",
       "summary": "★50（JavaScript）— 在本地对 **Claude Code / Codex / OpenCode 的对话历史做 VS Code 内搜索**，用 **Laya 重排序**。",
@@ -37860,7 +37860,7 @@
       "id": "2026-09-22-0059",
       "date": "2026-09-22",
       "domain": "每日开源项目",
-      "subdomain": "AI工具",
+      "subdomain": "应用",
       "title": "tonychuhai/Cove",
       "url": "https://github.com/tonychuhai/Cove",
       "summary": "★45（JavaScript）— **macOS 桌面「活场景」**：一个能钓鱼的水族箱、一只追着鼠标扫帚咬的垂耳兔（Three.js）。",
@@ -37875,7 +37875,7 @@
       "id": "2026-09-22-0087",
       "date": "2026-09-22",
       "domain": "科技产业（非 AI）",
-      "subdomain": "",
+      "subdomain": "股市",
       "title": "C沈鼓跌幅收窄至 16.91% 触发二次临停",
       "url": "http://finance.eastmoney.com/news/1345,202609213879609432.html",
       "summary": "（东方财富，2026-09-21）— 新股上市首日大幅波动（行情稿）。",
@@ -37890,7 +37890,7 @@
       "id": "2026-09-22-0085",
       "date": "2026-09-22",
       "domain": "科技产业（非 AI）",
-      "subdomain": "互联网大厂",
+      "subdomain": "芯片半导体",
       "title": "国产内存迎高端化突破 长鑫科技第五代技术平台量产",
       "url": "https://www.cnfin.com/gs-lb/detail/20260921/4472610_1.html",
       "summary": "（中国金融信息网，2026-09-21；[21 世纪经济报道](https://www.sfccn.com/2026/9-21/4OMDE0MDdfMjI0Nzc4OA.html)；[同花顺：长鑫科技宣布第五代 DRAM 技术平台量产，早盘一度涨超 5%](http://stock.10jqka.com.cn/20260921/c680120032.shtml)）— **长鑫科技第五代 DRAM 技术平台量产**（国产内存高端化突破信号）；同日另有澄清稿：[长鑫科技：基于第五代工艺技术平台的量产产品尚未形成规模销售](https://news.qq.com/rain/a/20260921A06OVY00)（腾讯新闻，2026-09-21）——⚠️ **「宣布量产」与「尚未形成规模销售」是同一公司的两套口径，阅读时勿混为一谈，建议建「数字口径表」跟踪**。",
@@ -37905,7 +37905,7 @@
       "id": "2026-09-22-0037",
       "date": "2026-09-22",
       "domain": "科研与科技政策",
-      "subdomain": "",
+      "subdomain": "学术事件",
       "title": "80 后中国女科学家连续在三大国际顶刊发文",
       "url": "https://static.cdsb.com/micropub/Articles/202609/2aa56cacd37514fab765902c5b6657a4.html",
       "summary": "（成都商报，2026-09）— ⚠️ **降级④：正文页只返回标题，未取到姓名与具体期刊**，只作线索保留，**不展开**。",
@@ -37935,7 +37935,7 @@
       "id": "2026-09-22-0036",
       "date": "2026-09-22",
       "domain": "科研与科技政策",
-      "subdomain": "基金项目",
+      "subdomain": "催化",
       "title": "我国学者在不对称光催化领域取得进展",
       "url": "https://www.nsfc.gov.cn/p1/3381/2825/141825.html",
       "summary": "（国家自然科学基金委化学科学部，**发布日期 2026-09-08，跨窗口**）— 南方科技大学谭斌团队（批准号 22425011、22231004、22371113、22271135），原文 2026-05-22 在线发表于 *Science*（DOI: 10.1126/science.aeb8506）。详见「有机合成」板块。",
@@ -37950,7 +37950,7 @@
       "id": "2026-09-22-0038",
       "date": "2026-09-22",
       "domain": "科研与科技政策",
-      "subdomain": "学术事件",
+      "subdomain": "科研生态",
       "title": "赛迪顾问发布《前沿技术预测预见研究》",
       "url": "http://m.chinadevelopment.com.cn/?s=index/article/id/2014589/url/http://www.chinadevelopment.com.cn/xc/2026/0909/2014589.shtml",
       "summary": "（中国发展网，2026-09-09，**跨窗口**）— 前沿技术预见研究发布（**智库口径，作趋势参考而非事实**）。",
@@ -37995,7 +37995,7 @@
       "id": "2026-09-22-0039",
       "date": "2026-09-22",
       "domain": "能源与新材料",
-      "subdomain": "",
+      "subdomain": "民生政策",
       "title": "国家能源局：8 月全社会用电量再次突破万亿千瓦时",
       "url": "https://tv.cctv.com/2026/09/21/VIDEIjKctXOvmQ99GqBShLha260921.shtml",
       "summary": "（央视《朝闻天下》，2026-09-21）— **8 月全社会用电量再破万亿千瓦时**（[央视稿同链](https://finance.sina.cn/2026-09-21/detail-inisppwn6183266.d.html)另称**负荷创历史新高**）。",
@@ -38040,7 +38040,7 @@
       "id": "2026-09-22-0041",
       "date": "2026-09-22",
       "domain": "能源与新材料",
-      "subdomain": "",
+      "subdomain": "电池储能",
       "title": "科达制造：拟约 45 亿元投建年产 50 万吨石墨负极材料一体化项目",
       "url": "https://finance.ifeng.com/c/8wbXFZUoiqL",
       "summary": "（凤凰财经，2026-09-21）— **50 万吨石墨负极一体化**（负极材料大扩产，与「金融」板块同一公告）。",
@@ -38055,7 +38055,7 @@
       "id": "2026-09-22-0027",
       "date": "2026-09-22",
       "domain": "重大政策（国内）",
-      "subdomain": "",
+      "subdomain": "社会事件",
       "title": "2026 年 9 月 21 日涉警信息",
       "url": "https://www.cpd.com.cn/n15737398/n26490097/bmt1/926/t_1251075.html",
       "summary": "（中国警察网，2026-09-21）— 当日公安系统信息汇总入口（**未逐条核内容**）。",
@@ -38070,7 +38070,7 @@
       "id": "2026-09-22-0028",
       "date": "2026-09-22",
       "domain": "重大政策（国内）",
-      "subdomain": "社会民生",
+      "subdomain": "高等教育",
       "title": "中办、国办印发《关于分类推进高校改革的意见》",
       "url": "https://www.news.cn/politics/zywj/20260921/877cb10700234e85a70ad65a18422b98/c.html",
       "summary": "（新华社，2026-09-21 页面）— 与 9/21 digest 已收文件同链（**跨「教育政策」**；本条给出新华网当日的正式文件页入口）。",
@@ -38115,7 +38115,7 @@
       "id": "2026-09-22-0018",
       "date": "2026-09-22",
       "domain": "金融",
-      "subdomain": "",
+      "subdomain": "央行政策",
       "title": "金十数据全球财经早餐",
       "url": "https://xnews.jin10.com/details/230541",
       "summary": "（金十数据，2026-09-21）— 当日全球宏观数据与事件总目（**开盘前汇总稿，非单一事实来源**）。",
