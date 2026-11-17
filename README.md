@@ -39,3 +39,15 @@ update_site.bat
 ```
 
 构建产物在 `output/新闻可视化/`，推送后 GitHub Pages 自动生效。
+
+## 仓库结构
+
+| 路径 | 作用 | 是否生成 |
+|---|---|---|
+| `index.html` / `dashboard.html` / `map.html` | 站点页面 | 每天构建生成 |
+| `assets/` | 前端 bundle | 构建生成 |
+| `data/news.json` | 7 天窗口新闻数据 | 管线生成 |
+| `covers/` | 旧封面图（2026-08/09，当前站点未引用，**待清理**） | 历史遗留 |
+| `docs/methodology/` | 新闻分析方法论（框架 / 模板 / 文献笔记 / 案例 / 预测台账） | 手写文档 |
+
+体检与整理建议见 [`docs/仓库结构.md`](docs/仓库结构.md)。

@@ -1,0 +1,10 @@
+# 临时与产物
+_tmp/
+output/
+node_modules/
+*.tmp
+*.log
+
+# 系统
+.DS_Store
+Thumbs.db
