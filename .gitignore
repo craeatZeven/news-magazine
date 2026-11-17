@@ -8,3 +8,6 @@ node_modules/
 # 系统
 .DS_Store
 Thumbs.db
+
+# 封面图不入库（历史遗留，见 docs/仓库结构.md）
+covers/
