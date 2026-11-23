@@ -3,7 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>今日日报 · 经济与时政</title>
+<link rel="icon" type="image/png" href="assets/brand/favicon.png">
+<title>准讯周报 · 今日日报</title>
 <style>
 
   :root {
@@ -88,9 +89,20 @@
     display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 16px;
   }
   .brand {
-    display: inline-flex; align-items: center; min-height: 44px;
+    display: inline-flex; align-items: center; gap: 10px; min-height: 44px;
     font-family: var(--serif); font-size: var(--fs-h3); font-weight: 700;
     letter-spacing: 0.04em; color: var(--chrome-ink); text-decoration: none;
+  }
+  .brand-logo {
+    width: 32px; height: 32px; flex: 0 0 32px; padding: 2px;
+    border-radius: 50%; background: var(--chrome-ink); object-fit: contain;
+  }
+  .footer-brand {
+    display: inline-flex; align-items: center; gap: 8px;
+  }
+  .footer-logo {
+    width: 22px; height: 22px; flex: 0 0 22px; padding: 1px;
+    border-radius: 50%; background: var(--paper-elev); object-fit: contain;
   }
   .nav-group { display: flex; flex-wrap: wrap; align-items: center; gap: 18px; }
   .nav-link {
@@ -323,7 +335,8 @@
       padding: 4px max(12px, env(safe-area-inset-left)) 4px max(12px, env(safe-area-inset-right));
       gap: 4px 10px;
     }
-    .brand { font-size: var(--fs-body); }
+    .brand { font-size: var(--fs-body); gap: 8px; }
+    .brand-logo { width: 28px; height: 28px; flex: 0 0 28px; }
     .nav-group { gap: 12px; }
     .chrome-ctrl { width: 100%; justify-content: space-between; }
     .issue-sel { flex: 1; max-width: none; height: 44px; padding: 0 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
@@ -592,7 +605,7 @@
 
 <header class="layer-chrome">
   <div class="chrome-inner">
-    <a class="brand" href="index.html">经济与时政日报</a>
+    <a class="brand" href="index.html"><img class="brand-logo" src="assets/brand/logo.png" alt="" width="32" height="32" aria-hidden="true"><span>准讯周报</span></a>
     <nav class="nav-group" aria-label="主导航">
       <a class="nav-link active" href="index.html" aria-current="page">今日日报</a>
       <a class="nav-link" href="weekly.html">深度周刊</a>
@@ -606,8 +619,8 @@
 <main class="daily-shell" id="daily-main"></main>
 
 <footer class="site-footer">
-  <span>每日简报与周末长文 · 事实核验、平实写作</span>
-  <a href="weekly.html">阅读本周深度周刊 →</a>
+  <span class="footer-brand"><img class="footer-logo" src="assets/brand/logo.png" alt="" width="22" height="22" aria-hidden="true"><span>准讯周报 · 每日简报与周末长文 · 事实核验、平实写作</span></span>
+  <a href="weekly.html">阅读本期准讯周报 →</a>
 </footer>
 
 <button class="back-top" id="back-top" type="button" aria-label="返回顶部">↑</button>
@@ -1064,7 +1077,7 @@
           </figure>
         ` : ""}
         <div>
-          <p class="wb-kicker">本周深度周刊 · ${esc(wk.week)}（${esc(wk.range || "")}）</p>
+          <p class="wb-kicker">准讯周报 · ${esc(wk.week)}（${esc(wk.range || "")}）</p>
           <h2 class="wb-title">${esc(wk.title)}</h2>
           <ul class="wb-links">
             ${(wk.stories || []).map((st, idx) => `
@@ -1074,7 +1087,7 @@
               </a></li>
             `).join("")}
           </ul>
-          <a class="btn-primary" href="weekly.html">进入深度周刊封面 →</a>
+          <a class="btn-primary" href="weekly.html">进入准讯周报封面 →</a>
         </div>
       </section>
     ` : "";
